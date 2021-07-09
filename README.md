@@ -73,25 +73,24 @@
 
 ### Books
 
-Authored books
+#### Authored books
 
 1. Yipeng Liu, Jiani Liu, Zhen Long, Ce Zhu, Tensor Computation for Data Analysis, New York, USA: Springer, 2021. ebook ISBN: 978-3-030-74386-4, Hardcover ISBN: 978-3-030-74385-7, DOI: 10.1007/978-3-030-74386-4, online available at: https://www.springer.com/us/book/9783030743857
 
-Edited Books
+#### Edited Books
 
 1. Yipeng Liu, Tensors for Data Processing, London, UK:  Academic Press (Elsevier), 2021. ISBN: 9780128244470. online available at: https://www.elsevier.com/books/tensors-for-data-processing/liu/978-0-12-824447-0
 
-Book chapters
+#### Book chapters
 
 1. Yingyue Bi, Yingcong Lu, Zhen Long, Ce Zhu, and Yipeng Liu, "Tensor Decompositions: Computations, Applications, and Challenges," Tensors for Data Processing, Academic Press (Elsevier), 2021. 
 
 2. Fei Wen, Zhonghao Zhang, and Yipeng Liu, "Generalized Thresholding for Low-rank Tensor Recovery: Approaches based on Model and Learning," Tensors for Data Processing,  Academic Press (Elsevier),  2021.
 
 
-
 ### Papers
 
-2021
+#### 2021
 
 1. Zhen Long, Ce Zhu, Jiani Liu, Yipeng Liu, "Bayesian Low Rank Tensor Ring for Image Recovery,"  IEEE Transactions on Image Processing,  vol. 30, pp. 3568-3580, 2021. DOI: 10.1109/TIP.2021.3062195. [codes]
 
@@ -106,8 +105,7 @@ Book chapters
 6. Shenghan Wang, Yangyang Jiang, Hengling Zhao, Xue Yang, Zhonghao Zhang, Ce Zhu, Ying Li, Yipeng Liu, "Smart Dysphagia Detection System with Adaptive Boosting Analysis of Throat Signals,"  The IEEE International Symposium on Circuits and Systems (ISCAS 2021), Daegu, Korea, May 22-28, 2021.
 
 
-
-2020
+#### 2020
 
 1.Jiani Liu, Ce Zhu, Yipeng Liu, "Smooth Compact Tensor Ring Regression," IEEE Transactions on Knowledge and Data Engineering, 2020. DOI: 10.1109/TKDE.2020.3037131. [codes]
 
@@ -130,8 +128,7 @@ Book chapters
 10.Lanlan Feng, Shenghan Wang, Ce Zhu, Yipeng Liu, "Recent Advances on Robust Tensor Principal Component Analysis",  IJCAI-PRICAI 2020 workshop on Tensor Network Representations in Machine Learning, Yokohama, Japan,  January 7 - 15,  2021. [codes]
 
 
-
-2019
+#### 2019
 
 1.Liaqat Ali, Ce Zhu, Zhonghao Zhang, Yipeng Liu, "Automated Detection of Parkinson’s Disease Based on Multiple Types of Sustained Phonations using Linear Discriminant Analysis and Genetically Optimized Neural Network," IEEE Journal of Translational Engineering in Health and Medicine, vol. 7,  2019. [codes]
 
@@ -156,8 +153,7 @@ Book chapters
 11.Yuyang Liu, Hongwei Guo, Ce Zhu, Yipeng Liu, “Spherical Position Dependent Rate-Distortion Optimization for 360-Degree Video Coding”, Asia-Pacific Signal and Information Processing Association (APSIPA), Lanzhou, China, November 18-21, 2019.
 
 
-
-2018
+#### 2018
 
 1.Yipeng Liu, Longxi Chen, Ce Zhu, "Improved Robust Tensor Principal Component Analysis via Low Rank Core Matrix," IEEE Journal of Selected Topics in Signal Processing, vol. 12, no. 6, pp. 1378 - 1389, 2018.   [codes]
 
@@ -178,8 +174,7 @@ Book chapters
 9.Fan Huang , Sung-han Lin , Chin-Song Lu , Yi-Hsin Weng , Yao-Liang Chen , Shu-Hang Ng , Yi-Ming Wu , Chih-Chien Tsai , Yipeng Liu , and Jiun-Jie Wang, "Differential diagnosis in Parkinsonism using diffusion tensor as measured from multiple cortical regions," Joint Annual Meeting ISMRM-ESMRMB, Paris, France, 16-21 June 2018.
 
 
-
-2017
+#### 2017
 
 1.Yipeng Liu, Shan Wu, Xiaolin Huang, Bing Chen, Ce Zhu, "Hybrid CS-DMRI: Periodic Time-Variant Subsampling and Omnidirectional Total Variation Based Reconstruction," IEEE Transactions on Medical Imaging, vol. 36, no. 10, pp. 2148 - 2159, 2017. [codes]
 
@@ -206,16 +201,14 @@ Book chapters
 12.Chao Zhang, Ce Zhu, Yipeng Liu, Hongdiao Wen, Zhengtao Wang, "Image ordinal estimation: classification and regression benefit each other," APSIPA ASC 2017, Kuala Lumpur, Malaysia, 12-15 Dec. 2017.
 
 
-
-2016
+#### 2016
 
 1.Xinyu Lin, Ce Zhu, Qian Zhang, Yipeng Liu, "3D Interest Point Detection Based on Geometric Measures and Sparse Refinement," The 18th International Workshop on Multimedia Signal Processing (MMSP 2016), Montreal, Canada, 21-23 September 2016.
 
 2.Fei Wen, Peilin Liu, Yipeng Liu, Robert C. Qiu, Wenxian Yu, "Robust sparse recovery for compressive sensing in impulsive noise using Lp-norm model fitting," The 41st IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2016), Shanghai, China, Mar. 20-25, 2016.
 
 
-
-2015
+#### 2015
 
 1.Yipeng Liu, Maarten De Vos, Sabine Van Huffel, “Compressed Sensing of Multi-Channel EEG Signals: The Simultaneous Cosparsity and Low Rank Optimization,” IEEE Transactions on Biomedical Engineering, vol. 62, no. 8, pp. 2055-2061, Aug. 2015.  [codes]
 
@@ -228,8 +221,7 @@ Book chapters
 5.Hui Wang, Xiaolin Huang, Yipeng Liu, Sabine Van Huffel and Qun Wan, “Binary Reweighted l1 -norm Minimization for One-Bit Compressed Sensing,” The 8th International Joint Conference on Biomedical Engineering Systems and Technologies, Portugal, Lisbon, Jan. 12 - 15 2015.
 
 
-
-2014
+#### 2014
 
 1.Rong Fan, Qun Wan, Fei Wen, Hui Chen and Yipeng Liu, “Iterative projection approach for phase retrieval of semi-sparse wave field,” EURASIP Journal on Advances in Signal Processing, no.24, Feb. 2014.
 
@@ -240,8 +232,7 @@ Book chapters
 4.Yurrit Avonds, Yipeng Liu, and Sabine Van Huffel. "Simultaneous Greedy Analysis Pursuit for Compressive Sensing of Multi-Channel ECG Signals.", The 36th Annual International Conference of the Engineering in Medicine and Biology Society (IEEE EMBC 2014), Chicago, USA, August 26-30, 2014.
 
 
-
-2013
+#### 2013
 
 1.Yipeng Liu, Maarten De Vos, Ivan Gligorijevic, Vladimir Matic, Yuqian Li, Sabine Van Huffel, "Multi-Structural Signal Recovery for Biomedical Compressive Sensing,'' IEEE Transactions on Biomedical Engineering, vol. 60, no. 10, pp. 2794 – 2805, Oct. 2013. [codes]
 
@@ -252,8 +243,7 @@ Book chapters
 4.Qingshan You, Qun Wan, Yipeng Liu, "A short note on Strongly Convex Programming for Exact Matrix Completion and Robust Principal Component Analysis," Inverse Problems and Imaging , vol. 7, no. 1, pp. 305-306, Feb. 2013.
 
 
-
-2012
+#### 2012
 
 1.Yipeng Liu, Qun Wan, “Sidelobe Suppression for Robust Capon Beamforming with Mainlobe to Sidelobe Power Ratio Maximization,” IEEE Antennas and Wireless Propagation Letters, vol. 11, pp. 1218-1221, Oct. 2012.
 
@@ -266,8 +256,7 @@ Book chapters
 5.Fei Wen, Qun Wan, Yipeng Liu, “Passive Time Delay Estimation for Complex Noncircular Signals”, International Symposium on Electronics and Telecommunications, Timisoara, Romania, Nov. 15-16. 2012.
 
 
-
-2011
+#### 2011
 
 1.Yipeng Liu, Qun Wan and Xiaoli Chu, "Power-Efficient Ultra-wideband waveform design considering radio channel," Radioengineering, vol. 20, no. 1, pp. 179-183, Apr. 2011.
 
@@ -280,8 +269,7 @@ Book chapters
 5.Yanan Zhang, Yipeng Liu, Qun Wan, Fast Compressive Wideband Spectrum Sensing Based on Dictionary Linear Combination, 2011 7th International Conference on Wireless Communications, Networking and Mobile Computing (WiCOM 2011), Wuhan, China, 23-25 Sept. 2011.
 
 
-
-2010
+#### 2010
 
 1.Yipeng Liu, Qun Wan, “Robust Beamformer Based on Total Variation Minimization and Sparse Constraint,” Electronics Letters, vol. 46, no. 25, pp. 1697- 1699, Dec. 2010.
 
@@ -290,23 +278,17 @@ Book chapters
 3.Ruiming, Yang, Yipeng Liu, Qun Wan, Wanlin Yang, "Direction finding via beam scanning and sparse reconstruction," The Second International Conference on Networks Security Wireless Communications and Trusted Computing (NSWCTC 2010), Wuhan, China, 24-25 April 2010, Volume 2, pp. 7 – 9
 
 
-
-2009
+#### 2009
 
 1.Yipeng Liu and Qun Wan, "Improved anti-NBI UWB waveform design based on spectral factorization," The International Conference on Communications and Mobile Computing 2009 (CMC 2009), Kuming, China, Jan. 2009.
 
 2.Hui Chen, Qun Wan, Yipeng Liu, Anmin Huang, "A sparse signal reconstruction perspective for direction-of-arrive estimation with a distributed polarization sensitive array,"  International Conference on Wireless Communications & Signal Processing, 2009 (WCSP 2009), Nanjing, China, 13-15 Nov. 2009, pp. 1-5
 
 
-
-2008
+#### 2008
 
 1.Yipeng Liu and Qun Wan, "Designing Optimal UWB Pulse Waveform Directly by FIR Filter," The 4th International Conference on Wireless Communications, Networking and Mobile Computing, 2008. (WiCOM '08.), Dalian, China, 12-14 Oct. 2008, pp. 1-4
 
 2.Yipeng Liu and Qun Wan, "Optimal anti-interference UWB waveform design based on convex optimization," The 10th National Radar Conference of China, 30 Oct. – 2 Nov. 2008, Beijing, China, pp. 481-484.
-
-
-
-
 
 
