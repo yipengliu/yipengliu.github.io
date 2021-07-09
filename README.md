@@ -7,7 +7,7 @@
 
 ### 电子邮件
 
-yipengliu@uestc.edu.cn; dr.yipengliu@gmail.com
+dr.firstname(dot)familyname(eta)gmail(dot)com
 
 
 ## 个人简介
