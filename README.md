@@ -5,7 +5,7 @@
 ### 地址
 四川省成都市高新西区西源大道2006号电子科技大学（611731）。
 
-## 电子邮件
+### 电子邮件
 
 yipengliu@uestc.edu.cn; dr.yipengliu@gmail.com
 
