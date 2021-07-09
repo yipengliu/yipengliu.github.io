@@ -1,5 +1,6 @@
 # Yipeng Liu (刘翼鹏)
 
+
 ## 个人简介
 
 刘翼鹏是电子科技大学信息与通信工程学院副教授。他曾在鲁汶大学（比利时）、清华大学（北京）、国立清华大学（台湾）、华为技术、西南电子技术研究所访问和工作。
@@ -10,6 +11,7 @@
 
 他曾应邀在IEEE 信号处理学会旗舰会议ICIP 2020、 IEEE 智能计算学会主会SSCI2020、IEEE 电路与系统学会旗舰会议ISCAS 2019、IEEE 信号处理系统方向主会SiPS 2019、亚太信号与信息处理的学术大会APSIPA 2019 做讲习班报告（tutorial）。申请人是ISCAS历史上少数单独完成大会讲习班报告的大陆高校青年学者，他在ICIP2020 的报告是唯一完全由中国高校学者单独完成的讲习班报告。
 
+
 ## 学生培养
 
 教学工作：主讲本科生基础课《信号与系统》和研究生基础课《最优化理论与应用》。曾获电子科技大学第八届研究生教学成果奖一等奖。培养两名成电杰出学生，优秀硕士学位论文3篇。
@@ -19,23 +21,23 @@
 
 ## 科研经历
 
-·  2018年 至今，电子科技大学，信息与通信工程学院，副教授；
+·  2018年 至今，电子科技大学，信息与通信工程学院，副教授
 
-·  2014年 - 2017年，电子科技大学，电子工程学院，特聘副教授；
+·  2014年 - 2017年，电子科技大学，电子工程学院，特聘副教授
 
-·  2016年 - 2017年，国立清华大学（台湾），电讯工程系，访问学者；
+·  2016年 - 2017年，国立清华大学（台湾），电讯工程系，访问学者
 
-·  2011年 - 2014年，鲁汶大学（比利时），电子工程系，博士后 研究员；
+·  2011年 - 2014年，鲁汶大学（比利时），电子工程系，博士后 研究员
 
-·  2011年 - 2011年，华为技术有限责任公司，成都研究所，算法工程师；
+·  2011年 - 2011年，华为技术有限责任公司，成都研究所，算法工程师
 
-·  2010年 - 2011年，清华大学（北京），电子工程系，访问学生；
+·  2010年 - 2011年，清华大学（北京），电子工程系，访问学生
       
-·  2007年 - 2008年，西南电子技术研究所，实习生；
+·  2007年 - 2008年，西南电子技术研究所，实习生
 
-·  2006年 - 2011年，电子科技大学，信息与通信工程，博士生；
+·  2006年 - 2011年，电子科技大学，信息与通信工程，博士生
 
-·  2002年 - 2006年，电子科技大学，生物医学工程，本科生；
+·  2002年 - 2006年，电子科技大学，生物医学工程，本科生
 
 
 ## 研究领域
@@ -45,21 +47,21 @@
  
  ## 学术兼职
  
- ·         IEEE Signal Processing Letters编委
+· IEEE Signal Processing Letters编委
 
-·         Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委
+· Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委
 
-·         国际电气与电子工程师学会，信号处理学会技术委员会附属委员
+· 国际电气与电子工程师学会，信号处理学会技术委员会附属委员
 
-·         中国图象图形学学会青年工作委员会委员
+· 中国图象图形学学会青年工作委员会委员
 
-·         中国计算机学会多媒体技术专委会委员
+· 中国计算机学会多媒体技术专委会委员
 
-·         中国中国国家自然科学基金项目评审专家
+· 中国中国国家自然科学基金项目评审专家
 
-·         多次担任行业知名国际/国内会议的组织工作
+· 多次担任行业知名国际/国内会议的组织工作
 
-·         多次行业权威期刊审稿人，包括：IEEE TSP，IEEE J-STSP，IEEE TIP，IEEE TMM，IEEE T-PAMI，IEEE T-CVST，IEEE TBME，IEEE JBHI，IEEE TII，IEEE TC等
+· 多次行业权威期刊审稿人，包括：IEEE TSP，IEEE J-STSP，IEEE TIP，IEEE TMM，IEEE T-PAMI，IEEE T-CVST，IEEE TBME，IEEE JBHI，IEEE TII，IEEE TC等
 
 
 ## 科研项目
@@ -99,9 +101,9 @@
 
 #### 2021
 
-1. Zhen Long, Ce Zhu, Jiani Liu, Yipeng Liu, "Bayesian Low Rank Tensor Ring for Image Recovery,"  IEEE Transactions on Image Processing,  vol. 30, pp. 3568-3580, 2021. DOI: 10.1109/TIP.2021.3062195. [codes]
+1. Zhen Long, Ce Zhu, Jiani Liu, Yipeng Liu, "Bayesian Low Rank Tensor Ring for Image Recovery,"  IEEE Transactions on Image Processing,  vol. 30, pp. 3568-3580, 2021. DOI: 10.1109/TIP.2021.3062195. 
 
-2. Zhonghao Zhang, Yipeng Liu, Jiani Liu, Fei Wen, Ce Zhu, "AMP-Net: Denoising based Deep Unfolding for Compressive Image Sensing,"  IEEE Transactions on Image Processing, vol. 30, pp. 1487-1500, 2021. [codes]
+2. Zhonghao Zhang, Yipeng Liu, Jiani Liu, Fei Wen, Ce Zhu, "AMP-Net: Denoising based Deep Unfolding for Compressive Image Sensing,"  IEEE Transactions on Image Processing, vol. 30, pp. 1487-1500, 2021. 
 
 3. Jiani Liu, Ce Zhu, Zhen Long, Huyan Huang, Yipeng Liu, "Low-Rank Tensor Ring Learning for Multi-linear Regression," Pattern Recognition, vol. 113, no. 107753, 2021. 
 
@@ -114,40 +116,40 @@
 
 #### 2020
 
-1.Jiani Liu, Ce Zhu, Yipeng Liu, "Smooth Compact Tensor Ring Regression," IEEE Transactions on Knowledge and Data Engineering, 2020. DOI: 10.1109/TKDE.2020.3037131. [codes]
+1.Jiani Liu, Ce Zhu, Yipeng Liu, "Smooth Compact Tensor Ring Regression," IEEE Transactions on Knowledge and Data Engineering, 2020. DOI: 10.1109/TKDE.2020.3037131. 
 
-2.Huyan Huang, Yipeng Liu, Zhen Long, Ce Zhu, "Robust Low-Rank Tensor Ring Completion," IEEE Transactions on Computational Imaging, vol. 6, pp. 1117-1126, 2020. [codes]
+2.Huyan Huang, Yipeng Liu, Zhen Long, Ce Zhu, "Robust Low-Rank Tensor Ring Completion," IEEE Transactions on Computational Imaging, vol. 6, pp. 1117-1126, 2020. 
 
-3.Yipeng Liu, Jiani Liu, Ce Zhu, "Low Rank Tensor Train Coefficient Array Estimation for Tensor-on-Tensor Regression," IEEE Transactions on Neural Networks and Learning Systems,  vol. 31, no. 12, pp. 5402 - 5411. 2020.  DOI: 10.1109/TNNLS.2020.2967022 [codes]
+3.Yipeng Liu, Jiani Liu, Ce Zhu, "Low Rank Tensor Train Coefficient Array Estimation for Tensor-on-Tensor Regression," IEEE Transactions on Neural Networks and Learning Systems,  vol. 31, no. 12, pp. 5402 - 5411. 2020.  DOI: 10.1109/TNNLS.2020.2967022 
 
-4.Yipeng Liu, Tengteng Liu, Jiani Liu, Ce Zhu, "Smooth Robust Tensor Principal Component Analysis for Compressed Sensing of Dynamic MRI," Pattern Recognition, vol. 102, no. 107252, 2020. DOI: 10.1016/j.patcog.2020.107252 [codes]
+4.Yipeng Liu, Tengteng Liu, Jiani Liu, Ce Zhu, "Smooth Robust Tensor Principal Component Analysis for Compressed Sensing of Dynamic MRI," Pattern Recognition, vol. 102, no. 107252, 2020. DOI: 10.1016/j.patcog.2020.107252 
 
-5.Huyan Huang, Yipeng Liu, Jiani Liu, Ce Zhu, "Provable Tensor Ring Completion," Signal Processing, vol. 171,  no. 107486, 2020. DOI:  10.1016/j.sigpro.2020.107486 [codes]
+5.Huyan Huang, Yipeng Liu, Jiani Liu, Ce Zhu, "Provable Tensor Ring Completion," Signal Processing, vol. 171,  no. 107486, 2020. DOI:  10.1016/j.sigpro.2020.107486 
 
-6.Lanlan Feng, Yipeng Liu, Longxi Chen, Xiang Zhang, Ce Zhu, "Robust Block Tensor Principal Component Analysis," Signal Processing,  vol. 166, no. 107271, pp. 1 - 13, 2020. DOI: 10.1016/j.sigpro.2019.107271 [codes]
+6.Lanlan Feng, Yipeng Liu, Longxi Chen, Xiang Zhang, Ce Zhu, "Robust Block Tensor Principal Component Analysis," Signal Processing,  vol. 166, no. 107271, pp. 1 - 13, 2020. DOI: 10.1016/j.sigpro.2019.107271 
 
-7.Yipeng Liu, Zhen Long, Huyan Huang, Ce Zhu, "Low CP Rank and Tucker Rank Tensor Completion for Estimating Missing Components in Image Data," IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 4, pp. 944-954, 2020. [codes]
+7.Yipeng Liu, Zhen Long, Huyan Huang, Ce Zhu, "Low CP Rank and Tucker Rank Tensor Completion for Estimating Missing Components in Image Data," IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 4, pp. 944-954, 2020. 
 
-8.Fei Wen, Rendong Ying, Yipeng Liu, Peilin Liu, Trieu-Kien Truong, "A Simple Local Minimal Intensity Prior and An Improved Algorithm for Blind Image Deblurring," IEEE Transactions on Circuits and Systems for Video Technology, 2020. DOI: 10.1109/TCSVT.2020.3034137. [codes]
+8.Fei Wen, Rendong Ying, Yipeng Liu, Peilin Liu, Trieu-Kien Truong, "A Simple Local Minimal Intensity Prior and An Improved Algorithm for Blind Image Deblurring," IEEE Transactions on Circuits and Systems for Video Technology, 2020. DOI: 10.1109/TCSVT.2020.3034137. 
 
-9.Mingyi Zhou, Jing Wu, Yipeng Liu, Shuaicheng Liu, Ce Zhu, "DaST: Data-free Substitute Training for Adversarial Attacks," IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, USA, June 14 - June 19,  2020. [codes]
+9.Mingyi Zhou, Jing Wu, Yipeng Liu, Shuaicheng Liu, Ce Zhu, "DaST: Data-free Substitute Training for Adversarial Attacks," IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, USA, June 14 - June 19,  2020. 
 
-10.Lanlan Feng, Shenghan Wang, Ce Zhu, Yipeng Liu, "Recent Advances on Robust Tensor Principal Component Analysis",  IJCAI-PRICAI 2020 workshop on Tensor Network Representations in Machine Learning, Yokohama, Japan,  January 7 - 15,  2021. [codes]
+10.Lanlan Feng, Shenghan Wang, Ce Zhu, Yipeng Liu, "Recent Advances on Robust Tensor Principal Component Analysis",  IJCAI-PRICAI 2020 workshop on Tensor Network Representations in Machine Learning, Yokohama, Japan,  January 7 - 15,  2021.
 
 
 #### 2019
 
-1.Liaqat Ali, Ce Zhu, Zhonghao Zhang, Yipeng Liu, "Automated Detection of Parkinson’s Disease Based on Multiple Types of Sustained Phonations using Linear Discriminant Analysis and Genetically Optimized Neural Network," IEEE Journal of Translational Engineering in Health and Medicine, vol. 7,  2019. [codes]
+1.Liaqat Ali, Ce Zhu, Zhonghao Zhang, Yipeng Liu, "Automated Detection of Parkinson’s Disease Based on Multiple Types of Sustained Phonations using Linear Discriminant Analysis and Genetically Optimized Neural Network," IEEE Journal of Translational Engineering in Health and Medicine, vol. 7,  2019. 
 
-2.Liaqat Ali, Ce Zhu, Noorbakhsh Amiri Golilarz, Ashir Javeed, Mingyi Zhou, Yipeng Liu, "Reliable Parkinson's Disease Detection by Analyzing Handwritten Drawings: Construction of an Unbiased Cascaded Learning System based on Feature Selection and Adaptive Boosting Model," IEEE Access,  vol. 7, no. 1, pp. 116480 - 116489, 2019. [codes]
+2.Liaqat Ali, Ce Zhu, Noorbakhsh Amiri Golilarz, Ashir Javeed, Mingyi Zhou, Yipeng Liu, "Reliable Parkinson's Disease Detection by Analyzing Handwritten Drawings: Construction of an Unbiased Cascaded Learning System based on Feature Selection and Adaptive Boosting Model," IEEE Access,  vol. 7, no. 1, pp. 116480 - 116489, 2019. 
 
-3.Liaqat Ali, Ce Zhu, Mingyi Zhou, Yipeng Liu, "Early diagnosis of Parkinson's disease from multiple speech recordings by simultaneous sample and feature selection," Expert Systems with Applications, vol. 137, pp. 22 - 28, 2019. [codes]
+3.Liaqat Ali, Ce Zhu, Mingyi Zhou, Yipeng Liu, "Early diagnosis of Parkinson's disease from multiple speech recordings by simultaneous sample and feature selection," Expert Systems with Applications, vol. 137, pp. 22 - 28, 2019. 
 
-4.Mingyi Zhou, Yipeng Liu, Long Zhen, Longxi Chen, Ce Zhu, "Tensor Rank Learning in CP Decomposition via Convolutional Neural Network", Signal Processing: Image Communication, vol 73, pp. 12-21, 2019.  [codes]
+4.Mingyi Zhou, Yipeng Liu, Long Zhen, Longxi Chen, Ce Zhu, "Tensor Rank Learning in CP Decomposition via Convolutional Neural Network", Signal Processing: Image Communication, vol 73, pp. 12-21, 2019.  
 
 5.Yipeng Liu, Yuning Yang, Qibin Zhao, Shuchin Aeron, "Editorial to The Special Issue on Tensor Image Processing," Signal Processing: Image Communication, vol 73, pp. 1-2, 2019.
 
-6.Yipeng Liu, Zhen Long, Ce Zhu, "Image Completion Using Low Tensor Tree Rank and Total Variation Minimization," IEEE Transactions on Multimedia, vol. 21, no. 2, pp. 338-350, 2019. [codes]
+6.Yipeng Liu, Zhen Long, Ce Zhu, "Image Completion Using Low Tensor Tree Rank and Total Variation Minimization," IEEE Transactions on Multimedia, vol. 21, no. 2, pp. 338-350, 2019. 
 
 7.Zhen Long, Yipeng Liu, Longxi Chen, Ce Zhu, "Low Rank Tensor Completion for Multiway Visual Data," Signal Processing,  vol. 155, pp. 301 - 316, 2019.
 
@@ -162,7 +164,7 @@
 
 #### 2018
 
-1.Yipeng Liu, Longxi Chen, Ce Zhu, "Improved Robust Tensor Principal Component Analysis via Low Rank Core Matrix," IEEE Journal of Selected Topics in Signal Processing, vol. 12, no. 6, pp. 1378 - 1389, 2018.   [codes]
+1.Yipeng Liu, Longxi Chen, Ce Zhu, "Improved Robust Tensor Principal Component Analysis via Low Rank Core Matrix," IEEE Journal of Selected Topics in Signal Processing, vol. 12, no. 6, pp. 1378 - 1389, 2018.  
 
 2.Fan He, Xiaolin Huang, Yipeng Liu, Ming Yan, "Fast Signal Recovery from Saturated Measurements by Linear Loss and Nonconvex Penalties," IEEE Signal Processing Letters, vol. 25, no. 9. pp. 1374 - 1378, 2018.
 
@@ -183,9 +185,9 @@
 
 #### 2017
 
-1.Yipeng Liu, Shan Wu, Xiaolin Huang, Bing Chen, Ce Zhu, "Hybrid CS-DMRI: Periodic Time-Variant Subsampling and Omnidirectional Total Variation Based Reconstruction," IEEE Transactions on Medical Imaging, vol. 36, no. 10, pp. 2148 - 2159, 2017. [codes]
+1.Yipeng Liu, Shan Wu, Xiaolin Huang, Bing Chen, Ce Zhu, "Hybrid CS-DMRI: Periodic Time-Variant Subsampling and Omnidirectional Total Variation Based Reconstruction," IEEE Transactions on Medical Imaging, vol. 36, no. 10, pp. 2148 - 2159, 2017.
 
-2.Sayuan Liang, Tom Dresselaers, Karim Louchami, Ce Zhu, Yipeng Liu, Uwe Himmelreich, "Comparison of different compressed sensing algorithms for low SNR 19F MRI application - imaging of transplanted pancreatic islets and cells labeled with perfluorocarbons," NMR in Biomedicine, vol. 30, no. 11, pp. e3776, 2017.  [codes]
+2.Sayuan Liang, Tom Dresselaers, Karim Louchami, Ce Zhu, Yipeng Liu, Uwe Himmelreich, "Comparison of different compressed sensing algorithms for low SNR 19F MRI application - imaging of transplanted pancreatic islets and cells labeled with perfluorocarbons," NMR in Biomedicine, vol. 30, no. 11, pp. e3776, 2017. 
 
 3.Xinyu Lin, Ce Zhu, Qian Zhang, Xiaolin Huang, Yipeng Liu, "Efficient and Robust Corner Detectors Based on Second Order Difference of Contour,"  IEEE Signal Processing Letters, vol. 24, no. 9, pp. 1393 – 1397, 2017.
 
@@ -197,11 +199,11 @@
 
 7.Qi Guo, Ce Zhu, Zhiqiang Xia, Zhengtao Wang, Yipeng Liu, “Attribute-controlled face photo synthesis from simple line drawing, ” The 24th IEEE International Conference on Image Processing (ICIP 2017), Beijing, China, September 17-20, 2017.
 
-8.Zhengtao Wang, Ce Zhu, Zhiqiang Xia, Qi Guo, Yipeng Liu, “Towards thinner convolutional neural networks through gradually global pruning, ” The 24th IEEE International Conference on Image Processing (ICIP 2017), Beijing, China, September 17-20, 2017. [codes]
+8.Zhengtao Wang, Ce Zhu, Zhiqiang Xia, Qi Guo, Yipeng Liu, “Towards thinner convolutional neural networks through gradually global pruning, ” The 24th IEEE International Conference on Image Processing (ICIP 2017), Beijing, China, September 17-20, 2017.
 
 9.Fangliang Song, Ce Zhu, Yuyang Liu, Yimin Zhou, and Yipeng Liu, "A new GOP level bit allocation method for HEVC rate control," The 12th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting 2017 (BMSB 2017), Cagliari, Italy, June 7-9, 2017.
 
-10.Longxi Chen, Yipeng Liu, Ce Zhu, "Iterative block tensor singular value thresholding for extraction of low rank component of image data," The 42nd IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2017), New Orleans, USA, 05 March - 09 March 2017. [codes]
+10.Longxi Chen, Yipeng Liu, Ce Zhu, "Iterative block tensor singular value thresholding for extraction of low rank component of image data," The 42nd IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2017), New Orleans, USA, 05 March - 09 March 2017. 
 
 11.Xinyu Lin, Ce Zhu, Qian Zhang, Mengxue Wang, Yipeng Liu, "Learning Based 3D Keypoint Detection with Local and Global Attributes in Multi-Scale Space",  The 19th International Workshop on Multimedia Signal Processing (MMSP 2017), London, UK, Oct. 16-18, 2017.
 
@@ -217,13 +219,13 @@
 
 #### 2015
 
-1.Yipeng Liu, Maarten De Vos, Sabine Van Huffel, “Compressed Sensing of Multi-Channel EEG Signals: The Simultaneous Cosparsity and Low Rank Optimization,” IEEE Transactions on Biomedical Engineering, vol. 62, no. 8, pp. 2055-2061, Aug. 2015.  [codes]
+1.Yipeng Liu, Maarten De Vos, Sabine Van Huffel, “Compressed Sensing of Multi-Channel EEG Signals: The Simultaneous Cosparsity and Low Rank Optimization,” IEEE Transactions on Biomedical Engineering, vol. 62, no. 8, pp. 2055-2061, Aug. 2015.  
 
 2.Xiaolin Huang, Yipeng Liu, Lei Shi, Sabine Van Huffel, Johan Suykens, "Two-Level L1 Optimization for Compressed Sensing" Signal Processing, vol. 108, pp. 459-475, pp. 459-475, Mar. 2015.
 
 3.Sayuan Liang, Yipeng Liu, Tom Dresselaers,, Sabine Van Huffel, Uwe Himmelreich, “Compressed Sensing as a valuable tool for visualization of low SNR signal in 19F MRI,” The 32nd Annual Scientific Meeting of European Society for Magnetic Resonance in Medicine and Biology, Edinburgh, UK, Oct. 1-3, 2015.
 
-4.Sayuan Liang, Yipeng Liu, Tom Dresselaers, Karim Louchami, Sabine Van Huffel, and Uwe Himmelreich, “Comparison of different compressed sensing algorithms for low SNR 19F application --- imaging of transplanted pancreatic islets with PFCE labeled,” The 23rd ISMRM Annual Meeting and Exhibition 2015, Toronto, Canada, May 30 – June 5, 2015. (ISMRM MERIT AWARD of Magna cum laude). [codes]
+4.Sayuan Liang, Yipeng Liu, Tom Dresselaers, Karim Louchami, Sabine Van Huffel, and Uwe Himmelreich, “Comparison of different compressed sensing algorithms for low SNR 19F application --- imaging of transplanted pancreatic islets with PFCE labeled,” The 23rd ISMRM Annual Meeting and Exhibition 2015, Toronto, Canada, May 30 – June 5, 2015. (ISMRM MERIT AWARD of Magna cum laude). 
 
 5.Hui Wang, Xiaolin Huang, Yipeng Liu, Sabine Van Huffel and Qun Wan, “Binary Reweighted l1 -norm Minimization for One-Bit Compressed Sensing,” The 8th International Joint Conference on Biomedical Engineering Systems and Technologies, Portugal, Lisbon, Jan. 12 - 15 2015.
 
@@ -241,7 +243,7 @@
 
 #### 2013
 
-1.Yipeng Liu, Maarten De Vos, Ivan Gligorijevic, Vladimir Matic, Yuqian Li, Sabine Van Huffel, "Multi-Structural Signal Recovery for Biomedical Compressive Sensing,'' IEEE Transactions on Biomedical Engineering, vol. 60, no. 10, pp. 2794 – 2805, Oct. 2013. [codes]
+1.Yipeng Liu, Maarten De Vos, Ivan Gligorijevic, Vladimir Matic, Yuqian Li, Sabine Van Huffel, "Multi-Structural Signal Recovery for Biomedical Compressive Sensing,'' IEEE Transactions on Biomedical Engineering, vol. 60, no. 10, pp. 2794 – 2805, Oct. 2013.
 
 2.Fei Wen, Qun Wan, Guibo He, Peng Zhang, and Yipeng Liu, "Wideband Direction of Arrival Estimation with Linear Array: Analysis and Closed-Form Formulae." Chinese Journal of Electronics, vol. 22, no. 4, Oct. 2013.
 
