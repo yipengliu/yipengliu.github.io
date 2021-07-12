@@ -17,22 +17,22 @@
 
 ## 学生培养
 
-1. 教学工作：主讲本科生基础课《信号与系统》和研究生基础课《最优化理论与应用》。曾获电子科技大学第八届研究生教学成果奖一等奖。培养两名成电杰出学生，优秀硕士学位论文3篇。
+. 教学工作：主讲本科生基础课《信号与系统》和研究生基础课《最优化理论与应用》。曾获电子科技大学第八届研究生教学成果奖一等奖。培养两名成电杰出学生，优秀硕士学位论文3篇。
 
-2. 指导学生主要去向：欧美高校深造（包括：University of Leuven、Harvard University）、国内外高新技术企业研发（包括：Materialise、International Netherlands Groups、Microsoft、百度、腾讯，中电集团研究所）。
+· 指导学生主要去向：欧美高校深造（包括：University of Leuven、Harvard University）、国内外高新技术企业研发（包括：Materialise、International Netherlands Groups、Microsoft、百度、腾讯，中电集团研究所）。
 
 
 ## 科研经历
 
-1. 2018年 至今，电子科技大学，信息与通信工程学院，副教授
-2. 2014年 - 2017年，电子科技大学，电子工程学院，特聘副教授
-3. 2016年 - 2017年，国立清华大学（台湾），电讯工程系，访问学者
-4. 2011年 - 2014年，鲁汶大学（比利时），电子工程系，博士后 研究员
-5. 2011年 - 2011年，华为技术有限责任公司，成都研究所，算法工程师
-6. 2010年 - 2011年，清华大学（北京），电子工程系，访问学生   
-7. 2007年 - 2008年，西南电子技术研究所，实习生
-8. 2006年 - 2011年，电子科技大学，信息与通信工程，博士生
-9. 2002年 - 2006年，电子科技大学，生物医学工程，本科生
+· 2018年 至今，电子科技大学，信息与通信工程学院，副教授
+· 2014年 - 2017年，电子科技大学，电子工程学院，特聘副教授
+· 2016年 - 2017年，国立清华大学（台湾），电讯工程系，访问学者
+· 2011年 - 2014年，鲁汶大学（比利时），电子工程系，博士后 研究员
+· 2011年 - 2011年，华为技术有限责任公司，成都研究所，算法工程师
+· 2010年 - 2011年，清华大学（北京），电子工程系，访问学生   
+· 2007年 - 2008年，西南电子技术研究所，实习生
+· 2006年 - 2011年，电子科技大学，信息与通信工程，博士生
+· 2002年 - 2006年，电子科技大学，生物医学工程，本科生
 
 
 ## 研究领域
@@ -59,9 +59,9 @@
 
 ## 科研荣誉
 
-1. 国际电气电子工程师学会高级会员
-2. 比利时弗拉芒政府海外会议支持奖，2012年，2014年
-3. 首届川渝科技学术大会优秀论文一等奖，2020年
+1. 首届川渝科技学术大会优秀论文一等奖，2020年
+2. 国际电气电子工程师学会高级会员，2017年
+3. 比利时弗拉芒政府海外会议支持奖，2012年，2014年
 
 
 ## 著作论文
@@ -91,7 +91,7 @@
 3. Jiani Liu, Ce Zhu, Zhen Long, Huyan Huang, Yipeng Liu, "Low-Rank Tensor Ring Learning for Multi-linear Regression," Pattern Recognition, vol. 113, no. 107753, 2021. 
 4. Ying Hu, Yudong Shi, Xingyu Cao, Yipeng Liu, Shaoyun Guo, Jiabin Shen, "Enhanced output and wearable performances of triboelectric nanogenerator based on ePTFE microporous membranes for motion monitoring," Nano Energy, no.  106103, 2021.
 5. Zhonghao Zhang, Yangyang Jiang, Xingyu Cao, Xue Yang, Ce Zhu, Ying Li, Yipeng Liu, "Deep Learning Based Gait Analysis for Contactless Dementia Detection System from Video Camera," The IEEE International Symposium on Circuits and Systems (ISCAS 2021), Daegu, Korea, May 22-28, 2021.
-6. Shenghan Wang, Yangyang Jiang, Hengling Zhao, Xue Yang, Zhonghao Zhang, Ce Zhu, Ying Li, Yipeng Liu, "Smart Dysphagia Detection System with Adaptive Boosting Analysis of Throat Signals,"  The IEEE International Symposium on Circuits and Systems (ISCAS 2021), Daegu, Korea, May 22-28, 2021.
+6. Shenghan Wang, Yangyang Jiang, Hengling Zhao, Xue Yang, Zhonghao Zhang, Ce Zhu, Ying Li, Yipeng Liu, "Smart Dysphagia Detection System with Adaptive Boosting Analysis of Throat Signals," The IEEE International Symposium on Circuits and Systems (ISCAS 2021), Daegu, Korea, May 22-28, 2021.
 
 
 #### 2020
