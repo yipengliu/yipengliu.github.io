@@ -91,9 +91,10 @@
 1. Zhen Long, Ce Zhu, Jiani Liu, Yipeng Liu, "Bayesian Low Rank Tensor Ring for Image Recovery,"  IEEE Transactions on Image Processing,  vol. 30, pp. 3568-3580, 2021. DOI: 10.1109/TIP.2021.3062195. 
 2. Zhonghao Zhang, Yipeng Liu, Jiani Liu, Fei Wen, Ce Zhu, "AMP-Net: Denoising based Deep Unfolding for Compressive Image Sensing,"  IEEE Transactions on Image Processing, vol. 30, pp. 1487-1500, 2021. 
 3. Jiani Liu, Ce Zhu, Zhen Long, Huyan Huang, Yipeng Liu, "Low-Rank Tensor Ring Learning for Multi-linear Regression," Pattern Recognition, vol. 113, no. 107753, 2021. 
-4. Ying Hu, Yudong Shi, Xingyu Cao, Yipeng Liu, Shaoyun Guo, Jiabin Shen, "Enhanced output and wearable performances of triboelectric nanogenerator based on ePTFE microporous membranes for motion monitoring," Nano Energy, no.  106103, 2021.
-5. Zhonghao Zhang, Yangyang Jiang, Xingyu Cao, Xue Yang, Ce Zhu, Ying Li, Yipeng Liu, "Deep Learning Based Gait Analysis for Contactless Dementia Detection System from Video Camera," The IEEE International Symposium on Circuits and Systems (ISCAS 2021), Daegu, Korea, May 22-28, 2021.
-6. Shenghan Wang, Yangyang Jiang, Hengling Zhao, Xue Yang, Zhonghao Zhang, Ce Zhu, Ying Li, Yipeng Liu, "Smart Dysphagia Detection System with Adaptive Boosting Analysis of Throat Signals," The IEEE International Symposium on Circuits and Systems (ISCAS 2021), Daegu, Korea, May 22-28, 2021.
+4. Ying Hu, Yudong Shi, Xingyu Cao, Yipeng Liu, Shaoyun Guo, Jiabin Shen, "Enhanced output and wearable performances of triboelectric nanogenerator based on ePTFE microporous membranes for motion monitoring," Nano Energy, no. 106103, 2021.
+5. Fei Wen, Rendong Ying, Yipeng Liu, Peilin Liu, Trieu-Kien Truong, "A Simple Local Minimal Intensity Prior and An Improved Algorithm for Blind Image Deblurring," IEEE Transactions on Circuits and Systems for Video Technology, vol. 31, no. 8, pp. 2923 - 2937, 2021. 
+6. Zhonghao Zhang, Yangyang Jiang, Xingyu Cao, Xue Yang, Ce Zhu, Ying Li, Yipeng Liu, "Deep Learning Based Gait Analysis for Contactless Dementia Detection System from Video Camera," The IEEE International Symposium on Circuits and Systems (ISCAS 2021), Daegu, Korea, May 22-28, 2021.
+7. Shenghan Wang, Yangyang Jiang, Hengling Zhao, Xue Yang, Zhonghao Zhang, Ce Zhu, Ying Li, Yipeng Liu, "Smart Dysphagia Detection System with Adaptive Boosting Analysis of Throat Signals," The IEEE International Symposium on Circuits and Systems (ISCAS 2021), Daegu, Korea, May 22-28, 2021.
 
 
 #### 2020
@@ -105,9 +106,8 @@
 5. Huyan Huang, Yipeng Liu, Jiani Liu, Ce Zhu, "Provable Tensor Ring Completion," Signal Processing, vol. 171,  no. 107486, 2020. DOI:  10.1016/j.sigpro.2020.107486 
 6. Lanlan Feng, Yipeng Liu, Longxi Chen, Xiang Zhang, Ce Zhu, "Robust Block Tensor Principal Component Analysis," Signal Processing,  vol. 166, no. 107271, pp. 1 - 13, 2020. DOI: 10.1016/j.sigpro.2019.107271 
 7. Yipeng Liu, Zhen Long, Huyan Huang, Ce Zhu, "Low CP Rank and Tucker Rank Tensor Completion for Estimating Missing Components in Image Data," IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 4, pp. 944-954, 2020. 
-8. Fei Wen, Rendong Ying, Yipeng Liu, Peilin Liu, Trieu-Kien Truong, "A Simple Local Minimal Intensity Prior and An Improved Algorithm for Blind Image Deblurring," IEEE Transactions on Circuits and Systems for Video Technology, 2020. DOI: 10.1109/TCSVT.2020.3034137. 
-9. Mingyi Zhou, Jing Wu, Yipeng Liu, Shuaicheng Liu, Ce Zhu, "DaST: Data-free Substitute Training for Adversarial Attacks," IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, USA, June 14 - June 19,  2020. 
-10. Lanlan Feng, Shenghan Wang, Ce Zhu, Yipeng Liu, "Recent Advances on Robust Tensor Principal Component Analysis",  IJCAI-PRICAI 2020 workshop on Tensor Network Representations in Machine Learning, Yokohama, Japan,  January 7 - 15,  2021.
+8. Mingyi Zhou, Jing Wu, Yipeng Liu, Shuaicheng Liu, Ce Zhu, "DaST: Data-free Substitute Training for Adversarial Attacks," IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, USA, June 14 - June 19,  2020. 
+9. Lanlan Feng, Shenghan Wang, Ce Zhu, Yipeng Liu, "Recent Advances on Robust Tensor Principal Component Analysis",  IJCAI-PRICAI 2020 workshop on Tensor Network Representations in Machine Learning, Yokohama, Japan,  January 7 - 15,  2021.
 
 
 #### 2019
