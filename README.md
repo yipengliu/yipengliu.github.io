@@ -73,6 +73,7 @@
 #### Authored books
 
 1. Yipeng Liu, Jiani Liu, Zhen Long, Ce Zhu, Tensor Computation for Data Analysis, New York, USA: Springer, 2021. ebook ISBN: 978-3-030-74386-4, Hardcover ISBN: 978-3-030-74385-7, DOI: 10.1007/978-3-030-74386-4, online available at: https://www.springer.com/us/book/9783030743857
+2. Jiani Liu, Ce Zhu, Zhen Long, Yipeng Liu, Tensor Regression, Hanover, USA: Now Publishers Inc.2021.
 
 #### Edited Books
 
