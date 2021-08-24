@@ -60,7 +60,7 @@
 
 刘翼鹏是电子科技大学信息与通信工程学院副教授。他曾在鲁汶大学（比利时）、清华大学（北京）、国立清华大学（台湾）、华为技术、西南电子技术研究所访问和工作。他主要从事张量数据分析相关理论、方法与应用工作，以张量计算为基础，重点研究张量分解和低秩优化，推广信号复原、图像增强、频谱感知、协同滤波、轻量化神经网络、对抗攻击、异常检测等技术，有效避免传统数据处理中将高维数组矩阵化带来的数据结构损失，同时还能避免大规模数据处理中的“维数灾难”计算难题。
 
-他发表国际期刊和会议论文80余篇，其中20余篇论文发表在JSTSP、TSP、TIP、TMI、TMM、TKDE、TNNLS等IEEE期刊，ESI 高被引论文3篇，包括热点论文1 篇。2021年由Springer出版的他的专著《Tensor Computation for Data Analysis》，阐述了张量计算推广各种机器学习方法和在多个数据分析领域的应用；2021年他的专著《Tensor Regression》被Now Publishers机器学习领域主编Michael Jordan推荐进入Foundations and Trends® in Machine Learning系列的专著，全面深入的总结和展望了张量回归的理论、方法和应用；2021年由Elsevier出版了他编著的《Tensors for Data Processing》，汇集了张量数据处理领域j近10位IEEE/SIAM Fellow和数十位青年科学家对该领域的系统总结。他分别于2012年和2014年获得比利时弗拉芒政府海外会议支持奖2项，2020年获首届川渝科技学术大会优秀论文一等奖。主研/主持欧盟研究理事会高级项目1项、比利时法兰德斯自然科学基金1项、中国国家自然科学基金3项、四川省国际/地区科研合作项目1项、四川省科技支撑项目2项、中央高校业务经费2项。
+他发表国际期刊和会议论文80余篇，其中20余篇论文发表在JSTSP、TSP、TIP、TMI、TMM、TKDE、TNNLS等IEEE期刊，ESI 高被引论文3篇，包括热点论文1 篇。2021年由Springer出版的他的专著《Tensor Computation for Data Analysis》，阐述了张量计算推广各种机器学习方法和在多个数据分析领域的应用；2021年他的专著《Tensor Regression》被Now Publishers机器学习领域主编Michael Jordan推荐进入Foundations and Trends® in Machine Learning系列的专著，全面深入的总结和展望了张量回归的理论、方法和应用；2021年由Elsevier出版了他编著的《Tensors for Data Processing》，汇集了张量数据处理领域近10位IEEE/SIAM Fellow和数十位青年科学家对该领域的系统总结。他分别于2012年和2014年获得比利时弗拉芒政府海外会议支持奖2项，2020年获首届川渝科技学术大会优秀论文一等奖。主研/主持欧盟研究理事会高级项目1项、比利时法兰德斯自然科学基金1项、中国国家自然科学基金3项、四川省国际/地区科研合作项目1项、四川省科技支撑项目2项、中央高校业务经费2项。
 
 他是IEEE高级会员，IEEE信号处理协会技术委员会附属委员，中国图象图形学学会青年工作委员会委员，中国计算机学会多媒体技术专委会委员。他担任国际期刊IEEE Signal Processing Letters的编委，Signal Processing: Image Communication （Elsevier）的首席客座编委；多次担任行业权威期刊和会议的组织、编辑和审稿工作。
 
