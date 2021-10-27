@@ -52,7 +52,7 @@
 ## 学生培养
 
 1. 教学工作：主讲本科生基础课《信号与系统》和研究生基础课《最优化理论与应用》。曾获电子科技大学第八届研究生教学成果奖一等奖。
-2. 科研指导：培养两名成电杰出学生，优秀硕士学位论文3篇。
+2. 科研指导：优秀硕士学位论文3篇，国家奖学金4人次。
 3. 毕业去向：欧美高校深造（包括：University of Leuven、Harvard University）、国内外高新技术企业研发（包括：Materialise、International Netherlands Groups（ING）、Microsoft、百度、腾讯、大华，中电集团研究所）。
 
 
@@ -75,7 +75,7 @@
 #### Authored books
 
 1. Yipeng Liu, Jiani Liu, Zhen Long, Ce Zhu, Tensor Computation for Data Analysis, New York, USA: Springer, 2021. ebook ISBN: 978-3-030-74386-4, Hardcover ISBN: 978-3-030-74385-7, DOI: 10.1007/978-3-030-74386-4, online available at: https://www.springer.com/us/book/9783030743857
-2. Jiani Liu, Ce Zhu, Zhen Long, Yipeng Liu, Tensor Regression, Hanover, USA: Now Publishers Inc.2021.
+2. Jiani Liu, Ce Zhu, Zhen Long, Yipeng Liu, Tensor Regression, Hanover, USA: Now Publishers Inc.2021. online available at: https://www.nowpublishers.com/article/Details/MAL-087
 
 #### Edited Books
 
