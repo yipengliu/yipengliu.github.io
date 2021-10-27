@@ -52,7 +52,7 @@
 ## 学生培养
 
 1. 教学工作：主讲本科生基础课《信号与系统》和研究生基础课《最优化理论与应用》。曾获电子科技大学第八届研究生教学成果奖一等奖。
-2. 科研指导：优秀硕士学位论文3篇，国家奖学金4人次。
+2. 科研指导：优秀硕士学位论文3篇。
 3. 毕业去向：欧美高校深造（包括：University of Leuven、Harvard University）、国内外高新技术企业研发（包括：Materialise、International Netherlands Groups（ING）、Microsoft、百度、腾讯、大华，中电集团研究所）。
 
 
