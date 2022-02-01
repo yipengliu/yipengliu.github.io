@@ -89,15 +89,22 @@
 
 ### Papers
 
+
+### 2022
+
+1. Hengling Zhao, Chih-Chien Tsai, Mingyi Zhou, Yipeng Liu, Yao-Liang Chen, Fan-Huang, Yu-Chun Lin, Jiun-Jie Wang, "Deep Learning Based Diagnosis of Parkinson’s Disease Using Diffusion Magnetic Resonance Imaging," Brain Imaging and Behavior, 2022.
+
 #### 2021
 
-1. Zhen Long, Ce Zhu, Jiani Liu, Yipeng Liu, "Bayesian Low Rank Tensor Ring for Image Recovery,"  IEEE Transactions on Image Processing,  vol. 30, pp. 3568-3580, 2021. DOI: 10.1109/TIP.2021.3062195. 
-2. Zhonghao Zhang, Yipeng Liu, Jiani Liu, Fei Wen, Ce Zhu, "AMP-Net: Denoising based Deep Unfolding for Compressive Image Sensing,"  IEEE Transactions on Image Processing, vol. 30, pp. 1487-1500, 2021. 
-3. Jiani Liu, Ce Zhu, Zhen Long, Huyan Huang, Yipeng Liu, "Low-Rank Tensor Ring Learning for Multi-linear Regression," Pattern Recognition, vol. 113, no. 107753, 2021. 
-4. Ying Hu, Yudong Shi, Xingyu Cao, Yipeng Liu, Shaoyun Guo, Jiabin Shen, "Enhanced output and wearable performances of triboelectric nanogenerator based on ePTFE microporous membranes for motion monitoring," Nano Energy, no. 106103, 2021.
-5. Fei Wen, Rendong Ying, Yipeng Liu, Peilin Liu, Trieu-Kien Truong, "A Simple Local Minimal Intensity Prior and An Improved Algorithm for Blind Image Deblurring," IEEE Transactions on Circuits and Systems for Video Technology, vol. 31, no. 8, pp. 2923 - 2937, 2021. 
-6. Zhonghao Zhang, Yangyang Jiang, Xingyu Cao, Xue Yang, Ce Zhu, Ying Li, Yipeng Liu, "Deep Learning Based Gait Analysis for Contactless Dementia Detection System from Video Camera," The IEEE International Symposium on Circuits and Systems (ISCAS 2021), Daegu, Korea, May 22-28, 2021.
-7. Shenghan Wang, Yangyang Jiang, Hengling Zhao, Xue Yang, Zhonghao Zhang, Ce Zhu, Ying Li, Yipeng Liu, "Smart Dysphagia Detection System with Adaptive Boosting Analysis of Throat Signals," The IEEE International Symposium on Circuits and Systems (ISCAS 2021), Daegu, Korea, May 22-28, 2021.
+1. Jiani Liu, Ce Zhu, Zhen Long and Yipeng Liu, "Tensor Regression", Foundations and Trends® in Machine Learning, vol. 14, no. 4, pp 379-565, 2021.
+2. Ying Hu, Yudong Shi, Xingyu Cao, Yipeng Liu, Shaoyun Guo, Jiabin Shen, "Enhanced output and wearable performances of triboelectric nanogenerator based on ePTFE microporous membranes for motion monitoring," Nano Energy, no. 106103, 2021.
+3. Zhen Long, Ce Zhu, Jiani Liu, Yipeng Liu, "Bayesian Low Rank Tensor Ring for Image Recovery,"  IEEE Transactions on Image Processing,  vol. 30, pp. 3568-3580, 2021. DOI: 10.1109/TIP.2021.3062195. 
+4. Zhonghao Zhang, Yipeng Liu, Jiani Liu, Fei Wen, Ce Zhu, "AMP-Net: Denoising based Deep Unfolding for Compressive Image Sensing,"  IEEE Transactions on Image Processing, vol. 30, pp. 1487-1500, 2021. 
+5. Jiani Liu, Ce Zhu, Zhen Long, Huyan Huang, Yipeng Liu, "Low-Rank Tensor Ring Learning for Multi-linear Regression," Pattern Recognition, vol. 113, no. 107753, 2021. 
+6. Ying Hu, Yudong Shi, Xingyu Cao, Yipeng Liu, Shaoyun Guo, Jiabin Shen, "Enhanced output and wearable performances of triboelectric nanogenerator based on ePTFE microporous membranes for motion monitoring," Nano Energy, no. 106103, 2021.
+7. Fei Wen, Rendong Ying, Yipeng Liu, Peilin Liu, Trieu-Kien Truong, "A Simple Local Minimal Intensity Prior and An Improved Algorithm for Blind Image Deblurring," IEEE Transactions on Circuits and Systems for Video Technology, vol. 31, no. 8, pp. 2923 - 2937, 2021. 
+8. Zhonghao Zhang, Yangyang Jiang, Xingyu Cao, Xue Yang, Ce Zhu, Ying Li, Yipeng Liu, "Deep Learning Based Gait Analysis for Contactless Dementia Detection System from Video Camera," The IEEE International Symposium on Circuits and Systems (ISCAS 2021), Daegu, Korea, May 22-28, 2021.
+9. Shenghan Wang, Yangyang Jiang, Hengling Zhao, Xue Yang, Zhonghao Zhang, Ce Zhu, Ying Li, Yipeng Liu, "Smart Dysphagia Detection System with Adaptive Boosting Analysis of Throat Signals," The IEEE International Symposium on Circuits and Systems (ISCAS 2021), Daegu, Korea, May 22-28, 2021.
 
 
 #### 2020
