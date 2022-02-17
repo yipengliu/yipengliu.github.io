@@ -28,7 +28,7 @@
 ## 学术兼职
  
 1. IEEE Signal Processing Letters编委
-2. 亚太信号与信息处理学会接触讲座人（APSIPA Distinguished  Lecturer）2022-2023
+2. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022-2023
 3. Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委
 4. 国际电气与电子工程师学会，信号处理学会技术委员会附属委员
 5. 中国图象图形学学会青年工作委员会委员
@@ -45,7 +45,7 @@
 
 ## 科研荣誉
 
-1. 亚太信号与信息处理学会接触讲座人（APSIPA Distinguished  Lecturer for 2022-2023）
+1. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer for 2022-2023）
 2. 首届川渝科技学术大会优秀论文一等奖，2020年
 3. 国际电气电子工程师学会高级会员，2017年
 4. 比利时弗拉芒政府海外会议支持奖，2012年，2014年
