@@ -66,7 +66,7 @@
 
 他是IEEE高级会员，IEEE信号处理协会技术委员会附属委员，中国图象图形学学会青年工作委员会委员，中国计算机学会多媒体技术专委会委员。他担任国际期刊IEEE Signal Processing Letters的编委，Signal Processing: Image Communication （Elsevier）的首席客座编委；多次担任行业权威期刊和会议的组织、编辑和审稿工作。
 
-他曾应邀在IEEE 信号处理学会旗舰会议ICIP 2020、 IEEE 智能计算学会主会SSCI 2020、IEEE 电路与系统学会旗舰会议ISCAS 2019、IEEE 信号处理系统方向主会SiPS 2019、亚太信号与信息处理的学术大会APSIPA 2019 做讲习班报告（tutorial）。他是ISCAS历史上少数单独完成大会讲习班报告的大陆高校青年学者，他在ICIP2020 的报告是唯一完全由中国高校学者单独完成的讲习班报告。
+他曾应邀在IEEE 信号处理学会旗舰会议ICIP 2020、 IEEE 智能计算学会主会SSCI 2020、IEEE 电路与系统学会旗舰会议ISCAS 2019、IEEE 信号处理系统方向主会SiPS 2019、亚太信号与信息处理的学术大会APSIPA 2019 做讲习班报告（tutorial）。他是ISCAS历史上少数单独完成大会讲习班报告的大陆高校青年学者，他在ICIP2020 的报告是唯一完全由中国高校学者单独完成的讲习班报告。他是亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished Lecturer for 2022-2023）。
 
 
 
