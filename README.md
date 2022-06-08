@@ -76,17 +76,17 @@
 
 #### Authored books
 
-1. Yipeng Liu, Jiani Liu, Zhen Long, Ce Zhu, Tensor Computation for Data Analysis, New York, USA: Springer, 2021. ebook ISBN: 978-3-030-74386-4, Hardcover ISBN: 978-3-030-74385-7, DOI: 10.1007/978-3-030-74386-4, online available at: https://www.springer.com/us/book/9783030743857
+1. Yipeng Liu, Jiani Liu, Zhen Long, Ce Zhu, Tensor Computation for Data Analysis, New York, USA: Springer, 2022. ebook ISBN: 978-3-030-74386-4, Hardcover ISBN: 978-3-030-74385-7, DOI: 10.1007/978-3-030-74386-4, online available at: https://www.springer.com/us/book/9783030743857
 2. Jiani Liu, Ce Zhu, Zhen Long, Yipeng Liu, Tensor Regression, Hanover, USA: Now Publishers Inc. 2021. online available at: https://www.nowpublishers.com/article/Details/MAL-087
 
 #### Edited Books
 
-1. Yipeng Liu, Tensors for Data Processing, London, UK:  Academic Press (Elsevier), 2021. ISBN: 9780128244470. online available at: https://www.elsevier.com/books/tensors-for-data-processing/liu/978-0-12-824447-0
+1. Yipeng Liu, Tensors for Data Processing, London, UK:  Academic Press (Elsevier), 2022. ISBN: 9780128244470. online available at: https://www.elsevier.com/books/tensors-for-data-processing/liu/978-0-12-824447-0
 
 #### Book chapters
 
-1. Yingyue Bi, Yingcong Lu, Zhen Long, Ce Zhu, and Yipeng Liu, "Tensor Decompositions: Computations, Applications, and Challenges," Tensors for Data Processing, Academic Press (Elsevier), 2021. 
-2. Fei Wen, Zhonghao Zhang, and Yipeng Liu, "Generalized Thresholding for Low-rank Tensor Recovery: Approaches based on Model and Learning," Tensors for Data Processing,  Academic Press (Elsevier),  2021.
+1. Yingyue Bi, Yingcong Lu, Zhen Long, Ce Zhu, and Yipeng Liu, "Tensor Decompositions: Computations, Applications, and Challenges," Tensors for Data Processing, Academic Press (Elsevier), 2022. 
+2. Fei Wen, Zhonghao Zhang, and Yipeng Liu, "Generalized Thresholding for Low-rank Tensor Recovery: Approaches based on Model and Learning," Tensors for Data Processing,  Academic Press (Elsevier),  2022.
 
 
 ### Papers
