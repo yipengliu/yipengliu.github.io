@@ -94,11 +94,12 @@
 
 ### 2022
 
-1. Zhen Long, Ce Zhu, Jiani Liu, Pierre Comon, Yipeng Liu, "Trainable Subspaces for Low Rank Tensor Completion: Model and Analysis," IEEE Transactions on Signal Processing, 2022.
-2. Hengling Zhao, Yangyang Jiang, Shenghan Wang, Fei He, Fangzhou Ren, Zhonghao Zhang, Xue Yang, Ce Zhu, Jirong Yue, Ying Li, Yipeng Liu, "Dysphagia Diagnosis System with Integrated Speech Analysis from Throat Vibration," Expert Systems With Applications, 2022.
-3. Hengling Zhao, Chih-Chien Tsai, Mingyi Zhou, Yipeng Liu, Yao-Liang Chen, Fan-Huang, Yu-Chun Lin, Jiun-Jie Wang, "Deep Learning Based Diagnosis of Parkinson’s Disease Using Diffusion Magnetic Resonance Imaging," Brain Imaging and Behavior, 2022.
+1. Zhen Long, Ce Zhu, Jiani Liu, Pierre Comon, Yipeng Liu, "Trainable Subspaces for Low Rank Tensor Completion: Model and Analysis," IEEE Transactions on Signal Processing, vol. 70, no. 5, pp. 2502 - 2517, 2022.
+2. Hengling Zhao, Yangyang Jiang, Shenghan Wang, Fei He, Fangzhou Ren, Zhonghao Zhang, Xue Yang, Ce Zhu, Jirong Yue, Ying Li, Yipeng Liu, "Dysphagia Diagnosis System with Integrated Speech Analysis from Throat Vibration," Expert Systems With Applications, vo. 204, no. 117496, 2022.
+3. Hengling Zhao, Chih-Chien Tsai, Mingyi Zhou, Yipeng Liu, Yao-Liang Chen, Fan-Huang, Yu-Chun Lin, Jiun-Jie Wang, "Deep Learning Based Diagnosis of Parkinson’s Disease Using Diffusion Magnetic Resonance Imaging," Brain Imaging and Behavior, vol. 16, pp. 1749–1760, 2022.
 4. Tao Li, Lei Tan, Zhehao Huang, Qinghua Tao, Yipeng Liu, Xiaolin Huang, "Low Dimensional Trajectory Hypothesis is True: DNNs can be Trained in Tiny Subspaces," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. DOI: 10.1109/TPAMI.2022.3178101
-5. Zhen Long, Yipeng Liu, Yixin Gou, Sixing Zeng, Jiani Liu, Fei Wen, Ce zhu, "Linear tensor subspace of hyperspectral image with its application to denoising," Journal of Image and Graphics, 2022. (In Chinese).  
+5. Zhen Long, Yipeng Liu, Yixin Gou, Sixing Zeng, Jiani Liu, Fei Wen, Ce zhu, "Linear tensor subspace of hyperspectral image with its application to denoising," Journal of Image and Graphics, 2022. (In Chinese).
+6. Jiani Liu, Ce Zhu, Yipeng Liu, "Smooth Compact Tensor Ring Regression," IEEE Transactions on Knowledge and Data Engineering, vol. 34, no. 9, pp. 4439 - 4452, 2022.
 
 
 #### 2021
@@ -118,15 +119,14 @@
 
 #### 2020
 
-1. Jiani Liu, Ce Zhu, Yipeng Liu, "Smooth Compact Tensor Ring Regression," IEEE Transactions on Knowledge and Data Engineering, 2020. DOI: 10.1109/TKDE.2020.3037131. 
-2. Huyan Huang, Yipeng Liu, Zhen Long, Ce Zhu, "Robust Low-Rank Tensor Ring Completion," IEEE Transactions on Computational Imaging, vol. 6, pp. 1117-1126, 2020. 
-3. Yipeng Liu, Jiani Liu, Ce Zhu, "Low Rank Tensor Train Coefficient Array Estimation for Tensor-on-Tensor Regression," IEEE Transactions on Neural Networks and Learning Systems,  vol. 31, no. 12, pp. 5402 - 5411. 2020.  DOI: 10.1109/TNNLS.2020.2967022 
-4. Yipeng Liu, Tengteng Liu, Jiani Liu, Ce Zhu, "Smooth Robust Tensor Principal Component Analysis for Compressed Sensing of Dynamic MRI," Pattern Recognition, vol. 102, no. 107252, 2020. DOI: 10.1016/j.patcog.2020.107252 
-5. Huyan Huang, Yipeng Liu, Jiani Liu, Ce Zhu, "Provable Tensor Ring Completion," Signal Processing, vol. 171,  no. 107486, 2020. DOI:  10.1016/j.sigpro.2020.107486 
-6. Lanlan Feng, Yipeng Liu, Longxi Chen, Xiang Zhang, Ce Zhu, "Robust Block Tensor Principal Component Analysis," Signal Processing,  vol. 166, no. 107271, pp. 1 - 13, 2020. DOI: 10.1016/j.sigpro.2019.107271 
-7. Yipeng Liu, Zhen Long, Huyan Huang, Ce Zhu, "Low CP Rank and Tucker Rank Tensor Completion for Estimating Missing Components in Image Data," IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 4, pp. 944-954, 2020. 
-8. Mingyi Zhou, Jing Wu, Yipeng Liu, Shuaicheng Liu, Ce Zhu, "DaST: Data-free Substitute Training for Adversarial Attacks," IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, USA, June 14 - June 19,  2020. 
-9. Lanlan Feng, Shenghan Wang, Ce Zhu, Yipeng Liu, "Recent Advances on Robust Tensor Principal Component Analysis",  IJCAI-PRICAI 2020 workshop on Tensor Network Representations in Machine Learning, Yokohama, Japan,  January 7 - 15,  2021.
+1. Huyan Huang, Yipeng Liu, Zhen Long, Ce Zhu, "Robust Low-Rank Tensor Ring Completion," IEEE Transactions on Computational Imaging, vol. 6, pp. 1117-1126, 2020. 
+2. Yipeng Liu, Jiani Liu, Ce Zhu, "Low Rank Tensor Train Coefficient Array Estimation for Tensor-on-Tensor Regression," IEEE Transactions on Neural Networks and Learning Systems,  vol. 31, no. 12, pp. 5402 - 5411. 2020.  DOI: 10.1109/TNNLS.2020.2967022 
+3. Yipeng Liu, Tengteng Liu, Jiani Liu, Ce Zhu, "Smooth Robust Tensor Principal Component Analysis for Compressed Sensing of Dynamic MRI," Pattern Recognition, vol. 102, no. 107252, 2020. DOI: 10.1016/j.patcog.2020.107252 
+4. Huyan Huang, Yipeng Liu, Jiani Liu, Ce Zhu, "Provable Tensor Ring Completion," Signal Processing, vol. 171,  no. 107486, 2020. DOI:  10.1016/j.sigpro.2020.107486 
+5. Lanlan Feng, Yipeng Liu, Longxi Chen, Xiang Zhang, Ce Zhu, "Robust Block Tensor Principal Component Analysis," Signal Processing,  vol. 166, no. 107271, pp. 1 - 13, 2020. DOI: 10.1016/j.sigpro.2019.107271 
+6. Yipeng Liu, Zhen Long, Huyan Huang, Ce Zhu, "Low CP Rank and Tucker Rank Tensor Completion for Estimating Missing Components in Image Data," IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 4, pp. 944-954, 2020. 
+7. Mingyi Zhou, Jing Wu, Yipeng Liu, Shuaicheng Liu, Ce Zhu, "DaST: Data-free Substitute Training for Adversarial Attacks," IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, USA, June 14 - June 19,  2020. 
+8. Lanlan Feng, Shenghan Wang, Ce Zhu, Yipeng Liu, "Recent Advances on Robust Tensor Principal Component Analysis",  IJCAI-PRICAI 2020 workshop on Tensor Network Representations in Machine Learning, Yokohama, Japan,  January 7 - 15,  2021.
 
 
 #### 2019
