@@ -94,7 +94,7 @@
 
 ### 2022
 
-1. Fei He, Xiaoyi Hu, Ce Zhu, Ying Li, Yipeng Liu, "Multi-Scale Spatial and Temporal Speech Associations to Swallowing for Dysphagia Screening," IEEE Transactions on Audio, Speech and Language Processing, 2022.
+1. Fei He, Xiaoyi Hu, Ce Zhu, Ying Li, Yipeng Liu, "Multi-Scale Spatial and Temporal Speech Associations to Swallowing for Dysphagia Screening," IEEE-ACM Transactions on Audio, Speech and Language Processing, 2022.
 2. Zhen Long, Ce Zhu, Jiani Liu, Pierre Comon, Yipeng Liu, "Trainable Subspaces for Low Rank Tensor Completion: Model and Analysis," IEEE Transactions on Signal Processing, vol. 70, no. 5, pp. 2502 - 2517, 2022.
 3. Hengling Zhao, Yangyang Jiang, Shenghan Wang, Fei He, Fangzhou Ren, Zhonghao Zhang, Xue Yang, Ce Zhu, Jirong Yue, Ying Li, Yipeng Liu, "Dysphagia Diagnosis System with Integrated Speech Analysis from Throat Vibration," Expert Systems With Applications, vo. 204, no. 117496, 2022.
 4. Hengling Zhao, Chih-Chien Tsai, Mingyi Zhou, Yipeng Liu, Yao-Liang Chen, Fan-Huang, Yu-Chun Lin, Jiun-Jie Wang, "Deep Learning Based Diagnosis of Parkinson’s Disease Using Diffusion Magnetic Resonance Imaging," Brain Imaging and Behavior, vol. 16, pp. 1749–1760, 2022.
