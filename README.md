@@ -30,12 +30,13 @@
 1. IEEE Signal Processing Letters编委
 2. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022-2023
 3. Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委
-4. 国际电气与电子工程师学会，信号处理学会技术委员会附属委员
-5. 中国图象图形学学会青年工作委员会委员
-6. 中国计算机学会多媒体技术专委会委员
-7. 中国中国国家自然科学基金项目评审专家
-8. 多次担任行业知名国际/国内会议的组织工作
-9. 多次行业权威期刊审稿人，包括：IEEE TSP，IEEE J-STSP，IEEE TIP，IEEE TMM，IEEE T-PAMI，IEEE T-CVST，IEEE TBME，IEEE JBHI，IEEE TII，IEEE TC等
+4. 系统工程与电子学报（英文版）客座编委
+5. 国际电气与电子工程师学会，信号处理学会技术委员会附属委员
+6. 中国图象图形学学会青年工作委员会委员
+7. 中国计算机学会多媒体技术专委会委员
+8. 中国中国国家自然科学基金项目评审专家
+9. 多次担任行业知名国际/国内会议的组织工作
+10. 多次行业权威期刊审稿人，包括：IEEE TSP，IEEE J-STSP，IEEE TIP，IEEE TMM，IEEE T-PAMI，IEEE T-CVST，IEEE TBME，IEEE JBHI，IEEE TII，IEEE TC等
 
 
 ## 科研项目
@@ -45,8 +46,8 @@
 
 ## 科研荣誉
 
-1. 2022年度全球前2%顶尖科学家（斯坦福大学）
-2. 24届国际多媒体信号处理研讨会（MMSP 2022）最佳演示奖（Best Demo Award）
+1. 2022年度全球前2%顶尖科学家（斯坦福大学发布）
+2. 第24届IEEE国际多媒体信号处理研讨会（MMSP 2022）最佳演示论文奖（Best Demo Award）
 3. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer for 2022-2023）
 4. 首届川渝科技学术大会优秀论文一等奖，2020年
 5. 国际电气电子工程师学会高级会员，2017年
@@ -55,16 +56,19 @@
 
 ## 学生培养
 
-1. 教学工作：主讲本科生基础课《信号与系统》和研究生基础课《最优化理论与应用》。曾获电子科技大学第八届研究生教学成果奖一等奖。
+1. 教学工作：主讲本科生基础课《信号与系统》、研究生基础课《最优化理论与应用》、博士生前沿探索课《信号与信息处理前沿》。曾获电子科技大学第八届研究生教学成果奖一等奖。
 2. 科研指导：优秀硕士学位论文3篇。
-3. 毕业去向：欧美高校深造（包括：University of Leuven、Harvard University）、国内外高新技术企业研发（包括：Materialise、International Netherlands Groups（ING）、Microsoft、百度、腾讯、大华，中电集团研究所）。
+3. 研究生教改项目：项目一：现代数字信号处理理论及算法；项目二：基于项目的“智能信息”创新能力提升计划；项目三：面向共性基础项目的信号处理核心课程群建设
+4. 2020年度优秀硕士学位论文知道教师
+5. 2022年度成电国际合作与国际教育先进个人
+6. 毕业去向：欧美高校深造（包括：University of Leuven、Harvard University）、国内外高新技术企业研发（包括：Materialise、International Netherlands Groups（ING）、Microsoft、百度、腾讯、大华，中电集团研究所）。
 
 
 ## 个人简介
 
 刘翼鹏是电子科技大学信息与通信工程学院副教授。他曾在鲁汶大学（比利时）、清华大学（北京）、清华大学（台湾）、华为技术、西南电子技术研究所访问和工作。他主要从事张量数据分析相关理论、方法与应用工作，以张量计算为基础，重点研究张量分解和低秩优化，推广信号复原、图像增强、频谱感知、协同滤波、轻量化神经网络、对抗攻击、异常检测等技术，有效避免传统数据处理中将高维数组矩阵化带来的数据结构损失，同时还能避免大规模数据处理中的“维数灾难”计算难题。
 
-他发表国际期刊和会议论文80余篇，其中20余篇论文发表在JSTSP、TSP、TIP、TMI、TMM、TKDE、TNNLS等IEEE期刊，ESI 高被引论文3篇，包括热点论文1 篇。2021年由Springer出版的他的专著《Tensor Computation for Data Analysis》，阐述了张量计算推广各种机器学习方法和在多个数据分析领域的应用；2021年他的专著《Tensor Regression》被Now Publishers机器学习领域主编Michael Jordan推荐进入Foundations and Trends® in Machine Learning系列的专著，全面深入的总结和展望了张量回归的理论、方法和应用；2021年由Elsevier出版了他编著的《Tensors for Data Processing》，汇集了张量数据处理领域7位IEEE/SIAM Fellow和数十位青年科学家对该领域的系统总结。他分别于2012年和2014年获得比利时弗拉芒政府海外会议支持奖2项，2020年获首届川渝科技学术大会优秀论文一等奖，2022年获得国际多媒体信号处理研讨会（MMSP 2022）最佳演示奖（Best Demo Award）。入选2022年度斯坦福大学评选的全球前2%顶尖科学家名单。主研/主持欧盟研究理事会高级项目1项、比利时法兰德斯自然科学基金1项、中国国家自然科学基金4项、四川省国际/地区科研合作项目1项、四川省科技支撑项目2项。
+他发表国际期刊和会议论文80余篇，其中20余篇论文发表在JSTSP、TSP、TIP、TMI、TMM、TKDE、TNNLS等IEEE期刊，ESI 高被引论文3篇，包括热点论文1 篇。2021年由Springer出版的他的专著《Tensor Computation for Data Analysis》，阐述了张量计算推广各种机器学习方法和在多个数据分析领域的应用；2021年他的专著《Tensor Regression》被Now Publishers机器学习领域主编Michael Jordan推荐进入Foundations and Trends® in Machine Learning系列的专著，全面深入的总结和展望了张量回归的理论、方法和应用；2021年由Elsevier出版了他编著的《Tensors for Data Processing》，汇集了张量数据处理领域7位IEEE/SIAM Fellow和数十位青年科学家对该领域的系统总结。他分别于2012年和2014年获得比利时弗拉芒政府海外会议支持奖2项，2020年获首届川渝科技学术大会优秀论文一等奖，2022年获得国际多媒体信号处理研讨会（MMSP 2022）最佳演示论文奖（Best Demo Award）。入选2022年度斯坦福大学评选的全球前2%顶尖科学家名单。主研/主持欧盟研究理事会高级项目1项、比利时法兰德斯自然科学基金1项、中国国家自然科学基金4项、四川省国际/地区科研合作项目1项、四川省科技计划项目2项。
 
 他是IEEE高级会员，中国电子学会高级会员，中国图象图形学学会高级会员，IEEE信号处理协会技术委员会附属委员，中国图象图形学学会青年工作委员会委员，中国计算机学会多媒体技术专委会委员。他担任国际期刊IEEE Signal Processing Letters的编委，Signal Processing: Image Communication （Elsevier）的首席客座编委；多次担任行业权威期刊和会议的组织、编辑和审稿工作。
 
@@ -107,7 +111,7 @@
 
 #### 2021
 
-1. Jiani Liu, Ce Zhu, Zhen Long and Yipeng Liu, "Tensor Regression", Foundations and Trends® in Machine Learning, vol. 14, no. 4, pp 379-565, 2021.
+1. Jiani Liu, Ce Zhu, Zhen Long and Yipeng Liu, "Tensor Regression", Foundations and Trends® in Machine Learning, vol. 14, no. 4, pp 379-565, 2021. (rank the 1st among all journals, books series, conference proceedings and trade publications of computer science, according to Elsevier citescore) 
 2. Zhen Long, Ce Zhu, Jiani Liu, Yipeng Liu, "Bayesian Low Rank Tensor Ring for Image Recovery,"  IEEE Transactions on Image Processing,  vol. 30, pp. 3568-3580, 2021. DOI: 10.1109/TIP.2021.3062195. 
 3. Zhonghao Zhang, Yipeng Liu, Jiani Liu, Fei Wen, Ce Zhu, "AMP-Net: Denoising based Deep Unfolding for Compressive Image Sensing,"  IEEE Transactions on Image Processing, vol. 30, pp. 1487-1500, 2021. 
 4. Jiani Liu, Ce Zhu, Zhen Long, Huyan Huang, Yipeng Liu, "Low-Rank Tensor Ring Learning for Multi-linear Regression," Pattern Recognition, vol. 113, no. 107753, 2021. 
