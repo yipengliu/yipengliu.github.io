@@ -138,7 +138,7 @@
 
 #### 2019
 
-1. Liaqat Ali, Ce Zhu, Zhonghao Zhang, Yipeng Liu, "Automated Detection of Parkinson’s Disease Based on Multiple Types of Sustained Phonations using Linear Discriminant Analysis and Genetically Optimized Neural Network," IEEE Journal of Translational Engineering in Health and Medicine, vol. 7,  2019. 
+1. Liaqat Ali, Ce Zhu, Zhonghao Zhang, Yipeng Liu, "Automated Detection of Parkinson’s Disease Based on Multiple Types of Sustained Phonations using Linear Discriminant Analysis and Genetically Optimized Neural Network," IEEE Journal of Translational Engineering in Health and Medicine, vol. 7,  2019. (The most cited paper in IEEE Journal of Translational Engineering in Health and Medicine in 2019)
 2. Liaqat Ali, Ce Zhu, Noorbakhsh Amiri Golilarz, Ashir Javeed, Mingyi Zhou, Yipeng Liu, "Reliable Parkinson's Disease Detection by Analyzing Handwritten Drawings: Construction of an Unbiased Cascaded Learning System based on Feature Selection and Adaptive Boosting Model," IEEE Access,  vol. 7, no. 1, pp. 116480 - 116489, 2019. 
 3. Liaqat Ali, Ce Zhu, Mingyi Zhou, Yipeng Liu, "Early diagnosis of Parkinson's disease from multiple speech recordings by simultaneous sample and feature selection," Expert Systems with Applications, vol. 137, pp. 22 - 28, 2019. 
 4. Mingyi Zhou, Yipeng Liu, Long Zhen, Longxi Chen, Ce Zhu, "Tensor Rank Learning in CP Decomposition via Convolutional Neural Network", Signal Processing: Image Communication, vol 73, pp. 12-21, 2019.  
