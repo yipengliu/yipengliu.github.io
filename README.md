@@ -106,10 +106,11 @@
 ### 2023
 
 1. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Line Binary Descriptor Based on Hierarchical Band Difference,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
-2. Zhen Long, Ce Zhu, Pierre Comon, Yipeng Liu, "Feature Space Recovery for Incomplete Multi-view Clustering," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSO 2023), Rhodes Island, Greece, June 4-10, 2023.
-3. Jiani Liu, Qinghua Tao, Ce Zhu, Yipeng Liu, Johan A.K. Suykens, "Tensorized LSSVMs for Multitask Regression," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSO 2023), Rhodes Island, Greece, June 4-10, 2023.
-4. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, "Level-line Guided Edge Drawing for Robust Line Segment Detection," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSO 2023), Rhodes Island, Greece, June 4-10, 2023.
-5. Xinyu Lin, Yingjie Zhou, Xun Zhang, Yipeng Liu, Ce Zhu, "Efficient and Effective Multi-Camera Pose Estimation with Weighted M-Estimate Sample Consensus," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSO 2023), Rhodes Island, Greece, June 4-10, 2023.
+2. Tao Li, Lei Tan, Zhehao Huang, Qinghua Tao, Yipeng Liu, Xiaolin Huang, "Low Dimensional Trajectory Hypothesis is True: DNNs can be Trained in Tiny Subspaces," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 3, pp. 3411 - 3420, 2023.
+3. Zhen Long, Ce Zhu, Pierre Comon, Yipeng Liu, "Feature Space Recovery for Incomplete Multi-view Clustering," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSO 2023), Rhodes Island, Greece, June 4-10, 2023.
+4. Jiani Liu, Qinghua Tao, Ce Zhu, Yipeng Liu, Johan A.K. Suykens, "Tensorized LSSVMs for Multitask Regression," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSO 2023), Rhodes Island, Greece, June 4-10, 2023.
+5. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, "Level-line Guided Edge Drawing for Robust Line Segment Detection," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSO 2023), Rhodes Island, Greece, June 4-10, 2023.
+6. Xinyu Lin, Yingjie Zhou, Xun Zhang, Yipeng Liu, Ce Zhu, "Efficient and Effective Multi-Camera Pose Estimation with Weighted M-Estimate Sample Consensus," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSO 2023), Rhodes Island, Greece, June 4-10, 2023.
 
 ### 2022
 
@@ -117,9 +118,8 @@
 2. Zhen Long, Ce Zhu, Jiani Liu, Pierre Comon, Yipeng Liu, "Trainable Subspaces for Low Rank Tensor Completion: Model and Analysis," IEEE Transactions on Signal Processing, vol. 70, no. 5, pp. 2502 - 2517, 2022.
 3. Hengling Zhao, Yangyang Jiang, Shenghan Wang, Fei He, Fangzhou Ren, Zhonghao Zhang, Xue Yang, Ce Zhu, Jirong Yue, Ying Li, Yipeng Liu, "Dysphagia Diagnosis System with Integrated Speech Analysis from Throat Vibration," Expert Systems With Applications, vo. 204, no. 117496, 2022.
 4. Hengling Zhao, Chih-Chien Tsai, Mingyi Zhou, Yipeng Liu, Yao-Liang Chen, Fan-Huang, Yu-Chun Lin, Jiun-Jie Wang, "Deep Learning Based Diagnosis of Parkinson’s Disease Using Diffusion Magnetic Resonance Imaging," Brain Imaging and Behavior, vol. 16, pp. 1749–1760, 2022.
-5. Tao Li, Lei Tan, Zhehao Huang, Qinghua Tao, Yipeng Liu, Xiaolin Huang, "Low Dimensional Trajectory Hypothesis is True: DNNs can be Trained in Tiny Subspaces," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. DOI: 10.1109/TPAMI.2022.3178101
-6. Zhen Long, Yipeng Liu, Yixin Gou, Sixing Zeng, Jiani Liu, Fei Wen, Ce zhu, "Linear tensor subspace of hyperspectral image with its application to denoising," Journal of Image and Graphics, 2022. (In Chinese).
-7. Jiani Liu, Ce Zhu, Yipeng Liu, "Smooth Compact Tensor Ring Regression," IEEE Transactions on Knowledge and Data Engineering, vol. 34, no. 9, pp. 4439 - 4452, 2022.
+5. 6. Zhen Long, Yipeng Liu, Yixin Gou, Sixing Zeng, Jiani Liu, Fei Wen, Ce zhu, "Linear tensor subspace of hyperspectral image with its application to denoising," Journal of Image and Graphics, 2022. (In Chinese).
+6. Jiani Liu, Ce Zhu, Yipeng Liu, "Smooth Compact Tensor Ring Regression," IEEE Transactions on Knowledge and Data Engineering, vol. 34, no. 9, pp. 4439 - 4452, 2022.
 
 
 #### 2021
