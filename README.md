@@ -106,6 +106,10 @@
 ### 2023
 
 1. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Line Binary Descriptor Based on Hierarchical Band Difference,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
+2. Zhen Long, Ce Zhu, Pierre Comon, Yipeng Liu, "Feature Space Recovery for Incomplete Multi-view Clustering," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSO 2023), Rhodes Island, Greece, June 4-10, 2023.
+3. Jiani Liu, Qinghua Tao, Ce Zhu, Yipeng Liu, Johan A.K. Suykens, "Tensorized LSSVMs for Multitask Regression," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSO 2023), Rhodes Island, Greece, June 4-10, 2023.
+4. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, "Level-line Guided Edge Drawing for Robust Line Segment Detection," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSO 2023), Rhodes Island, Greece, June 4-10, 2023.
+5. Xinyu Lin, Yingjie Zhou, Xun Zhang, Yipeng Liu, Ce Zhu, "Efficient and Effective Multi-Camera Pose Estimation with Weighted M-Estimate Sample Consensus," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSO 2023), Rhodes Island, Greece, June 4-10, 2023.
 
 ### 2022
 
