@@ -118,7 +118,7 @@
 2. Zhen Long, Ce Zhu, Jiani Liu, Pierre Comon, Yipeng Liu, "Trainable Subspaces for Low Rank Tensor Completion: Model and Analysis," IEEE Transactions on Signal Processing, vol. 70, no. 5, pp. 2502 - 2517, 2022.
 3. Hengling Zhao, Yangyang Jiang, Shenghan Wang, Fei He, Fangzhou Ren, Zhonghao Zhang, Xue Yang, Ce Zhu, Jirong Yue, Ying Li, Yipeng Liu, "Dysphagia Diagnosis System with Integrated Speech Analysis from Throat Vibration," Expert Systems With Applications, vo. 204, no. 117496, 2022.
 4. Hengling Zhao, Chih-Chien Tsai, Mingyi Zhou, Yipeng Liu, Yao-Liang Chen, Fan-Huang, Yu-Chun Lin, Jiun-Jie Wang, "Deep Learning Based Diagnosis of Parkinson’s Disease Using Diffusion Magnetic Resonance Imaging," Brain Imaging and Behavior, vol. 16, pp. 1749–1760, 2022.
-5. 6. Zhen Long, Yipeng Liu, Yixin Gou, Sixing Zeng, Jiani Liu, Fei Wen, Ce zhu, "Linear tensor subspace of hyperspectral image with its application to denoising," Journal of Image and Graphics, 2022. (In Chinese).
+5. Zhen Long, Yipeng Liu, Yixin Gou, Sixing Zeng, Jiani Liu, Fei Wen, Ce zhu, "Linear tensor subspace of hyperspectral image with its application to denoising," Journal of Image and Graphics, 2022. (In Chinese).
 6. Jiani Liu, Ce Zhu, Yipeng Liu, "Smooth Compact Tensor Ring Regression," IEEE Transactions on Knowledge and Data Engineering, vol. 34, no. 9, pp. 4439 - 4452, 2022.
 
 
