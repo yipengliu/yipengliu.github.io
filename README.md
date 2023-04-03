@@ -1,4 +1,4 @@
-# 刘翼鹏 (Yipeng Liu)
+sit# 刘翼鹏 (Yipeng Liu)
 
 ## 通讯地址
 四川省成都市高新西区西源大道2006号电子科技大学
@@ -106,12 +106,13 @@
 
 ### 2023
 
-1. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Line Binary Descriptor Based on Hierarchical Band Difference,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
-2. Tao Li, Lei Tan, Zhehao Huang, Qinghua Tao, Yipeng Liu, Xiaolin Huang, "Low Dimensional Trajectory Hypothesis is True: DNNs can be Trained in Tiny Subspaces," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 3, pp. 3411 - 3420, 2023.
-3. Zhen Long, Ce Zhu, Pierre Comon, Yipeng Liu, "Feature Space Recovery for Incomplete Multi-view Clustering," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes Island, Greece, June 4-10, 2023.
-4. Jiani Liu, Qinghua Tao, Ce Zhu, Yipeng Liu, Johan A.K. Suykens, "Tensorized LSSVMs for Multitask Regression," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes Island, Greece, June 4-10, 2023.
-5. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, "Level-line Guided Edge Drawing for Robust Line Segment Detection," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes Island, Greece, June 4-10, 2023.
-6. Xinyu Lin, Yingjie Zhou, Xun Zhang, Yipeng Liu, Ce Zhu, "Efficient and Effective Multi-Camera Pose Estimation with Weighted M-Estimate Sample Consensus," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes Island, Greece, June 4-10, 2023.
+1. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance,” IEEE Transactions on Instrumentation & Measurement, 2023.
+2. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Line Binary Descriptor Based on Hierarchical Band Difference,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
+3. Tao Li, Lei Tan, Zhehao Huang, Qinghua Tao, Yipeng Liu, Xiaolin Huang, "Low Dimensional Trajectory Hypothesis is True: DNNs can be Trained in Tiny Subspaces," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 3, pp. 3411 - 3420, 2023.
+4. Zhen Long, Ce Zhu, Pierre Comon, Yipeng Liu, "Feature Space Recovery for Incomplete Multi-view Clustering," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes Island, Greece, June 4-10, 2023.
+5. Jiani Liu, Qinghua Tao, Ce Zhu, Yipeng Liu, Johan A.K. Suykens, "Tensorized LSSVMs for Multitask Regression," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes Island, Greece, June 4-10, 2023.
+6. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, "Level-line Guided Edge Drawing for Robust Line Segment Detection," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes Island, Greece, June 4-10, 2023.
+7. Xinyu Lin, Yingjie Zhou, Xun Zhang, Yipeng Liu, Ce Zhu, "Efficient and Effective Multi-Camera Pose Estimation with Weighted M-Estimate Sample Consensus," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes Island, Greece, June 4-10, 2023.
 
 ### 2022
 
