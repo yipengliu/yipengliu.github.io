@@ -114,6 +114,8 @@
 6. Jiani Liu, Qinghua Tao, Ce Zhu, Yipeng Liu, Johan A.K. Suykens, "Tensorized LSSVMs for Multitask Regression," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes Island, Greece, June 4-10, 2023.
 7. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, "Level-line Guided Edge Drawing for Robust Line Segment Detection," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes Island, Greece, June 4-10, 2023.
 8. Xinyu Lin, Yingjie Zhou, Xun Zhang, Yipeng Liu, Ce Zhu, "Efficient and Effective Multi-Camera Pose Estimation with Weighted M-Estimate Sample Consensus," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes Island, Greece, June 4-10, 2023.
+9. Hongwei Guo, Ce Zhu, Yipeng Liu, Xu Yang and Lei Luo, "Lagrange multiplier adaptation at CTU-level for VVC low-delay hierarchical coding," The 18th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2023),  June 14 -16, 2023, Beijing, China.
+10. Jingjing Hou, Hongwei Guo, Yipeng Liu, Lanlan Feng, Xu Yang, Lei Luo and Ce Zhu, "Latitude-Guided Temporally Dependent Rate-Distortion Optimization For Panoramic Video Coding," The 18th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2023),  June 14 -16, 2023, Beijing, China.
 
 ### 2022
 
