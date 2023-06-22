@@ -210,9 +210,10 @@
 
 1. Yipeng Liu, Maarten De Vos, Sabine Van Huffel, “Compressed Sensing of Multi-Channel EEG Signals: The Simultaneous Cosparsity and Low Rank Optimization,” IEEE Transactions on Biomedical Engineering, vol. 62, no. 8, pp. 2055-2061, Aug. 2015.  
 2. Xiaolin Huang, Yipeng Liu, Lei Shi, Sabine Van Huffel, Johan Suykens, "Two-Level L1 Optimization for Compressed Sensing" Signal Processing, vol. 108, pp. 459-475, pp. 459-475, Mar. 2015.
-3. Sayuan Liang, Yipeng Liu, Tom Dresselaers,, Sabine Van Huffel, Uwe Himmelreich, “Compressed Sensing as a valuable tool for visualization of low SNR signal in 19F MRI,” The 32nd Annual Scientific Meeting of European Society for Magnetic Resonance in Medicine and Biology, Edinburgh, UK, Oct. 1-3, 2015.
-4. Sayuan Liang, Yipeng Liu, Tom Dresselaers, Karim Louchami, Sabine Van Huffel, and Uwe Himmelreich, “Comparison of different compressed sensing algorithms for low SNR 19F application --- imaging of transplanted pancreatic islets with PFCE labeled,” The 23rd ISMRM Annual Meeting and Exhibition 2015, Toronto, Canada, May 30 – June 5, 2015. (ISMRM MERIT AWARD of Magna cum laude). 
-5. Hui Wang, Xiaolin Huang, Yipeng Liu, Sabine Van Huffel and Qun Wan, “Binary Reweighted l1 -norm Minimization for One-Bit Compressed Sensing,” The 8th International Joint Conference on Biomedical Engineering Systems and Technologies, Portugal, Lisbon, Jan. 12 - 15 2015.
+3. Yuqian Li, Diana M. Sima, Sofie Van Cauter, Uwe Himmelreich, Anca R. Croitor Sava, Yiming Pi, Yipeng Liu, and Sabine Van Huffel, ""Corrections to “Unsupervised Nosologic Imaging for Glioma Diagnosis" [Jun 13 1760-1763]," IEEE Transactions on Biomedical Engineering, vol. 62, no. 8, pp. 2091 - 2091, 2015.
+4. Sayuan Liang, Yipeng Liu, Tom Dresselaers, Sabine Van Huffel, Uwe Himmelreich, “Compressed Sensing as a valuable tool for visualization of low SNR signal in 19F MRI,” The 32nd Annual Scientific Meeting of European Society for Magnetic Resonance in Medicine and Biology, Edinburgh, UK, Oct. 1-3, 2015.
+5. Sayuan Liang, Yipeng Liu, Tom Dresselaers, Karim Louchami, Sabine Van Huffel, and Uwe Himmelreich, “Comparison of different compressed sensing algorithms for low SNR 19F application --- imaging of transplanted pancreatic islets with PFCE labeled,” The 23rd ISMRM Annual Meeting and Exhibition 2015, Toronto, Canada, May 30 – June 5, 2015. (ISMRM MERIT AWARD of Magna cum laude). 
+6. Hui Wang, Xiaolin Huang, Yipeng Liu, Sabine Van Huffel and Qun Wan, “Binary Reweighted l1 -norm Minimization for One-Bit Compressed Sensing,” The 8th International Joint Conference on Biomedical Engineering Systems and Technologies, Portugal, Lisbon, Jan. 12 - 15 2015.
 
 
 #### 2014
@@ -227,8 +228,8 @@
 
 1. Yipeng Liu, Maarten De Vos, Ivan Gligorijevic, Vladimir Matic, Yuqian Li, Sabine Van Huffel, "Multi-Structural Signal Recovery for Biomedical Compressive Sensing,'' IEEE Transactions on Biomedical Engineering, vol. 60, no. 10, pp. 2794 – 2805, Oct. 2013.
 2. Fei Wen, Qun Wan, Guibo He, Peng Zhang, and Yipeng Liu, "Wideband Direction of Arrival Estimation with Linear Array: Analysis and Closed-Form Formulae." Chinese Journal of Electronics, vol. 22, no. 4, Oct. 2013.
-3. Yuqian Li, Diana M. Sima, Sofie Van Cauter, Uwe Himmelreich, Anca R. Croitor Sava, Yiming Pi, Yipeng Liu and Sabine Van Huffel,  "Unsupervised Nosologic Imaging for Glioma Diagnosis,'' IEEE Transactions on Biomedical Engineering, vol. 60, no. 6, pp. 1760-1763, Jun. 2013.
-4. Qingshan You, Qun Wan, Yipeng Liu, "A short note on Strongly Convex Programming for Exact Matrix Completion and Robust Principal Component Analysis," Inverse Problems and Imaging , vol. 7, no. 1, pp. 305-306, Feb. 2013.
+3. Yuqian Li, Diana M. Sima, Sofie Van Cauter, Uwe Himmelreich, Anca R. Croitor Sava, Yiming Pi, Yipeng Liu, and Sabine Van Huffel,  "Unsupervised Nosologic Imaging for Glioma Diagnosis,'' IEEE Transactions on Biomedical Engineering, vol. 60, no. 6, pp. 1760-1763, Jun. 2013.
+4. Qingshan You, Qun Wan, Yipeng Liu, "A short note on Strongly Convex Programming for Exact Matrix Completion and Robust Principal Component Analysis," Inverse Problems and Imaging, vol. 7, no. 1, pp. 305-306, Feb. 2013.
 
 
 #### 2012
