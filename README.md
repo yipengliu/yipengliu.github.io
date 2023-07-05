@@ -108,7 +108,7 @@
 
 1. Yingcong Lu, Yipeng Liu, Zhen Long, Zhangxin Chen, Ce Zhu, "O-Minus Decomposition for Multi-view Tensor Subspace Clustering," IEEE Transactions on Artificial Intelligence, 2023
 2. Lanlan Feng, Ce Zhu, Zhen Long, Jiani Liu, Yipeng Liu, "Multiplex Transformed Tensor Decomposition for Multidimensional Image Recovery," IEEE Transactions on Image Processing, 2023.
-3. Xinwei, Zhangxin Chen, Ce Zhu, Yipeng Liu, "Low Rank Optimization for Efficient Deep Learning: Making A Balance between Compact Architecture and Fast Training," Journal of Systems Engineering and Electronics, 2023.
+3. Xinwei Ou, Zhangxin Chen, Ce Zhu, Yipeng Liu, "Low Rank Optimization for Efficient Deep Learning: Making A Balance between Compact Architecture and Fast Training," Journal of Systems Engineering and Electronics, 2023.
 4. Zhonghao Zhang, Yipeng Liu, Xingyu Cao, Fei Wen, Ce Zhu, "Scalable Deep Compressive Sensing," Transactions on Machine Learning Research, 2023. 
 5. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance,” IEEE Transactions on Instrumentation & Measurement, 2023.
 6. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Line Binary Descriptor Based on Hierarchical Band Difference,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
