@@ -134,7 +134,7 @@
 
 #### 2021
 
-1. Jiani Liu, Ce Zhu, Zhen Long and Yipeng Liu, "Tensor Regression", Foundations and Trends® in Machine Learning, vol. 14, no. 4, pp 379-565, 2021. (rank the 1st among all journals, books series, conference proceedings and trade publications of computer science, according to Elsevier citescore) 
+1. Jiani Liu, Ce Zhu, Zhen Long and Yipeng Liu, "Tensor Regression", Foundations and Trends® in Machine Learning, vol. 14, no. 4, pp 379-565, 2021. 
 2. Zhen Long, Ce Zhu, Jiani Liu, Yipeng Liu, "Bayesian Low Rank Tensor Ring for Image Recovery,"  IEEE Transactions on Image Processing,  vol. 30, pp. 3568-3580, 2021. DOI: 10.1109/TIP.2021.3062195. 
 3. Zhonghao Zhang, Yipeng Liu, Jiani Liu, Fei Wen, Ce Zhu, "AMP-Net: Denoising based Deep Unfolding for Compressive Image Sensing,"  IEEE Transactions on Image Processing, vol. 30, pp. 1487-1500, 2021. 
 4. Jiani Liu, Ce Zhu, Zhen Long, Huyan Huang, Yipeng Liu, "Low-Rank Tensor Ring Learning for Multi-linear Regression," Pattern Recognition, vol. 113, no. 107753, 2021. 
