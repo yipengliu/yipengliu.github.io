@@ -1,6 +1,6 @@
-刘翼鹏
-电子科技大学，信息与通信工程学院
-联系方式：yipengliu(eta)uestc(dot)edu(dot)cn
+##刘翼鹏
+#电子科技大学，信息与通信工程学院
+#联系方式：yipengliu(eta)uestc(dot)edu(dot)cn
 
 ## 通讯地址
 四川省成都市高新西区西源大道2006号电子科技大学
