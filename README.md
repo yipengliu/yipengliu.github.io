@@ -112,7 +112,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 
 ### 2023
 
-1. Zhen Long, Ce Zhu, Zihan Li, Yazhou Ren, Yipeng Liu, "Multi-view MERA Subspace Clustering," IEEE Transactions on Multimedia, 2023.
+1. Zhen Long, Ce Zhu, Jie Chen, Zihan Li, Yazhou Ren, Yipeng Liu, "Multi-view MERA Subspace Clustering," IEEE Transactions on Multimedia, 2023.
 2. Xin Liu, Zhangxin Chen, Ce Zhu, Yipeng Liu, "GAPMSF-Net: Generalized Alternating Projection with Multi-stage Fusion Network for Snapshot Compressive Imaging," IEEE Transactions on Computational Imaging, 2023.
 3. Yingcong Lu, Yipeng Liu, Zhen Long, Zhangxin Chen, Ce Zhu, "O-Minus Decomposition for Multi-view Tensor Subspace Clustering," IEEE Transactions on Artificial Intelligence, 2023
 4. Lanlan Feng, Ce Zhu, Zhen Long, Jiani Liu, Yipeng Liu, "Multiplex Transformed Tensor Decomposition for Multidimensional Image Recovery," IEEE Transactions on Image Processing, 2023.
