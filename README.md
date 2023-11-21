@@ -67,7 +67,6 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 3. 研究生教改项目：项目一：现代数字信号处理理论及算法；项目二：基于项目的“智能信息”创新能力提升计划；项目三：面向共性基础项目的信号处理核心课程群建设
 4. 2020年度优秀硕士学位论文指导教师
 5. 2022年度成电国际合作与国际教育先进个人
-6. 毕业去向：欧美高校深造（包括：University of Leuven、Harvard University）、国内外高新技术企业研发（包括：Materialise、International Netherlands Groups（ING）、Microsoft、百度、腾讯、大华，中电集团研究所）。
 
 
 ## 个人简介
