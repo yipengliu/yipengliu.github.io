@@ -108,6 +108,9 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 
 ### Papers
 
+### 2024
+
+1. Yixin Gou, Yipeng Liu, Fei He, Borbala Hunyadi, and Ce Zhu, "Tensor Completion for Alzheimer’s Disease Prediction from Diffusion Tensor Imaging," IEEE Transactions on Biomedical Engineering, 2024.
 
 ### 2023
 
