@@ -111,6 +111,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 ### 2024
 
 1. Yixin Gou, Yipeng Liu, Fei He, Borbala Hunyadi, and Ce Zhu, "Tensor Completion for Alzheimer’s Disease Prediction from Diffusion Tensor Imaging," IEEE Transactions on Biomedical Engineering, 2024.
+2. Hongwei Guo, Ce Zhu, Yipeng Liu, Mao Ye, and Lei Luo, "CTU-Level Lagrange Multiplier and QP Adaption for Random Access Hierarchical Coding in VVC," The 19th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2024), Toronto, June 19 - 21, 2024.
 
 ### 2023
 
