@@ -281,7 +281,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 
 #### 2009
 
-1. Yipeng Liu and Qun Wan, "Improved anti-NBI UWB waveform design based on spectral factorization," The International Conference on Communications and Mobile Computing 2009 (CMC 2009), Kuming, China, Jan. 2009.
+1. Yipeng Liu and Qun Wan, "Improved anti-NBI UWB waveform design based on spectral factorization," The International Conference on Communications and Mobile Computing 2009 (CMC 2009), Kunming, China, Jan. 2009.
 2. Hui Chen, Qun Wan, Yipeng Liu, Anmin Huang, "A sparse signal reconstruction perspective for direction-of-arrive estimation with a distributed polarization sensitive array,"  International Conference on Wireless Communications & Signal Processing, 2009 (WCSP 2009), Nanjing, China, 13-15 Nov. 2009, pp. 1-5
 
 
