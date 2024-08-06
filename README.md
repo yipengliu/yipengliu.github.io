@@ -40,10 +40,11 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 5. 国际电气与电子工程师学会，信号处理学会技术委员会附属委员
 6. 中国图象图形学学会青年工作委员会委员
 7. 中国计算机学会多媒体技术专委会委员
-8. 中国中国国家自然科学基金项目评审专家
-9. 多次担任世界知名大学博士答辩委员会委员，包括俄罗斯斯科尔科沃科学技术学院（Skoltech）
-10. 多次担任行业知名国际/国内会议的组织工作
-11. 多次行业权威期刊审稿人，包括：IEEE TSP，IEEE J-STSP，IEEE TIP，IEEE TMM，IEEE T-PAMI，IEEE T-CVST，IEEE TBME，IEEE JBHI，IEEE TII，IEEE TC等
+8. 中国国家自然科学基金项目评审专家
+9. 
+10. 多次担任世界知名大学博士答辩委员会委员，包括俄罗斯斯科尔科沃科学技术学院（Skoltech）
+11. 多次担任行业知名国际/国内会议的组织工作
+12. 多次行业权威期刊审稿人，包括：IEEE TSP，IEEE J-STSP，IEEE TIP，IEEE TMM，IEEE T-PAMI，IEEE T-CVST，IEEE TBME，IEEE JBHI，IEEE TII，IEEE TC等
 
 
 ## 科研项目
@@ -53,12 +54,13 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 
 ## 科研荣誉
 
-1. 2022年、2023年度全球前2%顶尖科学家（斯坦福大学发布）
-2. 第24届IEEE国际多媒体信号处理研讨会（MMSP 2022）最佳演示论文奖（Best Demo Award）
-3. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer for 2022-2023）
-4. 首届川渝科技学术大会优秀论文一等奖，2020年
-5. 国际电气电子工程师学会高级会员，2017年
-6. 比利时弗拉芒政府海外会议支持奖，2012年，2014年
+1. 四川省自然科学奖二等奖（排名第二）
+2. 2022年、2023年度全球前2%顶尖科学家（斯坦福大学发布）
+3. 第24届IEEE国际多媒体信号处理研讨会（MMSP 2022）最佳演示论文奖（Best Demo Award）
+4. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer for 2022-2023）
+5. 首届川渝科技学术大会优秀论文一等奖，2020年
+6. 国际电气电子工程师学会高级会员，2017年
+7. 比利时弗拉芒政府海外会议支持奖，2012年，2014年
 
 
 ## 学生培养
