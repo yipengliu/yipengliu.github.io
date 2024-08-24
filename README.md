@@ -33,7 +33,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
  
 ## 学术兼职
  
-1. IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员
+1. IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员, 2024 - 2028
 2. IEEE Signal Processing Letters编委，2019 - 2024
 3. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022-2023
 4. Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委，2017- 2019
