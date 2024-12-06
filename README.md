@@ -36,7 +36,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 1. IEEE Signal Processing Letters资深领域编委，2024 至今
 2. IEEE信号处理协会计算成像（SPS CI）技术委员会委员，2025 - 2027
 3. IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员, 2024 - 2028
-4. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022-2023
+4. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022 - 2023
 5. Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委，2017- 2019
 6. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
 7. 中国图象图形学学会青年工作委员会委员
@@ -123,6 +123,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 8. Da Shen, Zhongrong Wang, Fei He, Zhijie Sun, Ce Zhu, Yipeng Liu, "Epilepsy Detection with Personal Identification Based on Regularized O-minus Decomposition," 2024 IEEE International Symposium on Circuits and Systems (ISCAS 2024), Singapore, May 19-22 2024.
 9. Zhen Long, Qiyuan Wang, Yazhou Ren, Yipeng Liu, Ce Zhu, "S^ 2MVTC: a Simple yet Efficient Scalable Multi-View Tensor Clustering," The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024, Seattle, USA, June 17-21, 2024.
 10. Hongwei Guo, Ce Zhu, Yipeng Liu, Mao Ye, and Lei Luo, "CTU-Level Lagrange Multiplier and QP Adaption for Random Access Hierarchical Coding in VVC," The 19th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2024), Toronto, June 19 - 21, 2024.
+11. Chao Zhang, Lanlan Feng, Ke Wu, Ce Zhu, Hongwei Guo, Yipeng Liu, "Finding Channel-wise Tensor Subspaces in GANs," IEEE International Conference on Signal, Information and Data Processing 2024 (IEEE ICSIDP 2024), Zhuhai, China, Nov. 22-24, 2024.
 
 ### 2023
 
