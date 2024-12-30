@@ -44,8 +44,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 9. 中国计算机学会多媒体技术专委会委员
 10. 中国国家自然科学基金项目评审专家
 11. 多次担任世界知名大学博士答辩委员会委员，包括俄罗斯斯科尔科沃科学技术学院（Skoltech）
-12. 多次担任行业知名国际/国内会议的组织工作
-13. 行业权威期刊审稿人，包括：IEEE TSP，IEEE J-STSP，IEEE TIP，IEEE TMM，IEEE T-PAMI，IEEE T-CVST，IEEE TBME，IEEE JBHI，IEEE TII，IEEE TC等
+12. 行业权威期刊审稿人，包括：IEEE TSP，IEEE J-STSP，IEEE TIP，IEEE TMM，IEEE T-PAMI，IEEE T-CVST，IEEE TBME，IEEE JBHI，IEEE TII，IEEE TC等
 
 
 ## 科研项目
