@@ -111,6 +111,11 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 
 ### Papers
 
+### 2025
+
+1. Geyou Zhang, Ce Zhu, Kai Liu, Yipeng Liu, "Phase-Guided Light Field 3D Imaging with High Pixel Resolution," IEEE Transactions on Instrumentation & Measurement, 2025
+
+
 ### 2024
 
 1. Lanlan Feng, Yipeng Liu, Ziming Liu, Ce Zhu, "Online Non-convex Robust Tensor Principal Component Analysis," IEEE Transactions on Neural Networks and Learning Systems, 2024
