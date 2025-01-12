@@ -81,7 +81,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 
 他是IEEE高级会员，中国电子学会高级会员，中国图象图形学学会高级会员，IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员，中国图象图形学学会青年工作委员会委员，中国计算机学会多媒体技术专委会委员。他担任国际期刊IEEE Transctions on Image Processing的编委，IEEE Signal Processing Letters的编委，Signal Processing: Image Communication （Elsevier）的首席客座编委，系统工程与电子技术（英文版）客座编委；多次担任行业权威期刊和会议的组织、编辑和审稿工作。
 
-他曾应邀在国际人工智能协会旗舰会议IJCAI 2022、IEEE多媒体领域旗舰会议ICME 2022、IEEE信号处理学会旗舰会议ICIP 2020、 IEEE智能计算学会旗舰会议SSCI 2020、IEEE电路与系统学会旗舰会议ISCAS 2019 做讲习班报告（tutorial）。他是亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished Lecturer for 2022-2023）。
+他曾应邀在IEEE信号处理学会旗舰会议ICIP 2024、IEEE电路与系统学会旗舰会议ISCAS 2024、国际人工智能协会旗舰会议IJCAI 2022、IEEE多媒体领域旗舰会议ICME 2022做讲习班报告（tutorial）。他是亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished Lecturer for 2022-2023）。
 
 ## 媒体报道
 
