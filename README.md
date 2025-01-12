@@ -79,7 +79,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 
 他发表国际期刊和会议论文100余篇，其中30余篇论文发表在JSTSP、TSP、TIP、TMI、TMM、TPAMI、TKDE、TNNLS等IEEE期刊，ESI 高被引论文4篇，包括热点论文1 篇。撰写张量信号处理方向的英文专著2本和编著1本。他的论文Tensor Regression发表在影响因子65.3的人工智能顶刊FnT in Machine Learning，是其创刊16年唯一的第一/通讯作者来自中国单位的工作。他分别于2012年和2014年获得比利时弗拉芒政府海外会议支持奖2项，2020年获首届川渝科技学术大会优秀论文一等奖，2022年获得国际多媒体信号处理研讨会（MMSP 2022）最佳演示论文奖（Best Demo Award），获得2023年年度四川省自然科学奖二等奖，2022年至今连续入选斯坦福大学评选的全球前2%顶尖科学家名单，2024年入选第15批四川省学术和技术带头人后备人选。主研/主持欧盟研究理事会高级项目1项、比利时法兰德斯自然科学基金1项、中国国家自然科学基金4项、四川省国际/地区科研合作项目1项、四川省科技计划项目2项。
 
-他是IEEE高级会员，中国电子学会高级会员，中国图象图形学学会高级会员，IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员，中国图象图形学学会青年工作委员会委员，中国计算机学会多媒体技术专委会委员。他担任国际期刊IEEE Transctions on Image Processing的编委，IEEE Signal Processing Letters的编委，Signal Processing: Image Communication （Elsevier）的首席客座编委，系统工程与电子技术（英文版）客座编委；多次担任行业权威期刊和会议的组织、编辑和审稿工作。
+他是IEEE高级会员，中国电子学会高级会员，中国图象图形学学会高级会员，IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员，中国图象图形学学会青年工作委员会委员，中国计算机学会多媒体技术专委会委员。他担任国际期刊IEEE Transactions on Image Processing的编委，IEEE Signal Processing Letters的编委，Signal Processing: Image Communication （Elsevier）的首席客座编委，系统工程与电子技术（英文版）客座编委；多次担任行业权威期刊和会议的组织、编辑和审稿工作。
 
 他曾应邀在IEEE信号处理学会旗舰会议ICIP 2024、IEEE电路与系统学会旗舰会议ISCAS 2024、国际人工智能协会旗舰会议IJCAI 2022、IEEE多媒体领域旗舰会议ICME 2022做讲习班报告（tutorial）。他是亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished Lecturer for 2022-2023）。
 
