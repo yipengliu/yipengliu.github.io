@@ -85,9 +85,10 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 
 ## 媒体报道
 
-1. 信通学院刘翼鹏等人的英文著作Tensor Computation for Data Analysis由施普林格公司出版：https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81351
-2. 信通学院博士生在Foundations and Trends in Machine Learning上发表张量回归综述论文：https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81642
-3. 刘翼鹏副教授在2019年度三个国际知名学术会议做张量信号分析专题报告：https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=74753
+1. 信通学院刘翼鹏教授受邀在国际知名学术会议IEEE ISCAS 2024作张量回归讲习报告：https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=92835
+2. 信通学院刘翼鹏等人的英文著作Tensor Computation for Data Analysis由施普林格公司出版：https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81351
+3. 信通学院博士生在Foundations and Trends in Machine Learning上发表张量回归综述论文：https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81642
+4. 刘翼鹏副教授在2019年度三个国际知名学术会议做张量信号分析专题报告：https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=74753
 
 
 ## 著作论文
