@@ -39,12 +39,13 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 4. IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员, 2024 - 2028
 5. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022 - 2023
 6. Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委，2017- 2019
-7. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
-8. 中国图象图形学学会青年工作委员会委员
-9. 中国计算机学会多媒体技术专委会委员
-10. 中国国家自然科学基金项目评审专家
-11. 多次担任世界知名大学博士答辩委员会委员，包括俄罗斯斯科尔科沃科学技术学院（Skoltech）
-12. 行业权威期刊审稿人，包括：IEEE TSP，IEEE J-STSP，IEEE TIP，IEEE TMM，IEEE T-PAMI，IEEE T-CVST，IEEE TBME，IEEE JBHI，IEEE TII，IEEE TC等
+7. ICME 2025 workshop on Big Surveillance Data Analysis and Processing, lead chair
+8. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
+9. 中国图象图形学学会青年工作委员会委员
+10. 中国计算机学会多媒体技术专委会委员
+11. 中国国家自然科学基金项目评审专家
+12. 多次担任世界知名大学博士答辩委员会委员，包括俄罗斯斯科尔科沃科学技术学院（Skoltech）
+13. 行业权威期刊审稿人，包括：IEEE TSP，IEEE J-STSP，IEEE TIP，IEEE TMM，IEEE T-PAMI，IEEE T-CVST，IEEE TBME，IEEE JBHI，IEEE TII，IEEE TC等
 
 
 ## 科研项目
