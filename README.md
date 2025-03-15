@@ -114,7 +114,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 
 ### 2025
 
-1. Ruituo Wu, Yang Chen, Jian Xiao, Bing Li, Jicong Fan, Frederic Dufaux, Ce Zhu, Yipeng Liu, "DA-Flow: Dual AttentionNormalizing Flow for Skeleton-based Video Anomaly Detection," IEEE Transactions on Multimedia, 2025.
+1. Ruituo Wu, Yang Chen, Jian Xiao, Bing Li, Jicong Fan, Frederic Dufaux, Ce Zhu, Yipeng Liu, "DA-Flow: Dual Attention Normalizing Flow for Skeleton-based Video Anomaly Detection," IEEE Transactions on Multimedia, 2025.
 2. Geyou Zhang, Ce Zhu, Kai Liu, Yipeng Liu, "Phase-Guided Light Field 3D Imaging with High Pixel Resolution," IEEE Transactions on Instrumentation & Measurement, 2025.
 3. Fei He, Xinyue Li, Ce Zhu, Fan Zhang, Yipeng Liu, "Fully Connected Tensor Network based Brain Structural Feature Extraction for Early Alzheimer’s Disease Detection," 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025), Hyderabad, India, April 6 11, 2025.
 4. Weiting Ou, Yipeng Liu, Zhijie Sun, Bing Li, Le Zhang, Ce Zhu, "Codar: Complex-valued Neural Network for Crossing-Floor Intrusion Detection via WiFi," 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025), Hyderabad, India, April 6 11, 2025.
