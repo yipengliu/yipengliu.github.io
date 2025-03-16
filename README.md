@@ -148,7 +148,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 3. Zhonghao Zhang, Yipeng Liu, Xingyu Cao, Fei Wen, Ce Zhu, "Scalable Deep Compressive Sensing," Transactions on Machine Learning Research, 2023.
 9. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Effective and Efficient Line Segment Detection for Visual Measurement Guided by Level Lines,” IEEE Transactions on Instrumentation & Measurement, vol. 72, 2023.
 10. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance,” IEEE Transactions on Instrumentation & Measurement, vol. 72, 2023.
-11. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Line Binary Descriptor Based on Hierarchical Band Difference,” IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70,no. 7, pp. 2680 - 2684, 2023.
+11. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Line Binary Descriptor Based on Hierarchical Band Difference,” IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 7, pp. 2680 - 2684, 2023.
 12. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Level Line Guided Interest Point Detection," IEEE Signal Processing Letters, vol. 30, pp. 863 - 867, 2023.
 13. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, "A dedicated benchmark for contour-based corner detection evaluation," Image and Vision Computing, vol. 136, no. 104716, 2023.
 14. Tao Li, Lei Tan, Zhehao Huang, Qinghua Tao, Yipeng Liu, Xiaolin Huang, "Low Dimensional Trajectory Hypothesis is True: DNNs can be Trained in Tiny Subspaces," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 3, pp. 3411 - 3420, 2023.
