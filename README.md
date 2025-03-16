@@ -117,40 +117,39 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 
 1. Ruituo Wu, Yang Chen, Jian Xiao, Bing Li, Jicong Fan, Frederic Dufaux, Ce Zhu, Yipeng Liu, "DA-Flow: Dual Attention Normalizing Flow for Skeleton-based Video Anomaly Detection," IEEE Transactions on Multimedia, 2025.
 2. Geyou Zhang, Ce Zhu, Kai Liu, Yipeng Liu, "Phase-Guided Light Field 3D Imaging with High Pixel Resolution," IEEE Transactions on Instrumentation & Measurement, 2025.
-3. Fei He, Xinyue Li, Ce Zhu, Fan Zhang, Yipeng Liu, "Fully Connected Tensor Network based Brain Structural Feature Extraction for Early Alzheimer’s Disease Detection," 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025), Hyderabad, India, April 6 11, 2025.
-4. Weiting Ou, Yipeng Liu, Zhijie Sun, Bing Li, Le Zhang, Ce Zhu, "Codar: Complex-valued Neural Network for Crossing-Floor Intrusion Detection via WiFi," 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025), Hyderabad, India, April 6 11, 2025.
-5. Hongwei Guo, Yapeng Du, Lei Luo, Yipeng Liu and Ce Zhu, "VVC Rate Control Based on Distortion Propagation Factors," The 20th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2025), Dublin Ireland, June 11-13, 2025.
+3. Lanlan Feng, Yipeng Liu, Ziming Liu, Ce Zhu, "Online Non-convex Robust Tensor Principal Component Analysis," IEEE Transactions on Neural Networks and Learning Systems, 2025.
+4. Fei He, Xinyue Li, Ce Zhu, Fan Zhang, Yipeng Liu, "Fully Connected Tensor Network based Brain Structural Feature Extraction for Early Alzheimer’s Disease Detection," 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025), Hyderabad, India, April 6-11, 2025.
+5. Weiting Ou, Yipeng Liu, Zhijie Sun, Bing Li, Le Zhang, Ce Zhu, "Codar: Complex-valued Neural Network for Crossing-Floor Intrusion Detection via WiFi," 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025), Hyderabad, India, April 6-11, 2025.
+6. Hongwei Guo, Yapeng Du, Lei Luo, Yipeng Liu, Ce Zhu, "VVC Rate Control Based on Distortion Propagation Factors," The 20th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2025), Dublin Ireland, June 11-13, 2025.
 
 
 ### 2024
 
-1. Lanlan Feng, Yipeng Liu, Ziming Liu, Ce Zhu, "Online Non-convex Robust Tensor Principal Component Analysis," IEEE Transactions on Neural Networks and Learning Systems, 2024
-2. Yipeng Liu, Jie Chen, Yingcong Lu, Weiting Ou, Zhen Long, Ce Zhu, "Adaptively Topological Tensor Network for Multi-view Subspace Clustering," IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 11, pp. 5562 - 5575, 2024.
-3. Yuan Fang, Yipeng Liu, Chong-Yung Chi, Zhen Long, Ce Zhu, "CS2DIPs: Unsupervised HSI Super-Resolution Using Coupled Spatial and Spectral DIPs," IEEE Transactions on Image Processing, vol. 33, pp. 3090 - 3101, 2024.
-4. Yixin Gou, Yipeng Liu, Fei He, Borbala Hunyadi, and Ce Zhu, "Tensor Completion for Alzheimer’s Disease Prediction from Diffusion Tensor Imaging," IEEE Transactions on Biomedical Engineering, vol. 71, no. 7, pp. 2211 -2223, 2024.
-5. Zhen Long, Ce Zhu, Pierre Comon, Yazhou Ren, Yipeng Liu, "Feature Space Recovery for Efficient Incomplete Multi-view Clustering," IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 9, pp. 4664 - 4677, 2024.
-6. Xingyu Cao, Xiangtao Zhang, Ce Zhu, Jiani Liu, Yipeng Liu, "TS-RTPM-Net: Data-driven Tensor Sketching for Efficient CP Decomposition,"  IEEE Transactions on Big Data, vol. 10, no. 1, pp. 1 - 11, 2024.
-7. Yingcong Lu, Yipeng Liu, Zhen Long, Zhangxin Chen, Ce Zhu, "O-Minus Decomposition for Multi-view Tensor Subspace Clustering," IEEE Transactions on Artificial Intelligence, vol. 5, no. 3, pp. 1207 - 1220, 2024.
-8. Zhen Long, Ce Zhu, Jie Chen, Zihan Li, Yazhou Ren, Yipeng Liu, "Multi-view MERA Subspace Clustering," IEEE Transactions on Multimedia, vol. 26, pp. 3102 - 3112, 2024.
-9. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, "A comprehensive review of image line segment detection and description: Taxonomies, comparisons, and challenges," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 46, no. 12, pp. 8074 - 8093, 2024.
-10. Xinwei Ou, Zhangxin Chen, Ce Zhu, Yipeng Liu, "Low Rank Optimization for Efficient Deep Learning: Making A Balance between Compact Architecture and Fast Training," Journal of Systems Engineering and Electronics, vol. 35, no. 3, pp. 509 - 531, 2024.
-11. Nan Yang, Zihan Li, Zhen Long, Xiaolin Huang, Ce Zhu, Yipeng Liu, "Efficient Black-box Adversarial Attack on Deep Clustering Models," 2024 IEEE International Conference on Image Processing (ICIP 2024), Abu Dhabi, UAE, Oct. 27-30, 2024.
-12. Jiani Liu, Ce Zhu, Yang Chen, XiaoLin Huang, Yipeng Liu, "Phase Retrieval by Tensor Total Least Squares," 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024), Seoul, Korea, 14~19 April 2024.
-13. Fei He, Yipeng Liu, Da Shen, Yangyang Jiang, Ying Li, Ce Zhu, "Multi-band speech tensor decomposition for interactive feature extraction in early dysphagia screening," 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024), Seoul, Korea, 14~19 April 2024.
-14. Da Shen, Zhongrong Wang, Fei He, Zhijie Sun, Ce Zhu, Yipeng Liu, "Epilepsy Detection with Personal Identification Based on Regularized O-minus Decomposition," 2024 IEEE International Symposium on Circuits and Systems (ISCAS 2024), Singapore, May 19-22 2024.
-15. Zhen Long, Qiyuan Wang, Yazhou Ren, Yipeng Liu, Ce Zhu, "S^ 2MVTC: a Simple yet Efficient Scalable Multi-View Tensor Clustering," The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024, Seattle, USA, June 17-21, 2024.
-16. Hongwei Guo, Ce Zhu, Yipeng Liu, Mao Ye, and Lei Luo, "CTU-Level Lagrange Multiplier and QP Adaption for Random Access Hierarchical Coding in VVC," The 19th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2024), Toronto, June 19 - 21, 2024.
-17. Chao Zhang, Lanlan Feng, Ke Wu, Ce Zhu, Hongwei Guo, Yipeng Liu, "Finding Channel-wise Tensor Subspaces in GANs," IEEE International Conference on Signal, Information and Data Processing 2024 (IEEE ICSIDP 2024), Zhuhai, China, Nov. 22-24, 2024.
+1. Yipeng Liu, Jie Chen, Yingcong Lu, Weiting Ou, Zhen Long, Ce Zhu, "Adaptively Topological Tensor Network for Multi-view Subspace Clustering," IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 11, pp. 5562 - 5575, 2024.
+2. Yuan Fang, Yipeng Liu, Chong-Yung Chi, Zhen Long, Ce Zhu, "CS2DIPs: Unsupervised HSI Super-Resolution Using Coupled Spatial and Spectral DIPs," IEEE Transactions on Image Processing, vol. 33, pp. 3090 - 3101, 2024.
+3. Yixin Gou, Yipeng Liu, Fei He, Borbala Hunyadi, and Ce Zhu, "Tensor Completion for Alzheimer’s Disease Prediction from Diffusion Tensor Imaging," IEEE Transactions on Biomedical Engineering, vol. 71, no. 7, pp. 2211 -2223, 2024.
+4. Zhen Long, Ce Zhu, Pierre Comon, Yazhou Ren, Yipeng Liu, "Feature Space Recovery for Efficient Incomplete Multi-view Clustering," IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 9, pp. 4664 - 4677, 2024.
+5. Xingyu Cao, Xiangtao Zhang, Ce Zhu, Jiani Liu, Yipeng Liu, "TS-RTPM-Net: Data-driven Tensor Sketching for Efficient CP Decomposition,"  IEEE Transactions on Big Data, vol. 10, no. 1, pp. 1 - 11, 2024.
+6. Yingcong Lu, Yipeng Liu, Zhen Long, Zhangxin Chen, Ce Zhu, "O-Minus Decomposition for Multi-view Tensor Subspace Clustering," IEEE Transactions on Artificial Intelligence, vol. 5, no. 3, pp. 1207 - 1220, 2024.
+7. Zhen Long, Ce Zhu, Jie Chen, Zihan Li, Yazhou Ren, Yipeng Liu, "Multi-view MERA Subspace Clustering," IEEE Transactions on Multimedia, vol. 26, pp. 3102 - 3112, 2024.
+8. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, "A comprehensive review of image line segment detection and description: Taxonomies, comparisons, and challenges," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 46, no. 12, pp. 8074 - 8093, 2024.
+9. Xinwei Ou, Zhangxin Chen, Ce Zhu, Yipeng Liu, "Low Rank Optimization for Efficient Deep Learning: Making A Balance between Compact Architecture and Fast Training," Journal of Systems Engineering and Electronics, vol. 35, no. 3, pp. 509 - 531, 2024.
+10. Nan Yang, Zihan Li, Zhen Long, Xiaolin Huang, Ce Zhu, Yipeng Liu, "Efficient Black-box Adversarial Attack on Deep Clustering Models," 2024 IEEE International Conference on Image Processing (ICIP 2024), Abu Dhabi, UAE, Oct. 27-30, 2024.
+11. Jiani Liu, Ce Zhu, Yang Chen, XiaoLin Huang, Yipeng Liu, "Phase Retrieval by Tensor Total Least Squares," 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024), Seoul, Korea, 14~19 April 2024.
+12. Fei He, Yipeng Liu, Da Shen, Yangyang Jiang, Ying Li, Ce Zhu, "Multi-band speech tensor decomposition for interactive feature extraction in early dysphagia screening," 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024), Seoul, Korea, 14~19 April 2024.
+13. Da Shen, Zhongrong Wang, Fei He, Zhijie Sun, Ce Zhu, Yipeng Liu, "Epilepsy Detection with Personal Identification Based on Regularized O-minus Decomposition," 2024 IEEE International Symposium on Circuits and Systems (ISCAS 2024), Singapore, May 19-22 2024.
+14. Zhen Long, Qiyuan Wang, Yazhou Ren, Yipeng Liu, Ce Zhu, "S^ 2MVTC: a Simple yet Efficient Scalable Multi-View Tensor Clustering," The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024, Seattle, USA, June 17-21, 2024.
+15. Hongwei Guo, Ce Zhu, Yipeng Liu, Mao Ye, and Lei Luo, "CTU-Level Lagrange Multiplier and QP Adaption for Random Access Hierarchical Coding in VVC," The 19th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2024), Toronto, June 19 - 21, 2024.
+16. Chao Zhang, Lanlan Feng, Ke Wu, Ce Zhu, Hongwei Guo, Yipeng Liu, "Finding Channel-wise Tensor Subspaces in GANs," IEEE International Conference on Signal, Information and Data Processing 2024 (IEEE ICSIDP 2024), Zhuhai, China, Nov. 22-24, 2024.
 
 ### 2023
 1.  Xin Liu, Zhangxin Chen, Ce Zhu, Yipeng Liu, "GAPMSF-Net: Generalized Alternating Projection with Multi-stage Fusion Network for Snapshot Compressive Imaging," IEEE Transactions on Computational Imaging, vol. 9, pp. 760 - 768, 2024.
-6. Lanlan Feng, Ce Zhu, Zhen Long, Jiani Liu, Yipeng Liu, "Multiplex Transformed Tensor Decomposition for Multidimensional Image Recovery," IEEE Transactions on Image Processing, vol. 32, pp. 3397 - 3412, 2023.
-7. 
-8. Zhonghao Zhang, Yipeng Liu, Xingyu Cao, Fei Wen, Ce Zhu, "Scalable Deep Compressive Sensing," Transactions on Machine Learning Research, 2023.
-9. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Effective and Efficient Line Segment Detection for Visual Measurement Guided by Level Lines,” IEEE Transactions on Instrumentation & Measurement, 2023.
-10. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance,” IEEE Transactions on Instrumentation & Measurement, 2023.
-11. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Line Binary Descriptor Based on Hierarchical Band Difference,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
-12. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Level Line Guided Interest Point Detection," IEEE Signal Processing Letters, 2023.
+2. Lanlan Feng, Ce Zhu, Zhen Long, Jiani Liu, Yipeng Liu, "Multiplex Transformed Tensor Decomposition for Multidimensional Image Recovery," IEEE Transactions on Image Processing, vol. 32, pp. 3397 - 3412, 2023.
+3. Zhonghao Zhang, Yipeng Liu, Xingyu Cao, Fei Wen, Ce Zhu, "Scalable Deep Compressive Sensing," Transactions on Machine Learning Research, 2023.
+9. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Effective and Efficient Line Segment Detection for Visual Measurement Guided by Level Lines,” IEEE Transactions on Instrumentation & Measurement, vol. 72, 2023.
+10. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance,” IEEE Transactions on Instrumentation & Measurement, vol. 72, 2023.
+11. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Illumination-insensitive Line Binary Descriptor Based on Hierarchical Band Difference,” IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70,no. 7, pp. 2680 - 2684, 2023.
+12. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, “Level Line Guided Interest Point Detection," IEEE Signal Processing Letters, vol. 30, pp. 863 - 867, 2023.
 13. Xinyu Lin, Yingjie Zhou, Yipeng Liu, Ce Zhu, "A dedicated benchmark for contour-based corner detection evaluation," Image and Vision Computing, vol. 136, no. 104716, 2023.
 14. Tao Li, Lei Tan, Zhehao Huang, Qinghua Tao, Yipeng Liu, Xiaolin Huang, "Low Dimensional Trajectory Hypothesis is True: DNNs can be Trained in Tiny Subspaces," IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 3, pp. 3411 - 3420, 2023.
 15. Zhen Long, Ce Zhu, Pierre Comon, Yipeng Liu, "Feature Space Recovery for Incomplete Multi-view Clustering," The 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes Island, Greece, June 4-10, 2023.
@@ -167,14 +166,14 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 2. Zhen Long, Ce Zhu, Jiani Liu, Pierre Comon, Yipeng Liu, "Trainable Subspaces for Low Rank Tensor Completion: Model and Analysis," IEEE Transactions on Signal Processing, vol. 70, no. 5, pp. 2502 - 2517, 2022.
 3. Hengling Zhao, Yangyang Jiang, Shenghan Wang, Fei He, Fangzhou Ren, Zhonghao Zhang, Xue Yang, Ce Zhu, Jirong Yue, Ying Li, Yipeng Liu, "Dysphagia Diagnosis System with Integrated Speech Analysis from Throat Vibration," Expert Systems With Applications, vo. 204, no. 117496, 2022.
 4. Hengling Zhao, Chih-Chien Tsai, Mingyi Zhou, Yipeng Liu, Yao-Liang Chen, Fan-Huang, Yu-Chun Lin, Jiun-Jie Wang, "Deep Learning Based Diagnosis of Parkinson’s Disease Using Diffusion Magnetic Resonance Imaging," Brain Imaging and Behavior, vol. 16, pp. 1749–1760, 2022.
-5. Zhen Long, Yipeng Liu, Yixin Gou, Sixing Zeng, Jiani Liu, Fei Wen, Ce zhu, "Linear tensor subspace of hyperspectral image with its application to denoising," Journal of Image and Graphics, 2022. (In Chinese).
+5. Zhen Long, Yipeng Liu, Yixin Gou, Sixing Zeng, Jiani Liu, Fei Wen, Ce Zhu, "Linear tensor subspace of hyperspectral image with its application to denoising," Journal of Image and Graphics, 2022. (In Chinese).
 6. Jiani Liu, Ce Zhu, Yipeng Liu, "Smooth Compact Tensor Ring Regression," IEEE Transactions on Knowledge and Data Engineering, vol. 34, no. 9, pp. 4439 - 4452, 2022.
 
 
 #### 2021
 
 1. Jiani Liu, Ce Zhu, Zhen Long and Yipeng Liu, "Tensor Regression", Foundations and Trends® in Machine Learning, vol. 14, no. 4, pp 379-565, 2021. 
-2. Zhen Long, Ce Zhu, Jiani Liu, Yipeng Liu, "Bayesian Low Rank Tensor Ring for Image Recovery,"  IEEE Transactions on Image Processing,  vol. 30, pp. 3568-3580, 2021. DOI: 10.1109/TIP.2021.3062195. 
+2. Zhen Long, Ce Zhu, Jiani Liu, Yipeng Liu, "Bayesian Low Rank Tensor Ring for Image Recovery,"  IEEE Transactions on Image Processing,  vol. 30, pp. 3568-3580, 2021.
 3. Zhonghao Zhang, Yipeng Liu, Jiani Liu, Fei Wen, Ce Zhu, "AMP-Net: Denoising based Deep Unfolding for Compressive Image Sensing,"  IEEE Transactions on Image Processing, vol. 30, pp. 1487-1500, 2021. 
 4. Jiani Liu, Ce Zhu, Zhen Long, Huyan Huang, Yipeng Liu, "Low-Rank Tensor Ring Learning for Multi-linear Regression," Pattern Recognition, vol. 113, no. 107753, 2021. 
 5. Ying Hu, Yudong Shi, Xingyu Cao, Yipeng Liu, Shaoyun Guo, Jiabin Shen, "Enhanced output and wearable performances of triboelectric nanogenerator based on ePTFE microporous membranes for motion monitoring," Nano Energy, no. 106103, 2021.
