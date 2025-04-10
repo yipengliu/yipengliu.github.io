@@ -140,6 +140,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 14. Zhen Long, Qiyuan Wang, Yazhou Ren, Yipeng Liu, Ce Zhu, "S^ 2MVTC: a Simple yet Efficient Scalable Multi-View Tensor Clustering," The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024, Seattle, USA, June 17-21, 2024.
 15. Hongwei Guo, Ce Zhu, Yipeng Liu, Mao Ye, and Lei Luo, "CTU-Level Lagrange Multiplier and QP Adaption for Random Access Hierarchical Coding in VVC," The 19th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2024), Toronto, June 19 - 21, 2024.
 16. Chao Zhang, Lanlan Feng, Ke Wu, Ce Zhu, Hongwei Guo, Yipeng Liu, "Finding Channel-wise Tensor Subspaces in GANs," IEEE International Conference on Signal, Information and Data Processing 2024 (IEEE ICSIDP 2024), Zhuhai, China, Nov. 22-24, 2024.
+17. Haolin He, Ce Zhu, Le Zhang, Yipeng Liu, Xiao Xu, Yuqian Chen, Leo Zekelman, Jarrett Rushmore, Yogesh Rathi, Nikos Makris, Lauren J O'Donnell, Fan Zhang, "A Novel Deep Clustering Framework for Fine-Scale Parcellation of Amygdala Using dMRI Tractography," The 21st International Symposium on Biomedical Imaging (ISBI 2024), Athens, Greece, May 27 - 30, 2024.
 
 ### 2023
 1.  Xin Liu, Zhangxin Chen, Ce Zhu, Yipeng Liu, "GAPMSF-Net: Generalized Alternating Projection with Multi-stage Fusion Network for Snapshot Compressive Imaging," IEEE Transactions on Computational Imaging, vol. 9, pp. 760 - 768, 2024.
