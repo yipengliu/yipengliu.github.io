@@ -120,6 +120,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 4. Fei He, Xinyue Li, Ce Zhu, Fan Zhang, Yipeng Liu, "Fully Connected Tensor Network based Brain Structural Feature Extraction for Early Alzheimer’s Disease Detection," 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025), Hyderabad, India, April 6-11, 2025.
 5. Weiting Ou, Yipeng Liu, Zhijie Sun, Bing Li, Le Zhang, Ce Zhu, "Codar: Complex-valued Neural Network for Crossing-Floor Intrusion Detection via WiFi," 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025), Hyderabad, India, April 6-11, 2025.
 6. Hongwei Guo, Yapeng Du, Lei Luo, Yipeng Liu, Ce Zhu, "VVC Rate Control Based on Distortion Propagation Factors," The 20th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2025), Dublin Ireland, June 11-13, 2025.
+7. Zhen Long, Yipeng Liu, Yazhou Ren, Ce Zhu, "SLR-MVTC: Smooth Low-Rank Multi-View Tensor Clustering," the 39th AAAI Conference on Artificial Intelligence (AAAI-25), Philadelphia, Pennsylvania, USA, Feb 25 - Mar. 4, 2025.
 
 
 ### 2024
