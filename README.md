@@ -132,6 +132,8 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 12. Xiangtao Zhang, Sheng Li, Ao Li, Yipeng Liu, Fan Zhang, Ce Zhu, Le Zhang, “Subspace Constraint and Contribution Estimation for Heterogeneous Federated Learning，” The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025, pp. 20632-20642.
 
 
+
+
 ### 2024
 
 1. Yipeng Liu, Jie Chen, Yingcong Lu, Weiting Ou, Zhen Long, Ce Zhu, "Adaptively Topological Tensor Network for Multi-view Subspace Clustering," IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 11, pp. 5562 - 5575, 2024.
@@ -151,6 +153,9 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 15. Hongwei Guo, Ce Zhu, Yipeng Liu, Mao Ye, and Lei Luo, "CTU-Level Lagrange Multiplier and QP Adaption for Random Access Hierarchical Coding in VVC," The 19th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2024), Toronto, June 19 - 21, 2024.
 16. Chao Zhang, Lanlan Feng, Ke Wu, Ce Zhu, Hongwei Guo, Yipeng Liu, "Finding Channel-wise Tensor Subspaces in GANs," IEEE International Conference on Signal, Information and Data Processing 2024 (IEEE ICSIDP 2024), Zhuhai, China, Nov. 22-24, 2024.
 17. Haolin He, Ce Zhu, Le Zhang, Yipeng Liu, Xiao Xu, Yuqian Chen, Leo Zekelman, Jarrett Rushmore, Yogesh Rathi, Nikos Makris, Lauren J O'Donnell, Fan Zhang, "A Novel Deep Clustering Framework for Fine-Scale Parcellation of Amygdala Using dMRI Tractography," The 21st International Symposium on Biomedical Imaging (ISBI 2024), Athens, Greece, May 27 - 30, 2024.
+18. Jingyu Zhai, Chenchen Wang, Yang Jiao, Yipeng Liu, Qun Wan, "TDOA estimation method based on frequency domain decimation," The 16th International Conference on Signal Processing Systems (ICSPS 2024), Kuming, China, Nov. 15 -17, 2024.
+Yang Jiao, Chenchen Wang, Jingyu Zhai, Yipeng Liu, Qun Wan, "Compressed sampling time difference of arrival estimation method based on amplitude and phase clustering," The 16th International Conference on Signal Processing Systems (ICSPS 2024), Kuming, China, Nov. 15 -17, 2024.
+Yiting Fan, Yi Liu, Luyao Sun, Yipeng Liu, Qun Wan, "Comparison of CRB on TOA estimation of LOS path between incoherent and coherent processing of two subbands CSI measurements," The 16th International Conference on Signal Processing Systems (ICSPS 2024), Kuming, China, Nov. 15 -17, 2024.
 
 ### 2023
 1.  Xin Liu, Zhangxin Chen, Ce Zhu, Yipeng Liu, "GAPMSF-Net: Generalized Alternating Projection with Multi-stage Fusion Network for Snapshot Compressive Imaging," IEEE Transactions on Computational Imaging, vol. 9, pp. 760 - 768, 2024.
