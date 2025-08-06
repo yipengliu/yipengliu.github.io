@@ -55,14 +55,15 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 ## 科研荣誉
 
 1. 第20届IEEE宽带多媒体系统和广播年会（IEEE BMSB 2025）最佳论文奖
-2. 2023年度四川省自然科学奖二等奖（排名第二）
-3. 第15批四川省学术和技术带头人后备人选，2024
-4. 2022年、2023年度全球前2%顶尖科学家（斯坦福大学发布）
-5. 第24届IEEE国际多媒体信号处理研讨会（MMSP 2022）最佳演示论文奖（Best Demo Award）
-6. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer for 2022-2023）
-7. 首届川渝科技学术大会优秀论文一等奖，2020年
-8. 国际电气电子工程师学会高级会员，2017年
-9. 比利时弗拉芒政府海外会议支持奖，2012年，2014年
+2. 第26届IEEE多媒体年会（ICME 2025）, 最佳演示奖（Best Demo Award）
+3. 2023年度四川省自然科学奖二等奖（排名第二）
+4. 第15批四川省学术和技术带头人后备人选，2024
+5. 2022年、2023年度全球前2%顶尖科学家（斯坦福大学发布）
+6. 第24届IEEE国际多媒体信号处理研讨会（MMSP 2022）最佳演示奖（Best Demo Award）
+7. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer for 2022-2023）
+8. 首届川渝科技学术大会优秀论文一等奖，2020年
+9. 国际电气电子工程师学会高级会员，2017年
+10. 比利时弗拉芒政府海外会议支持奖，2012年，2014年
 
 
 ## 学生培养
@@ -79,7 +80,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 
 刘翼鹏是电子科技大学信息与通信工程学院教授、博士生导师、国家级青年人才。他曾在鲁汶大学（比利时）、清华大学（北京）、清华大学（台湾）、华为技术、西南电子技术研究所访问和工作。他主要从事张量信号处理相关的理论方法和应用工作。以张量计算为基础，重点研究张量分解和低秩优化，有效避免传统信号处理中将高维数组矩阵化带来的数据结构损失，同时还能避免大规模数据处理中的“维数灾难”计算难题。
 
-他发表国际期刊和会议论文100余篇，其中30余篇论文发表在JSTSP、TSP、TIP、TMI、TMM、TPAMI、TKDE、TNNLS等IEEE期刊，ESI 高被引论文5篇。撰写张量信号处理方向的英文专著2本和编著1本。他的论文Tensor Regression发表在影响因子65.3的人工智能顶刊FnT in Machine Learning，是其创刊16年唯一的第一/通讯作者来自中国单位的工作。他分别于2012年和2014年获得比利时弗拉芒政府海外会议支持奖2项，2020年获首届川渝科技学术大会优秀论文一等奖，2022年获得国际多媒体信号处理研讨会（MMSP 2022）最佳演示论文奖（Best Demo Award），获得2023年年度四川省自然科学奖二等奖（排名第二），2022年至今连续入选斯坦福大学评选的全球前2%顶尖科学家名单，2024年入选第15批四川省学术和技术带头人后备人选。主研/主持欧盟研究理事会高级项目1项、比利时法兰德斯自然科学基金1项、中国国家自然科学基金5项、人社部国家外国专家个人类项目（S类）、四川海聚计划项目1项、四川省国际/地区科研合作项目1项、四川省科技计划项目2项。
+他发表国际期刊和会议论文100余篇，其中30余篇论文发表在JSTSP、TSP、TIP、TMI、TMM、TPAMI、TKDE、TNNLS等IEEE期刊，ESI 高被引论文5篇。撰写张量信号处理方向的英文专著2本和编著1本。他的论文Tensor Regression发表在影响因子65.3的人工智能顶刊FnT in Machine Learning，是其创刊16年唯一的第一/通讯作者来自中国单位的工作。他分别于2012年和2014年获得比利时弗拉芒政府海外会议支持奖2项，2020年获首届川渝科技学术大会优秀论文一等奖，2022年获得国际多媒体信号处理研讨会（MMSP 2022）最佳演示奖（Best Demo Award），获得2023年年度四川省自然科学奖二等奖（排名第二），2025年获得第26届IEEE多媒体年会（ICME 2025）最佳演示奖，2025年获得第20届IEEE宽带多媒体系统和广播年会（IEEE BMSB 2025）最佳论文奖；2022年至今连续入选斯坦福大学评选的全球前2%顶尖科学家名单，2024年入选第15批四川省学术和技术带头人后备人选。主研/主持欧盟研究理事会高级项目1项、比利时法兰德斯自然科学基金1项、中国国家自然科学基金5项、人社部国家外国专家个人类项目（S类）、四川海聚计划项目1项、四川省国际/地区科研合作项目1项、四川省科技计划项目2项。
 
 他是IEEE高级会员，中国电子学会高级会员，中国图象图形学学会高级会员，IEEE信号处理协会计算成像（SPS CI）技术委员会委员，IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员，中国图象图形学学会青年工作委员会委员，中国计算机学会多媒体技术专委会委员。他担任国际期刊IEEE Transactions on Image Processing的编委，IEEE Signal Processing Letters的资深领域编委，Signal Processing: Image Communication （Elsevier）的首席客座编委，系统工程与电子技术（英文版）客座编委；多次担任行业权威期刊和会议的组织、编辑和审稿工作。
 
@@ -126,7 +127,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 8. Weiting Ou, Yipeng Liu, Zhijie Sun, Bing Li, Le Zhang, Ce Zhu, "Codar: Complex-valued Neural Network for Crossing-Floor Intrusion Detection via WiFi," 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025), Hyderabad, India, April 6-11, 2025.
 9. Hongwei Guo, Yapeng Du, Lei Luo, Yipeng Liu, Ce Zhu, "VVC Rate Control Based on Distortion Propagation Factors," The 20th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2025), Dublin Ireland, June 11-13, 2025.
 10. Zhen Long, Yipeng Liu, Yazhou Ren, Ce Zhu, "SLR-MVTC: Smooth Low-Rank Multi-View Tensor Clustering," the 39th AAAI Conference on Artificial Intelligence (AAAI-25), Philadelphia, Pennsylvania, USA, Feb 25 - Mar. 4, 2025.
-11. Xiangtao Zhang, Sheng Li, Ao Li, Yipeng Liu, Fan Zhang, Ce Zhu, Le Zhang, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025, pp. 20632-20642
+11. Xiangtao Zhang, Sheng Li, Ao Li, Yipeng Liu, Fan Zhang, Ce Zhu, Le Zhang, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025, pp. 20632-20642.
 
 
 ### 2024
