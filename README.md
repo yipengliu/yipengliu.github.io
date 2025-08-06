@@ -38,13 +38,14 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 4. IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员, 2024 - 2028
 5. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022 - 2023
 6. Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委，2017- 2019
-7. ICME 2025 workshop on Big Surveillance Data Analysis and Processing, lead chair
-8. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
-9. 中国图象图形学学会青年工作委员会委员
-10. 中国计算机学会多媒体技术专委会委员
-11. 中国国家自然科学基金项目评审专家
-12. 多次担任世界知名大学博士答辩委员会委员，包括俄罗斯斯科尔科沃科学技术学院（Skoltech）
-13. 行业权威期刊审稿人，包括：IEEE TSP，IEEE J-STSP，IEEE TIP，IEEE TMM，IEEE T-PAMI，IEEE T-CVST，IEEE TBME，IEEE JBHI，IEEE TII，IEEE TC等
+7. ICASSP 2025 Satellite Event Suzhou, China, Publicity Chair
+8. ICME 2025 workshop on Big Surveillance Data Analysis and Processing, lead chair
+9. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
+10. 中国图象图形学学会青年工作委员会委员
+11. 中国计算机学会多媒体技术专委会委员
+12. 中国国家自然科学基金项目评审专家
+13. 多次担任世界知名大学博士答辩委员会委员，包括俄罗斯斯科尔科沃科学技术学院（Skoltech）
+14. 行业权威期刊审稿人，包括：IEEE TSP，IEEE J-STSP，IEEE TIP，IEEE TMM，IEEE T-PAMI，IEEE T-CVST，IEEE TBME，IEEE JBHI，IEEE TII，IEEE TC等
 
 
 ## 科研项目
@@ -84,7 +85,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 
 他是IEEE高级会员，中国电子学会高级会员，中国图象图形学学会高级会员，IEEE信号处理协会计算成像（SPS CI）技术委员会委员，IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员，中国图象图形学学会青年工作委员会委员，中国计算机学会多媒体技术专委会委员。他担任国际期刊IEEE Transactions on Image Processing的编委，IEEE Signal Processing Letters的资深领域编委，Signal Processing: Image Communication （Elsevier）的首席客座编委，系统工程与电子技术（英文版）客座编委；多次担任行业权威期刊和会议的组织、编辑和审稿工作。
 
-他曾应邀在IEEE信号处理学会旗舰会议ICIP 2024、IEEE电路与系统学会旗舰会议ISCAS 2024、国际人工智能协会旗舰会议IJCAI 2022、IEEE多媒体领域旗舰会议ICME 2022做讲习班报告（tutorial）。他是亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished Lecturer for 2022-2023）。
+他曾应邀在IEEE多媒体领域旗舰会议ICME 2025、IEEE信号处理学会旗舰会议ICIP 2024、IEEE电路与系统学会旗舰会议ISCAS 2024、国际人工智能协会旗舰会议IJCAI 2022做讲习班报告（tutorial）。他是亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished Lecturer for 2022-2023）。
 
 ## 媒体报道
 
