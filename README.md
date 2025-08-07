@@ -124,7 +124,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 3. Xiangtao Zhang, Eleftherios Kofidis, Ruituo Wu, Ce Zhu, Le Zhang, Yipeng Liu, "Coupled Tensor Train Decomposition in Federated Learning," Pattern Recognition, 2025.
 4. Shuangjie Yuan, Houxuan Liu, Yipeng Liu, Lu Yang, "Self-Supervised Monocular Depth Estimation with Depth-Motion Prior for pseudo-LiDAR," IEEE Transactions on Instrumentation & Measurement, 2025.
 5. Geyou Zhang, Ce Zhu, Kai Liu, Yipeng Liu, "Phase-Guided Light Field 3D Imaging with High Pixel Resolution," IEEE Transactions on Instrumentation & Measurement, 2025.
-6. Lanlan Feng, Yipeng Liu, Ziming Liu, Ce Zhu, "Online Non-convex Robust Tensor Principal Component Analysis," IEEE Transactions on Neural Networks and Learning Systems, 2025.
+6. Lanlan Feng, Yipeng Liu, Ziming Liu, Ce Zhu, "Online Non-convex Robust Tensor Principal Component Analysis," IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 8, pp. 14384 - 14398, 2025.
 7. Zhen Long, Qiyuan Wang, Yazhou Ren, Yipeng Liu, Ce Zhu, "TLRLF4MVC: Tensor Low-Rank and Low-Frequency for Scalable Multi-View Clustering," IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
 8. Fei He, Xinyue Li, Ce Zhu, Fan Zhang, Yipeng Liu, "Fully Connected Tensor Network based Brain Structural Feature Extraction for Early Alzheimer’s Disease Detection," 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025), Hyderabad, India, April 6-11, 2025.
 9. Weiting Ou, Yipeng Liu, Zhijie Sun, Bing Li, Le Zhang, Ce Zhu, "Codar: Complex-valued Neural Network for Crossing-Floor Intrusion Detection via WiFi," 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025), Hyderabad, India, April 6-11, 2025.
