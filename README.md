@@ -131,6 +131,9 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 12. Hongwei Guo, Yapeng Du, Lei Luo, Yipeng Liu, Ce Zhu, "VVC Rate Control Based on Distortion Propagation Factors," The 20th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2025), Dublin Ireland, June 11-13, 2025.
 13. Zhen Long, Yipeng Liu, Yazhou Ren, Ce Zhu, "SLR-MVTC: Smooth Low-Rank Multi-View Tensor Clustering," the 39th AAAI Conference on Artificial Intelligence (AAAI-25), Philadelphia, Pennsylvania, USA, Feb 25 - Mar. 4, 2025.
 14. Xiangtao Zhang, Sheng Li, Ao Li, Yipeng Liu, Fan Zhang, Ce Zhu, Le Zhang, “Subspace Constraint and Contribution Estimation for Heterogeneous Federated Learning，” The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025, pp. 20632-20642.
+15. Qun Wan, Haotian Du, Xiangyu Peng, Kehao Zhang, Yipeng Liu, Wei Xia, "Lecture Notes on A Geometric Interpretation of Minimum Mean Square Error: The Ratio of Matrix Determinants," IEEE International Conference on Teaching, Assessment, and Learning Engineering, Macao, China, Dec. 4 - 7, 2025.
+16. Hongwei Guo, Yipeng Liu, Lei Luo, Chengbiao Fu, Ce Zhu, "Block-level Lagrange multiplier adaptation based on distortion propagation factors," The 17th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2025), Singapore,  Oct. 22 – 24, 2025.
+17. Fei He, Houji Du, Nipon Theera-Umpon, Yipeng Liu, Ce Zhu, "Flexibly Constrained Tucker Decomposition for High-Order Spectral Analysis," The 27th IEEE International Workshop on Multimedia Signal Processing (MMSP 2025), Beijing, China, Sept. 21 - 23, 2025. 
 
 
 
