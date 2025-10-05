@@ -138,8 +138,6 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 19. Kang Tan, Zhijie Sun, Yimao Sun, Ce Zhu, Yipeng Liu, "DATSIL: Domain Adaptation in Tensor Subspace for Wi-Fi-based Indoor Localization," The 17th International Conference on Signal Processing Systems (ICSPS), Chengdu, China, October 24-26, 2025.
 
 
-
-
 ### 2024
 
 1. Yipeng Liu, Jie Chen, Yingcong Lu, Weiting Ou, Zhen Long, Ce Zhu, "Adaptively Topological Tensor Network for Multi-view Subspace Clustering," IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 11, pp. 5562 - 5575, 2024.
@@ -156,7 +154,7 @@ yipengliu(eta)uestc(dot)edu(dot)cn
 12. Fei He, Yipeng Liu, Da Shen, Yangyang Jiang, Ying Li, Ce Zhu, "Multi-band speech tensor decomposition for interactive feature extraction in early dysphagia screening," 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024), Seoul, Korea, 14~19 April 2024.
 13. Da Shen, Zhongrong Wang, Fei He, Zhijie Sun, Ce Zhu, Yipeng Liu, "Epilepsy Detection with Personal Identification Based on Regularized O-minus Decomposition," 2024 IEEE International Symposium on Circuits and Systems (ISCAS 2024), Singapore, May 19-22 2024.
 14. Zhen Long, Qiyuan Wang, Yazhou Ren, Yipeng Liu, Ce Zhu, "S^ 2MVTC: a Simple yet Efficient Scalable Multi-View Tensor Clustering," The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024, Seattle, USA, June 17-21, 2024.
-15. Hongwei Guo, Ce Zhu, Yipeng Liu, Mao Ye, and Lei Luo, "CTU-Level Lagrange Multiplier and QP Adaption for Random Access Hierarchical Coding in VVC," The 19th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2024), Toronto, June 19 - 21, 2024.
+15. Hongwei Guo, Ce Zhu, Yipeng Liu, Mao Ye, and Lei Luo, "CTU-Level Lagrange Multiplier and QP Adaptation for Random Access Hierarchical Coding in VVC," The 19th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2024), Toronto, June 19 - 21, 2024.
 16. Chao Zhang, Lanlan Feng, Ke Wu, Ce Zhu, Hongwei Guo, Yipeng Liu, "Finding Channel-wise Tensor Subspaces in GANs," IEEE International Conference on Signal, Information and Data Processing 2024 (IEEE ICSIDP 2024), Zhuhai, China, Nov. 22-24, 2024.
 17. Haolin He, Ce Zhu, Le Zhang, Yipeng Liu, Xiao Xu, Yuqian Chen, Leo Zekelman, Jarrett Rushmore, Yogesh Rathi, Nikos Makris, Lauren J O'Donnell, Fan Zhang, "A Novel Deep Clustering Framework for Fine-Scale Parcellation of Amygdala Using dMRI Tractography," The 21st International Symposium on Biomedical Imaging (ISBI 2024), Athens, Greece, May 27 - 30, 2024.
 18. Jingyu Zhai, Chenchen Wang, Yang Jiao, Yipeng Liu, Qun Wan, "TDOA estimation method based on frequency domain decimation," The 16th International Conference on Signal Processing Systems (ICSPS 2024), Kuming, China, Nov. 15 -17, 2024.
