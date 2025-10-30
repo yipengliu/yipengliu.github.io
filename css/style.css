@@ -63,6 +63,9 @@ body {
     color: white;
     padding: 35px 0 25px;
     text-align: center;
+    min-height: 140px;
+    display: flex;
+    align-items: center;
 }
 
 .header-content {
@@ -70,6 +73,7 @@ body {
     align-items: center;
     justify-content: center;
     gap: 25px;
+    width: 100%;
 }
 
 .profile-section {
@@ -81,6 +85,8 @@ body {
 
 .profile-image {
     flex-shrink: 0;
+    width: 90px;
+    height: 90px;
 }
 
 .profile-image img {
@@ -96,11 +102,24 @@ body {
     transform: scale(1.05);
 }
 
+.profile-info {
+    min-width: 420px;
+    min-height: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
 .profile-info h1 {
     font-size: 2rem;
     font-weight: 700;
     margin-bottom: 5px;
     line-height: 1.2;
+    min-height: 2.4rem;
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease;
 }
 
 .profile-info h2 {
@@ -109,6 +128,10 @@ body {
     margin-bottom: 4px;
     opacity: 0.9;
     line-height: 1.2;
+    min-height: 1.2rem;
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease;
 }
 
 .profile-info h3 {
@@ -116,6 +139,10 @@ body {
     font-weight: 400;
     opacity: 0.8;
     line-height: 1.2;
+    min-height: 1.08rem;
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease;
 }
 
 /* ===== Navigation ===== */
@@ -142,14 +169,43 @@ body {
 .nav-link {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 6px;
-    padding: 12px 18px;
+    padding: 12px 12px;
     text-decoration: none;
     color: #666;
     font-weight: 500;
     font-size: 0.9rem;
     transition: all 0.3s ease;
     border-bottom: 2px solid transparent;
+    white-space: nowrap;
+    width: 90px;
+    text-align: center;
+}
+
+/* Specific widths for different nav items */
+.nav-link[data-section="about"] {
+    width: 85px;
+}
+
+.nav-link[data-section="experience"] {
+    width: 100px;
+}
+
+.nav-link[data-section="research"] {
+    width: 100px;
+}
+
+.nav-link[data-section="publications"] {
+    width: 115px;
+}
+
+.nav-link[data-section="recognition"] {
+    width: 105px;
+}
+
+.nav-link[data-section="teaching"] {
+    width: 95px;
 }
 
 .nav-link:hover,
@@ -354,14 +410,23 @@ body {
     font-size: 0.85rem;
     font-weight: 600;
     display: inline-block;
-    margin-bottom: 8px;
+    margin-right: 10px;
+    margin-bottom: 0;
+    vertical-align: middle;
+}
+
+.timeline-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 6px;
 }
 
 .timeline-title {
     font-size: 1.1rem;
     font-weight: 600;
     color: #333;
-    margin-bottom: 6px;
+    margin-bottom: 0;
+    flex: 1;
 }
 
 .timeline-subtitle {

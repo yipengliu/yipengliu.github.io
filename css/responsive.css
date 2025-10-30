@@ -35,6 +35,7 @@
     /* Header Responsive */
     .header {
         padding: 40px 0 30px;
+        min-height: 180px;
     }
     
     .profile-section {
@@ -43,21 +44,34 @@
         gap: 20px;
     }
     
+    .profile-image {
+        width: 100px;
+        height: 100px;
+    }
+    
     .profile-image img {
         width: 100px;
         height: 100px;
     }
     
+    .profile-info {
+        min-width: 280px;
+        min-height: 120px;
+    }
+    
     .profile-info h1 {
         font-size: 1.8rem;
+        min-height: 2.16rem;
     }
     
     .profile-info h2 {
         font-size: 1.1rem;
+        min-height: 1.32rem;
     }
     
     .profile-info h3 {
         font-size: 0.95rem;
+        min-height: 1.14rem;
     }
     
     /* Language Toggle Responsive */
@@ -361,6 +375,7 @@
 @media (max-width: 768px) and (orientation: landscape) {
     .header {
         padding: 20px 0 15px;
+        min-height: 100px;
     }
     
     .profile-section {
@@ -369,21 +384,34 @@
         text-align: left;
     }
     
+    .profile-image {
+        width: 80px;
+        height: 80px;
+    }
+    
     .profile-image img {
         width: 80px;
         height: 80px;
     }
     
+    .profile-info {
+        min-width: 300px;
+        min-height: 80px;
+    }
+    
     .profile-info h1 {
         font-size: 1.5rem;
+        min-height: 1.8rem;
     }
     
     .profile-info h2 {
         font-size: 0.95rem;
+        min-height: 1.14rem;
     }
     
     .profile-info h3 {
         font-size: 0.85rem;
+        min-height: 1.02rem;
     }
 }
 

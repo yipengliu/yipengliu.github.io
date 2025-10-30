@@ -153,8 +153,10 @@ class I18n {
         academicData.experience.academic.forEach(item => {
             html += `
                 <div class="timeline-item">
-                    <div class="timeline-year">${item.year}</div>
-                    <div class="timeline-title">${item.title[this.currentLang]}</div>
+                    <div class="timeline-header">
+                        <div class="timeline-year">${item.year}</div>
+                        <div class="timeline-title">${item.title[this.currentLang]}</div>
+                    </div>
                     <div class="timeline-subtitle">${item.institution[this.currentLang]}</div>
                     <div class="timeline-content">${item.description[this.currentLang]}</div>
                 </div>
@@ -170,8 +172,10 @@ class I18n {
         academicData.experience.education.forEach(item => {
             html += `
                 <div class="timeline-item">
-                    <div class="timeline-year">${item.year}</div>
-                    <div class="timeline-title">${item.title[this.currentLang]}</div>
+                    <div class="timeline-header">
+                        <div class="timeline-year">${item.year}</div>
+                        <div class="timeline-title">${item.title[this.currentLang]}</div>
+                    </div>
                     <div class="timeline-subtitle">${item.institution[this.currentLang]}</div>
                     <div class="timeline-content">${item.description[this.currentLang]}</div>
                 </div>
@@ -187,8 +191,10 @@ class I18n {
         academicData.service.forEach(item => {
             html += `
                 <div class="timeline-item">
-                    <div class="timeline-year">${item.year}</div>
-                    <div class="timeline-title">${item.role[this.currentLang]}</div>
+                    <div class="timeline-header">
+                        <div class="timeline-year">${item.year}</div>
+                        <div class="timeline-title">${item.role[this.currentLang]}</div>
+                    </div>
                     <div class="timeline-content">${item.organization[this.currentLang]}</div>
                 </div>
             `;
@@ -203,8 +209,10 @@ class I18n {
         academicData.projects.forEach(item => {
             html += `
                 <div class="timeline-item">
-                    <div class="timeline-year">${item.period}</div>
-                    <div class="timeline-title">${item.title[this.currentLang]}</div>
+                    <div class="timeline-header">
+                        <div class="timeline-year">${item.period}</div>
+                        <div class="timeline-title">${item.title[this.currentLang]}</div>
+                    </div>
                     <div class="timeline-subtitle">${item.role[this.currentLang]}</div>
                     <div class="timeline-content">${item.description[this.currentLang]}</div>
                 </div>
@@ -229,7 +237,6 @@ class I18n {
         academicData.research.highlights.forEach(item => {
             html += `
                 <div class="achievement-item">
-                    <div class="achievement-icon"><i class="${item.icon}"></i></div>
                     <div class="achievement-title">${item.title[this.currentLang]}</div>
                     <div class="achievement-description">${item.description[this.currentLang]}</div>
                 </div>
@@ -329,21 +336,11 @@ class I18n {
         html += `<div class="timeline">`;
         
         academicData.awards.forEach(award => {
-            const iconMap = {
-                'paper': 'fas fa-file-alt',
-                'demo': 'fas fa-desktop',
-                'honor': 'fas fa-star',
-                'recognition': 'fas fa-trophy',
-                'award': 'fas fa-medal',
-                'membership': 'fas fa-users'
-            };
-            
             html += `
                 <div class="timeline-item">
-                    <div class="timeline-year">${award.year}</div>
-                    <div class="timeline-title">
-                        <i class="${iconMap[award.type] || 'fas fa-award'}"></i>
-                        ${award.title[this.currentLang]}
+                    <div class="timeline-header">
+                        <div class="timeline-year">${award.year}</div>
+                        <div class="timeline-title">${award.title[this.currentLang]}</div>
                     </div>
                 </div>
             `;
