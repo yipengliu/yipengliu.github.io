@@ -1,0 +1,458 @@
+/* ===== Responsive Design ===== */
+
+/* Tablet Styles (768px - 1024px) */
+@media (max-width: 1024px) {
+    .container {
+        max-width: 100%;
+        padding: 0 20px;
+    }
+    
+    .header-content {
+        gap: 30px;
+    }
+    
+    .profile-section {
+        gap: 25px;
+    }
+    
+    .profile-info h1 {
+        font-size: 2.2rem;
+    }
+    
+    .nav-link {
+        padding: 16px 20px;
+        font-size: 0.95rem;
+    }
+    
+    .achievement-grid {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 20px;
+    }
+}
+
+/* Mobile Styles (max-width: 768px) */
+@media (max-width: 768px) {
+    /* Header Responsive */
+    .header {
+        padding: 40px 0 30px;
+    }
+    
+    .profile-section {
+        flex-direction: column;
+        text-align: center;
+        gap: 20px;
+    }
+    
+    .profile-image img {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .profile-info h1 {
+        font-size: 1.8rem;
+    }
+    
+    .profile-info h2 {
+        font-size: 1.1rem;
+    }
+    
+    .profile-info h3 {
+        font-size: 0.95rem;
+    }
+    
+    /* Language Toggle Responsive */
+    .language-toggle {
+        top: 15px;
+        right: 15px;
+    }
+    
+    .lang-btn {
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+    
+    /* Navigation Responsive */
+    .nav-menu {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: white;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        border-radius: 0 0 10px 10px;
+    }
+    
+    .nav-menu.active {
+        display: flex;
+    }
+    
+    .nav-link {
+        padding: 15px 20px;
+        border-bottom: 1px solid #eee;
+        border-left: none;
+        border-right: none;
+        justify-content: center;
+    }
+    
+    .nav-link:hover,
+    .nav-link.active {
+        border-bottom: 1px solid #eee;
+        border-left: none;
+        background: rgba(44, 90, 160, 0.1);
+    }
+    
+    .mobile-menu-toggle {
+        display: flex;
+        position: absolute;
+        right: 20px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    
+    .navbar {
+        position: relative;
+        padding: 0;
+    }
+    
+    .navbar .container {
+        position: relative;
+        padding: 0 20px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    /* Content Responsive */
+    .main-content {
+        padding: 30px 0 40px;
+    }
+    
+    .section-title {
+        font-size: 1.8rem;
+        margin-bottom: 25px;
+    }
+    
+    .section-title::after {
+        width: 50px;
+        height: 2px;
+    }
+    
+    /* About Section Responsive */
+    .about-content {
+        gap: 25px;
+    }
+    
+    .bio-section,
+    .contact-info,
+    .research-overview {
+        padding: 20px;
+    }
+    
+    .contact-item {
+        font-size: 0.95rem;
+        flex-wrap: wrap;
+    }
+    
+    .research-list li {
+        padding: 12px 0;
+        font-size: 0.95rem;
+        line-height: 1.5;
+    }
+    
+    /* Timeline Responsive */
+    .timeline {
+        padding-left: 0;
+    }
+    
+    .timeline::before {
+        display: none;
+    }
+    
+    .timeline-item {
+        margin-left: 0;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    .timeline-item::before {
+        display: none;
+    }
+    
+    .timeline-year {
+        font-size: 0.85rem;
+        padding: 3px 10px;
+    }
+    
+    .timeline-title {
+        font-size: 1.1rem;
+    }
+    
+    /* Cards Responsive */
+    .card {
+        padding: 20px;
+        margin-bottom: 15px;
+    }
+    
+    .card h3 {
+        font-size: 1.2rem;
+    }
+    
+    /* Achievement Grid Responsive */
+    .achievement-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    
+    .achievement-item {
+        padding: 20px;
+    }
+    
+    .achievement-icon {
+        font-size: 1.8rem;
+        margin-bottom: 12px;
+    }
+    
+    .achievement-title {
+        font-size: 1.1rem;
+    }
+    
+    /* Publication Responsive */
+    .publication-year {
+        padding: 12px 15px;
+        margin: 15px 0;
+    }
+    
+    .publication-year h3 {
+        font-size: 1.2rem;
+    }
+    
+    .publication-item {
+        padding: 15px;
+        margin-bottom: 12px;
+    }
+    
+    .publication-title {
+        font-size: 1rem;
+        margin-bottom: 6px;
+    }
+    
+    .publication-authors,
+    .publication-venue {
+        font-size: 0.9rem;
+    }
+    
+    /* Footer Responsive */
+    .footer {
+        padding: 25px 0;
+        margin-top: 40px;
+    }
+    
+    .footer p {
+        font-size: 0.9rem;
+    }
+}
+
+/* Small Mobile Styles (max-width: 480px) */
+@media (max-width: 480px) {
+    .container {
+        padding: 0 15px;
+    }
+    
+    /* Header */
+    .header {
+        padding: 30px 0 25px;
+    }
+    
+    .profile-image img {
+        width: 90px;
+        height: 90px;
+    }
+    
+    .profile-info h1 {
+        font-size: 1.6rem;
+    }
+    
+    .profile-info h2 {
+        font-size: 1rem;
+    }
+    
+    .profile-info h3 {
+        font-size: 0.9rem;
+    }
+    
+    /* Language Toggle */
+    .language-toggle {
+        top: 10px;
+        right: 10px;
+    }
+    
+    .lang-btn {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+    
+    /* Content */
+    .main-content {
+        padding: 25px 0 35px;
+    }
+    
+    .section-title {
+        font-size: 1.6rem;
+        margin-bottom: 20px;
+    }
+    
+    /* Cards and Sections */
+    .bio-section,
+    .contact-info,
+    .research-overview,
+    .card,
+    .timeline-item,
+    .achievement-item {
+        padding: 15px;
+    }
+    
+    .contact-item {
+        font-size: 0.9rem;
+    }
+    
+    .research-list li {
+        font-size: 0.9rem;
+        padding: 10px 0;
+    }
+    
+    /* Publications */
+    .publication-year {
+        padding: 10px 12px;
+    }
+    
+    .publication-year h3 {
+        font-size: 1.1rem;
+    }
+    
+    .publication-item {
+        padding: 12px;
+    }
+    
+    .publication-title {
+        font-size: 0.95rem;
+    }
+    
+    .publication-authors,
+    .publication-venue {
+        font-size: 0.85rem;
+    }
+    
+    /* Navigation */
+    .nav-link {
+        padding: 12px 15px;
+        font-size: 0.9rem;
+    }
+    
+    .mobile-menu-toggle {
+        right: 15px;
+        padding: 12px;
+    }
+}
+
+/* Landscape Mobile Orientation */
+@media (max-width: 768px) and (orientation: landscape) {
+    .header {
+        padding: 20px 0 15px;
+    }
+    
+    .profile-section {
+        flex-direction: row;
+        gap: 20px;
+        text-align: left;
+    }
+    
+    .profile-image img {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .profile-info h1 {
+        font-size: 1.5rem;
+    }
+    
+    .profile-info h2 {
+        font-size: 0.95rem;
+    }
+    
+    .profile-info h3 {
+        font-size: 0.85rem;
+    }
+}
+
+/* High DPI Displays */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .profile-image img {
+        image-rendering: -webkit-optimize-contrast;
+        image-rendering: crisp-edges;
+    }
+}
+
+/* Print Styles */
+@media print {
+    .language-toggle,
+    .navbar,
+    .mobile-menu-toggle {
+        display: none !important;
+    }
+    
+    .header {
+        background: white !important;
+        color: black !important;
+        box-shadow: none !important;
+    }
+    
+    .main-content {
+        padding: 0 !important;
+    }
+    
+    .content-section {
+        display: block !important;
+        page-break-inside: avoid;
+    }
+    
+    .card,
+    .timeline-item,
+    .achievement-item {
+        box-shadow: none !important;
+        border: 1px solid #ddd !important;
+    }
+}
+
+/* Dark Mode Support (for future implementation) */
+@media (prefers-color-scheme: dark) {
+    /* Will be implemented if needed */
+}
+
+/* Reduced Motion Support */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+/* Focus Accessibility */
+@media (any-hover: none) {
+    .nav-link:hover {
+        background: transparent;
+    }
+    
+    .card:hover {
+        transform: none;
+        box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+    }
+    
+    .achievement-item:hover {
+        transform: none;
+    }
+}
