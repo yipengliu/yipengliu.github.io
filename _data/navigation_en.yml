@@ -1,0 +1,17 @@
+# English Navigation configuration for Prof. Yipeng Liu's academic homepage
+
+main_en:
+  - title: "Homepage"
+    url: /en/#Homepage
+
+  - title: "Research"
+    url: /en/#Research
+
+  - title: "Publications"
+    url: /en/#Publications
+
+  - title: "Teaching"
+    url: /en/#Teaching
+
+  - title: "Contact"
+    url: /en/#Contact

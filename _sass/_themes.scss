@@ -102,4 +102,22 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
+
+/* ==========================================================================
+   CUSTOM IMPROVEMENTS FOR AUTHOR PROFILE
+   ========================================================================== */
+
+/* Improve readability for long employer names */
+.author__urls li {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+  line-height: 1.4;
+}
+
+/* Specific improvements for desktop view */
+.author__desktop {
+  font-size: 0.875em; /* Slightly smaller font to fit better */
+  line-height: 1.3;
+}
    

@@ -2,49 +2,46 @@
    Various functions that we want to use within the template
    ========================================================================== */
 
-// Determine the expected state of the theme toggle, which can be "dark", "light", or
-// "system". Default is "system".
-let determineThemeSetting = () => {
-  let themeSetting = localStorage.getItem("theme");
-  return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
+// Language switching functionality
+let getCurrentLanguage = () => {
+  return localStorage.getItem("language") || "zh";
 };
 
-// Determine the computed theme, which can be "dark" or "light". If the theme setting is
-// "system", the computed theme is determined based on the user's system preference.
-let determineComputedTheme = () => {
-  let themeSetting = determineThemeSetting();
-  if (themeSetting != "system") {
-    return themeSetting;
-  }
-  return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
-};
-
-// detect OS/browser preference
-const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-
-// Set the theme on page load or when explicitly called
-let setTheme = (theme) => {
-  const use_theme =
-    theme ||
-    localStorage.getItem("theme") ||
-    $("html").attr("data-theme") ||
-    browserPref;
-
-  if (use_theme === "dark") {
-    $("html").attr("data-theme", "dark");
-    $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
-  } else if (use_theme === "light") {
-    $("html").removeAttr("data-theme");
-    $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
+let setLanguage = (lang) => {
+  localStorage.setItem("language", lang);
+  updateLanguageIcon(lang);
+  
+  // Redirect to appropriate page
+  if (lang === "en") {
+    if (window.location.pathname === "/" || window.location.pathname.includes("main")) {
+      window.location.href = window.location.origin + "/en/";
+    }
+  } else {
+    if (window.location.pathname.includes("/en/")) {
+      window.location.href = window.location.origin + "/";
+    }
   }
 };
 
-// Toggle the theme manually
-var toggleTheme = () => {
-  const current_theme = $("html").attr("data-theme");
-  const new_theme = current_theme === "dark" ? "light" : "dark";
-  localStorage.setItem("theme", new_theme);
-  setTheme(new_theme);
+let updateLanguageIcon = (lang) => {
+  const icon = $("#language-icon");
+  if (lang === "en") {
+    icon.attr("title", "切换到中文 / Switch to Chinese");
+    icon.text("中");
+  } else {
+    icon.attr("title", "Switch to English / 切换到英文");
+    icon.text("EN");
+  }
+};
+
+// Toggle language manually
+var toggleLanguage = () => {
+  console.log("toggleLanguage called");
+  const currentLang = getCurrentLanguage();
+  console.log("Current language:", currentLang);
+  const newLang = currentLang === "zh" ? "en" : "zh";
+  console.log("New language:", newLang);
+  setLanguage(newLang);
 };
 
 /* ==========================================================================
@@ -90,17 +87,22 @@ $(document).ready(function () {
   const scssLarge = 925;          // pixels, from /_sass/_themes.scss
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
 
-  // If the user hasn't chosen a theme, follow the OS preference
-  setTheme();
-  window.matchMedia('(prefers-color-scheme: dark)')
-        .addEventListener("change", (e) => {
-          if (!localStorage.getItem("theme")) {
-            setTheme(e.matches ? "dark" : "light");
-          }
-        });
+  // Initialize language setting based on current page
+  let currentLang;
+  if (window.location.pathname.includes('/en/')) {
+    currentLang = "en";
+  } else {
+    currentLang = getCurrentLanguage();
+  }
+  updateLanguageIcon(currentLang);
 
-  // Enable the theme toggle
-  $('#theme-toggle').on('click', toggleTheme);
+  // Enable the language toggle
+  console.log("Binding language toggle event");
+  $('#language-toggle').on('click', function(e) {
+    console.log("Language toggle clicked");
+    e.preventDefault();
+    toggleLanguage();
+  });
 
   // Enable the sticky footer
   var bumpIt = function () {

@@ -3,16 +3,16 @@
 
 main:
   - title: "首页"
-    url: /
+    url: /#首页
 
-  - title: "研究方向"
-    url: /research/
+  - title: "学术研究"
+    url: /#学术研究
 
-  - title: "学术成果"
-    url: /publications/
+  - title: "著作论文"
+    url: /#著作论文
 
-  - title: "教学工作"
-    url: /teaching/
+  - title: "学生培养"
+    url: /#学生培养
 
-  - title: "学术服务"
-    url: /academic-service/
+  - title: "通讯"
+    url: /#通讯
