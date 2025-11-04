@@ -1,33 +1,18 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# 刘翼鹏教授学术主页导航配置
+# Navigation configuration for Prof. Yipeng Liu's academic homepage
 
 main:
-  - title: "Publications"
+  - title: "首页"
+    url: /
+
+  - title: "研究方向"
+    url: /research/
+
+  - title: "学术成果"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "教学工作"
+    url: /teaching/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "学术服务"
+    url: /academic-service/

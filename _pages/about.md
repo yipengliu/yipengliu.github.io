@@ -1,33 +1,73 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "欢迎来到刘翼鹏教授的学术主页"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## 关于我
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+我是电子科技大学信息与通信工程学院的教授、博士生导师，同时也是国家级青年人才。我的研究主要聚焦于**张量信号处理**理论与应用，致力于解决机器学习、计算成像、无线感知和智能医疗等领域的关键技术问题。
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## 🔬 主要研究方向
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **机器学习**：可解释深度网络、轻量化神经网络、高效训练、对抗攻击防御
+- **计算成像**：快速成像、图像复原、超分辨、图像增强与融合
+- **无线感知**：频谱感知、波束形成、盲源分离、无线电定位
+- **智能医疗**：影像识别、认知障碍筛查、运动障碍筛查、脑机接口
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+## 📚 学术成就
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+- 发表国际期刊和会议论文**100余篇**，其中IEEE期刊论文30余篇
+- 撰写张量信号处理领域**英文专著2本**、编著1本
+- **ESI高被引论文**5篇，连续三年入选**斯坦福大学全球前2%顶尖科学家**
+- 张量回归综述发表在影响因子65.3的*Foundations and Trends in Machine Learning*
+
+## 🏆 最新荣誉
+
+- **IEEE BMSB 2025最佳论文奖** (2025)
+- **IEEE ICME 2025最佳演示奖** (2025)  
+- **四川省自然科学奖二等奖** (2023)
+- **APSIPA杰出讲座人** (2022-2023)
+- **第15批四川省学术和技术带头人后备人选** (2024)
+
+## 📖 学术服务
+
+- **IEEE Transactions on Image Processing** 编委 (2025至今)
+- **IEEE Signal Processing Letters** 资深领域编委 (2024至今)
+- **IEEE信号处理协会计算成像技术委员会** 委员 (2025-2027)
+- **IEEE电路与系统协会多媒体系统与应用技术委员会** 委员 (2024-2028)
+
+## 🎓 教育背景
+
+- **博士学位**：信息与通信工程，电子科技大学 (2006-2011)
+- **学士学位**：生物医学工程，电子科技大学 (2002-2006)
+
+## 💼 工作经历
+
+- **2023年至今**：电子科技大学信息与通信工程学院，教授
+- **2014-2023年**：电子科技大学，副教授
+- **2016-2017年**：台湾清华大学电讯工程系，访问学者
+- **2011-2014年**：鲁汶大学（比利时）电子工程系，博士后研究员
+
+## 🌟 最新动态
+
+- **2025年3月**：受邀在IEEE ICASSP 2025作张量信号处理讲习班报告
+- **2025年2月**：论文被AAAI 2025接收
+- **2024年12月**：获评第15批四川省学术和技术带头人后备人选
+- **2024年11月**：在IEEE ISCAS 2024作张量回归专题报告
+
+## 📧 联系方式
+
+**邮箱**: yipengliu(at)uestc(dot)edu(dot)cn  
+**地址**: 四川省成都市高新西区西源大道2006号电子科技大学  
+**办公室**: 信息与通信工程学院
+
+---
+
+*"以张量计算为基础，重点研究张量分解和低秩优化，有效避免传统信号处理中将高维数组矩阵化带来的数据结构损失，同时还能避免大规模数据处理中的'维数灾难'计算难题。"*
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
