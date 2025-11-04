@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "刘翼鹏 - 学术主页"
+title                    : "Academic Homepage"
 title_separator          : "-"
 name                     : &name "刘翼鹏"
 description              : &description "电子科技大学信息与通信工程学院教授"   
