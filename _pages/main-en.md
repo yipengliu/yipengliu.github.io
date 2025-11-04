@@ -7,7 +7,7 @@ redirect_from:
   - /main-en.html
 ---
 
-# <a id="Homepage"></a>
+# <a id="Homepage"></a>Homepage
 
 ## Biography
 
