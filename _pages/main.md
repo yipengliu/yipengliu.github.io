@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "首页"
+title: ""
 author_profile: true
 redirect_from: 
   - /main/
   - /main.html
 ---
 
-<a id="首页"></a>
+# <a id="首页"></a>首页
 
 ## 个人简介
 

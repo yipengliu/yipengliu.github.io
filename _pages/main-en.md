@@ -1,6 +1,6 @@
 ---
 permalink: /en/
-title: "Homepage"
+title: ""
 author_profile: true
 locale: "en-US"
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /main-en.html
 ---
 
-# <a id="Homepage"></a>
+# <a id="Homepage"></a>Homepage
 
 ## Biography
 
