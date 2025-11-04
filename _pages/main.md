@@ -6,7 +6,7 @@ redirect_from:
   - /main.html
 ---
 
-# <a id="首页"></a>首页
+# <a id="首页"></a>
 
 ## 个人简介
 
