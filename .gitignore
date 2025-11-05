@@ -1,0 +1,50 @@
+# Jekyll and Ruby
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
+Gemfile.lock
+
+# Development files
+*.lock
+.DS_Store
+.vscode/
+*.log
+
+# Build artifacts
+node_modules/
+*.gem
+*.rbc
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.tmp
+
+# Local environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Docker (if not needed)
+Dockerfile
+docker-compose.yml
+docker-compose.yaml
+
+# Old files
+old_*
+*.old

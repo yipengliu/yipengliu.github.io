@@ -6,9 +6,9 @@ author_en:
   avatar           : "profile.jpg"
   name             : "Yipeng Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Professor/PhD Supervisor at UESTC<br>National-level Young Talent"
+  bio              : "Full Professor"
   location         : "Chengdu, China"
-  employer         : "UESTC (University of Electronic Science and Technology of China)"
+  employer         : "UESTC"
   uri              : # URL
   email            : "yipengliu@uestc.edu.cn" 
 
@@ -61,6 +61,6 @@ author_en:
 
 # English site information
 site_en:
-  title            : "Academic Homepage"
+  title            : ""
   description      : "Professor at School of Information and Communication Engineering, UESTC."
   locale           : "en-US"

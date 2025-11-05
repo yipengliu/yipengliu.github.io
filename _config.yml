@@ -7,9 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en"
+language                 : "en"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Academic Homepage"
+title                    : ""
 title_separator          : "-"
 name                     : &name "刘翼鹏"
 description              : &description "电子科技大学信息与通信工程学院教授"   
