@@ -2,8 +2,8 @@
 # Navigation configuration for Prof. Yipeng Liu's academic homepage
 
 main:
-  - title: "首页"
-    url: /#首页
+  - title: "个人简介"
+    url: /#个人简介
 
   - title: "学术研究"
     url: /#学术研究
@@ -13,6 +13,4 @@ main:
 
   - title: "学生培养"
     url: /#学生培养
-
-  - title: "通讯"
-    url: /#通讯
+    

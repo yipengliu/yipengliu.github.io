@@ -8,9 +8,7 @@ redirect_from:
   - /main-en.html
 ---
 
-# <a id="Homepage"></a>Homepage
-
-## Biography
+# <a id="Biography"></a>Biography
 
 Yipeng Liu is a Professor and PhD supervisor at the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), and a National-level Young Talent. He has visited and worked at KU Leuven (Belgium), Tsinghua University (Beijing), National Tsing Hua University (Taiwan), Huawei Technologies, and Southwest Institute of Electronic Technology. His research focuses on tensor signal processing theory, methods, and applications. Based on tensor computation, he specializes in tensor decomposition and low-rank optimization, effectively avoiding data structure loss caused by matricization of high-dimensional arrays in traditional signal processing, while also avoiding the "curse of dimensionality" computational challenges in large-scale data processing.
 
@@ -59,7 +57,7 @@ He has been invited to give tutorial talks at flagship conferences including IEE
 
 Principal investigator of NSFC international cooperation project, NSFC general project, NSFC youth project, national foreign expert project (Category S), Sichuan international/regional cooperation project, and Sichuan Haiju Plan project; Co-investigator of ERC Advanced Grant and FWO project.
 
-## Positions
+## Services
 
 1. Associate Editor, IEEE Transactions on Image Processing, 2025 - Present
 2. Senior Area Editor, IEEE Signal Processing Letters, 2024 - Present
@@ -73,13 +71,6 @@ Principal investigator of NSFC international cooperation project, NSFC general p
 10. Member, Youth Working Committee, China Society of Image and Graphics
 11. Member, Multimedia Technology Committee, China Computer Federation
 12. Multiple times as PhD defense committee member at world-renowned universities, including Skoltech (Russia)
-
-## Media
-
-1. Professor Liu Yipeng invited to give tensor regression tutorial at IEEE ISCAS 2024: https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=92835
-2. "Tensor Computation for Data Analysis" by Liu Yipeng et al. published by Springer: https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81351
-3. PhD student publishes tensor regression survey in Foundations and Trends in Machine Learning: https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81642
-4. Associate Professor Liu Yipeng gave tensor signal analysis reports at three international conferences in 2019: https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=74753
 
 
 # <a id="Publications"></a>Publications
@@ -310,9 +301,3 @@ Principal investigator of NSFC international cooperation project, NSFC general p
 5. Graduate education reform projects: Project 1: Modern Digital Signal Processing Theory and Algorithms; Project 2: Project-based "Intelligent Information" Innovation Capability Enhancement Plan; Project 3: Construction of Signal Processing Core Course Cluster for Common Basic Projects
 6. Outstanding Master's Thesis Supervisor, 2020
 7. Advanced Individual in UESTC International Cooperation and International Education, 2022
-
-
-# <a id="Contact"></a>Contact
-
-No. 2006 Xiyuan Avenue, Hi-tech West District, Chengdu, Sichuan Province
-University of Electronic Science and Technology of China
