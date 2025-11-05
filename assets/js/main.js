@@ -4,22 +4,21 @@
 
 // Language switching functionality
 let getCurrentLanguage = () => {
-  return localStorage.getItem("language") || "zh";
+  if (window.location.pathname.includes('/zh/')) {
+    return "zh";
+  } else {
+    return "en";
+  }
 };
 
 let setLanguage = (lang) => {
-  localStorage.setItem("language", lang);
-  updateLanguageIcon(lang);
-  
   // Redirect to appropriate page
-  if (lang === "en") {
-    if (window.location.pathname === "/" || window.location.pathname.includes("main")) {
-      window.location.href = window.location.origin + "/en/";
-    }
+  if (lang === "zh") {
+    // Navigate to Chinese page
+    window.location.href = window.location.origin + "/zh/";
   } else {
-    if (window.location.pathname.includes("/en/")) {
-      window.location.href = window.location.origin + "/";
-    }
+    // Navigate to English page
+    window.location.href = window.location.origin + "/";
   }
 };
 
@@ -27,7 +26,7 @@ let updateLanguageIcon = (lang) => {
   const icon = $("#language-icon");
   if (lang === "en") {
     icon.attr("title", "切换到中文 / Switch to Chinese");
-    icon.text("中");
+    icon.text("中文");
   } else {
     icon.attr("title", "Switch to English / 切换到英文");
     icon.text("EN");
@@ -88,12 +87,7 @@ $(document).ready(function () {
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
 
   // Initialize language setting based on current page
-  let currentLang;
-  if (window.location.pathname.includes('/en/')) {
-    currentLang = "en";
-  } else {
-    currentLang = getCurrentLanguage();
-  }
+  let currentLang = getCurrentLanguage();
   updateLanguageIcon(currentLang);
 
   // Enable the language toggle

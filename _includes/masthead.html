@@ -6,13 +6,13 @@
       <nav id="site-nav" class="greedy-nav">
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
-          {% if page.url contains '/en/' %}
-            <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/en/">{{ site.data.site_en.site_en.title | default: "" }}</a></li>
+          {% if page.url contains '/zh' %}
+            <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/zh/">{{ site.data.site_zh.site_zh.title | default: "" }}</a></li>
           {% else %}
             <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% endif %}
-          {% if page.url contains '/en/' %}
-            {% for link in site.data.navigation_en.main_en %}
+          {% if page.url contains '/zh' %}
+            {% for link in site.data.navigation_zh.main %}
               {% if link.url contains 'http' %}
                 {% assign domain = '' %}
               {% else %}
@@ -21,7 +21,7 @@
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endfor %}
           {% else %}
-            {% for link in site.data.navigation.main %}
+            {% for link in site.data.navigation_en.main_en %}
               {% if link.url contains 'http' %}
                 {% assign domain = '' %}
               {% else %}
@@ -31,13 +31,13 @@
             {% endfor %}
           {% endif %}
           <li id="language-toggle" class="masthead__menu-item persist tail">
-            {% if page.url contains '/en/' %}
+            {% if page.url contains '/zh' %}
               <a href="{{ base_path }}/" aria-labelledby="language-icon">
-                <span id="language-icon" class="language-text" aria-hidden="true" title="切换语言 / Switch Language">中文</span>
+                <span id="language-icon" class="language-text" aria-hidden="true" title="切换语言 / Switch Language">EN</span>
               </a>
             {% else %}
-              <a href="{{ base_path }}/en/" aria-labelledby="language-icon">
-                <span id="language-icon" class="language-text" aria-hidden="true" title="切换语言 / Switch Language">EN</span>
+              <a href="{{ base_path }}/zh/" aria-labelledby="language-icon">
+                <span id="language-icon" class="language-text" aria-hidden="true" title="切换语言 / Switch Language">中文</span>
               </a>
             {% endif %}
           </li>

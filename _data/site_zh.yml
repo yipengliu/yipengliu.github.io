@@ -1,14 +1,14 @@
-# English site metadata and author profile
+# Chinese site metadata and author profile
 
-site_en:
+site_zh:
   title: ""
 
-author_en:
+author_zh:
   avatar: "profile.jpg"
-  name: "Yipeng Liu"
-  bio: "Full Professor"
-  location: "Chengdu, China"
-  employer: "UESTC"
+  name: "刘翼鹏"
+  bio: "电子科技大学教授/博导<br>国家级青年人才"
+  location: "成都，中国"
+  employer: "电子科技大学"
   pubmed: 
   googlescholar: "https://scholar.google.com/citations?hl=en&user=I9xbDjkAAAAJ"
   email: "yipengliu@uestc.edu.cn"

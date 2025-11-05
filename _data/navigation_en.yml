@@ -2,13 +2,13 @@
 
 main_en:
   - title: "Biography"
-    url: /en/#Biography
+    url: /#Biography
 
   - title: "Research"
-    url: /en/#Research
+    url: /#Research
 
   - title: "Publications"
-    url: /en/#Publications
+    url: /#Publications
 
   - title: "Teaching"
-    url: /en/#Teaching
+    url: /#Teaching

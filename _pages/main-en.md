@@ -1,9 +1,10 @@
 ---
-permalink: /en/
+permalink: /
 title: ""
 author_profile: true
 locale: "en-US"
 redirect_from: 
+  - /en/
   - /main-en/
   - /main-en.html
 ---

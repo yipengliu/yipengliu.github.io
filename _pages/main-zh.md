@@ -1,10 +1,12 @@
 ---
-permalink: /
+permalink: /zh/
 title: ""
 author_profile: true
+locale: "zh-CN"
 redirect_from: 
-  - /main/
-  - /main.html
+  - /zh
+  - /main-zh/
+  - /main-zh.html
 ---
 
 # <a id="个人简介"></a>个人简介

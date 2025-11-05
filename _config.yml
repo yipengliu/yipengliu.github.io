@@ -2,8 +2,8 @@
 locale                   : "en"
 title                    : ""
 title_separator          : "-"
-name                     : &name "刘翼鹏"
-description              : &description "电子科技大学信息与通信工程学院教授"
+name                     : &name "Yipeng Liu"
+description              : &description "Professor, School of Information and Communication Engineering, University of Electronic Science and Technology of China"
 url                      : https://yipengliu.github.io
 baseurl                  : ""
 repository               : "yipengliu/yipengliu.github.io"
@@ -11,10 +11,10 @@ repository               : "yipengliu/yipengliu.github.io"
 # 作者信息 / Author Information
 author:
   avatar           : "profile.jpg"
-  name             : "刘翼鹏"
-  bio              : "电子科技大学教授/博导<br>国家级青年人才"
-  location         : "成都，中国"
-  employer         : "电子科技大学"
+  name             : "Yipeng Liu"
+  bio              : "Full Professor"
+  location         : "Chengdu, China"
+  employer         : "UESTC"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=I9xbDjkAAAAJ"
   email            : "yipengliu@uestc.edu.cn"

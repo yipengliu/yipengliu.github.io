@@ -2,6 +2,8 @@
 
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}
+{% elsif page.url contains '/zh/' %}
+  {% assign author = site.data.site_zh.author_zh %}
 {% elsif page.url contains '/en/' %}
   {% assign author = site.data.site_en.author_en %}
 {% else %}
