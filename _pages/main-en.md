@@ -14,7 +14,7 @@ redirect_from:
 1. 2014 - Present, University of Electronic Science and Technology of China, School of Information and Communication Engineering/School of Electronic Engineering, Full Professor / Associate Professor
 2. 2016 - 2017, National Tsing Hua University, Department of Electrical Engineering, Visiting Scholar
 3. 2011 - 2014, KU Leuven (Belgium), Department of Electrical Engineering, Postdoctoral Researcher
-4. 2011 - 2011, Huawei Technologies Co., Ltd., Chengdu Research Institute, Algorithm Engineer
+4. 2011 - 2011, Huawei Technologies, Chengdu Research Institute, Algorithm Engineer
 5. 2010 - 2011, Tsinghua University (Beijing), Department of Electronic Engineering, Visiting Student
 6. 2007 - 2008, Southwest Institute of Electronic Technology, Intern
 7. 2006 - 2011, University of Electronic Science and Technology of China, Information and Communication Engineering, PhD Student
@@ -23,19 +23,19 @@ redirect_from:
 
 # <a id="Interests"></a>Interests
 
-1. tensor computation: tensor decomposition, tensor neural network, low rank training   
-2. computational imaging: fast imaging, image recovery, image enhancement, image fusion, adversarial attacks and defenses
+1. tensor computation: tensor decomposition, tensor neural network, low rank training, learnable tensor optimization   
+2. computational imaging: fast imaging, image recovery, image enhancement, adversarial defenses
 3. wireless sensing: spectrum sensing, beamforming, blind source separation, radio localization
 4. healthcare: medical image recognition, cognitive disorder screening, movement disorder screening, brain-computer interfaces
 
 # <a id="Teaching"></a>Teaching
 
-1. undergraduate courese: Signals and Analysis and Processing, 2024 spring - present
+1. undergraduate course: Signals and Analysis and Processing, 2024 spring - present
 2. undergraduate course: Signals and Systems, 2016 spring - 2023 spring
 3. undergraduate course: Multimedia Intelligent Human-Computer Interaction, 2022 spring and autumn - present
 4. graduate course: Optimization Theory and Applications, 2015 autumn - 2020 autumn
 5. doctoral course: Frontiers in Signal and Information Processing", 2023 spring - present
-6. online undergraduate course: Digital Image Processing, XuetangX: https://www.xuetangx.com/course/uestc08071213dipintl/26055209, 2025 autumn - present
+6. online undergraduate course: Digital Image Processing, https://www.xuetangx.com/course/uestc08071213dipintl/26055209, 2025 autumn - present
 7. university graduate teaching achievement awards, 2017, 2025
 8. university undergraduate teaching achievement award, 2025 
 9. Outstanding Master's Thesis Supervisor, 2020
