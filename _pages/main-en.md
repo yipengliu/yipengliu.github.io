@@ -11,33 +11,35 @@ redirect_from:
 
 # <a id="Experience"></a>Experience
 
-1. 2023 - Present, University of Electronic Science and Technology of China, School of Information and Communication Engineering, Professor
-2. 2014 - 2023, University of Electronic Science and Technology of China, School of Information and Communication Engineering/School of Electronic Engineering, Associate Professor
-3. 2016 - 2017, National Tsing Hua University, Department of Electrical Engineering, Visiting Scholar
-4. 2011 - 2014, KU Leuven (Belgium), Department of Electrical Engineering, Postdoctoral Researcher
-5. 2011 - 2011, Huawei Technologies Co., Ltd., Chengdu Research Institute, Algorithm Engineer
-6. 2010 - 2011, Tsinghua University (Beijing), Department of Electronic Engineering, Visiting Student
-7. 2007 - 2008, Southwest Institute of Electronic Technology, Intern
-8. 2006 - 2011, University of Electronic Science and Technology of China, Information and Communication Engineering, PhD Student
-9. 2002 - 2006, University of Electronic Science and Technology of China, Biomedical Engineering, Undergraduate Student
+1. 2014 - Present, University of Electronic Science and Technology of China, School of Information and Communication Engineering/School of Electronic Engineering, Full Professor / Associate Professor
+2. 2016 - 2017, National Tsing Hua University, Department of Electrical Engineering, Visiting Scholar
+3. 2011 - 2014, KU Leuven (Belgium), Department of Electrical Engineering, Postdoctoral Researcher
+4. 2011 - 2011, Huawei Technologies Co., Ltd., Chengdu Research Institute, Algorithm Engineer
+5. 2010 - 2011, Tsinghua University (Beijing), Department of Electronic Engineering, Visiting Student
+6. 2007 - 2008, Southwest Institute of Electronic Technology, Intern
+7. 2006 - 2011, University of Electronic Science and Technology of China, Information and Communication Engineering, PhD Student
+8. 2002 - 2006, University of Electronic Science and Technology of China, Biomedical Engineering, Undergraduate Student
 
 
 # <a id="Interests"></a>Interests
 
-1. Machine Learning: Interpretable deep networks, lightweight neural networks, efficient deep network training, adversarial attacks and defenses
-2. Computational Imaging: Fast imaging, image restoration, image super-resolution, image enhancement, image fusion, image deblurring
-3. Wireless Sensing: Spectrum sensing, beamforming, blind source separation, radio localization
-4. Intelligent Healthcare: Medical image recognition, cognitive disorder screening, movement disorder screening, brain-computer interfaces
+1. tensor computation: tensor decomposition, tensor neural network, low rank training   
+2. computational imaging: fast imaging, image recovery, image enhancement, image fusion, adversarial attacks and defenses
+3. wireless sensing: spectrum sensing, beamforming, blind source separation, radio localization
+4. healthcare: medical image recognition, cognitive disorder screening, movement disorder screening, brain-computer interfaces
 
 # <a id="Teaching"></a>Teaching
 
-1. Teaching: Lectures on undergraduate course "Signals and Systems", undergraduate practice course "Multimedia Intelligent Human-Computer Interaction", graduate course "Optimization Theory and Applications", doctoral course "Frontiers in Signal and Information Processing"
-2. English online course "Digital Image Processing", XuetangX: https://www.xuetangx.com/course/uestc08071213dipintl/26055209
-3. Won 3 first prizes for graduate teaching achievement awards and 1 first prize for undergraduate teaching achievement award at UESTC
-4. Research supervision: 4 outstanding master's theses; 3 outstanding students of UESTC
-5. Graduate education reform projects: Project 1: Modern Digital Signal Processing Theory and Algorithms; Project 2: Project-based "Intelligent Information" Innovation Capability Enhancement Plan; Project 3: Construction of Signal Processing Core Course Cluster for Common Basic Projects
-6. Outstanding Master's Thesis Supervisor, 2020
-7. Advanced Individual in UESTC International Cooperation and International Education, 2022
+1. undergraduate courese: Signals and Analysis and Processing, 2024 spring - present
+2. undergraduate course: Signals and Systems, 2016 spring - 2023 spring
+3. undergraduate course: Multimedia Intelligent Human-Computer Interaction, 2022 spring and autumn - present
+4. graduate course: Optimization Theory and Applications, 2015 autumn - 2020 autumn
+5. doctoral course: Frontiers in Signal and Information Processing", 2023 spring - present
+6. online undergraduate course: Digital Image Processing, XuetangX: https://www.xuetangx.com/course/uestc08071213dipintl/26055209, 2025 autumn - present
+7. university graduate teaching achievement awards, 2017, 2025
+8. university undergraduate teaching achievement award, 2025 
+9. Outstanding Master's Thesis Supervisor, 2020
+10. UESTC international cooperation and international education award, 2022 and 2025
 
 # <a id="Services"></a>Services
 
@@ -46,30 +48,28 @@ redirect_from:
 3. Member, IEEE Signal Processing Society Computational Imaging (SPS CI) Technical Committee, 2025 - 2027
 4. Member, IEEE Circuits and Systems Society Multimedia Systems and Applications (CASS MSA) Technical Committee, 2024 - 2028
 5. APSIPA Distinguished Lecturer, 2022 - 2023
-6. Lead Guest Editor, Signal Processing: Image Communication special issue on Tensor Image Processing, 2017 - 2019
-7. Publicity Chair, ICASSP 2025 Satellite Event Suzhou, China
-8. Lead Chair, ICME 2025 workshop on Big Surveillance Data Analysis and Processing
+6. Lead Guest Editor, Signal Processing: Image Communication, special issue on Tensor Image Processing, 2017 - 2019
+7. Publicity Chair, ICASSP 2025 Satellite Event Suzhou, China, 2025
+8. Lead Chair, ICME 2025 workshop on Big Surveillance Data Analysis and Processing, 2025
 9. Guest Editor, Journal of Systems Engineering and Electronics (English Edition), 2022 - 2024
-10. Member, Youth Working Committee, China Society of Image and Graphics
-11. Member, Multimedia Technology Committee, China Computer Federation
-12. Multiple times as PhD defense committee member at world-renowned universities, including Skoltech (Russia)
+
+
 
 # <a id="Honors"></a>Honors
 
 1. Best Paper Award, 20th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (IEEE BMSB 2025)
 2. Best Demo Award, 26th IEEE International Conference on Multimedia and Expo (ICME 2025)
 3. Second Prize, Sichuan Provincial Natural Science Award 2023 (ranked second)
-4. 15th Batch Reserve Candidate for Sichuan Provincial Academic and Technical Leaders, 2024
-5. World's Top 2% Scientists (Stanford University), 2022, 2023, 2024
-6. Best Demo Award, 24th IEEE International Workshop on Multimedia Signal Processing (MMSP 2022)
-7. APSIPA Distinguished Lecturer for 2022-2023
-8. First Prize, Outstanding Paper Award, First Sichuan-Chongqing Academic Conference, 2020
-9. Senior Member, Institute of Electrical and Electronics Engineers, 2017
-10. Flemish Government Overseas Conference Support Award, 2012, 2014
+4. World's Top 2% Scientists, Stanford University and Elsevier, 2022, 2023, 2024
+5. Best Demo Award, 24th IEEE International Workshop on Multimedia Signal Processing (MMSP 2022)
+6. APSIPA Distinguished Lecturer for 2022-2023
+
+
+
 
 # <a id="Biography"></a>Biography
 
-Yipeng Liu is a full professor with school of information and communication engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2006 and 2011, respectively. He has been studied and worked at UESTC, Huawei Technologies and University of Leuven. 
+Yipeng Liu is a full professor with school of information and communication engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2006 and 2011, respectively. He has studied and worked at UESTC, Huawei Technologies and University of Leuven. 
 
 His research interest is tensor computations for signal processing. He has published over 100 papers, coauthored two books, “Tensor Computation for Data Analysis” by Springer and “Tensor Regression” in Foundations and Trends® in Machine Learning, and edited one book “Tensors for Data Processing” by Elsevier. He has received the IEEE BMSB 2025 Best Paper Award, and IEEE ICME 2025 Best Demo Award. He has been an associate editor for IEEE Transactions on Image Processing, and a senior area editor for IEEE Signal Processing Letters. He has delivered 6 tutorials for IEEE flagship conferences, and he is the APSIPA Distinguished Lecturer 2022-2023.
 
