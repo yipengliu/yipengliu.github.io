@@ -1,15 +1,29 @@
-# 刘翼鹏教授学术主页导航配置（中文）
 # Navigation configuration for Prof. Yipeng Liu's academic homepage (Chinese)
 
 main:
-  - title: "个人简介"
-    url: /zh/#个人简介
+  - title: "科研经历"
+    url: /zh/#科研经历
 
-  - title: "学术研究"
-    url: /zh/#学术研究
-
-  - title: "著作论文"
-    url: /zh/#著作论文
+  - title: "研究领域"
+    url: /zh/#研究领域
 
   - title: "学生培养"
     url: /zh/#学生培养
+
+  - title: "学术兼职" 
+    url: /zh/#学术兼职
+
+  - title: "科研项目" 
+    url: /zh/#科研项目
+
+  - title: "科研荣誉"
+    url: /zh/#科研荣誉
+
+  - title: "个人简介"
+    url: /zh/#个人简介
+
+  - title: "媒体报道"
+    url: /zh/#媒体报道
+
+  - title: "著作论文"
+    url: /zh/#著作论文

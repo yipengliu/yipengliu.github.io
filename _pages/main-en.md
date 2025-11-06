@@ -9,17 +9,7 @@ redirect_from:
   - /main-en.html
 ---
 
-# <a id="Biography"></a>Biography
-
-Yipeng Liu is a Professor and PhD supervisor at the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), and a National-level Young Talent. He has visited and worked at KU Leuven (Belgium), Tsinghua University (Beijing), National Tsing Hua University (Taiwan), Huawei Technologies, and Southwest Institute of Electronic Technology. His research focuses on tensor signal processing theory, methods, and applications. Based on tensor computation, he specializes in tensor decomposition and low-rank optimization, effectively avoiding data structure loss caused by matricization of high-dimensional arrays in traditional signal processing, while also avoiding the "curse of dimensionality" computational challenges in large-scale data processing.
-
-He has published over 100 international journal and conference papers, with more than 30 papers published in IEEE journals such as JSTSP, TSP, TIP, TMI, TMM, TPAMI, TKDE, and TNNLS, including 5 ESI highly cited papers. He has authored 2 English monographs and edited 1 book in tensor signal processing. His paper "Tensor Regression" was published in Foundations and Trends in Machine Learning (impact factor 65.3), making it the only work with first/corresponding author from a Chinese institution in the journal's 16-year history. He received two Flemish Government Overseas Conference Support Awards in 2012 and 2014, the First Prize of the First Sichuan-Chongqing Academic Conference in 2020, the Best Demo Award at MMSP 2022, the Second Prize of Sichuan Provincial Natural Science Award in 2023 (ranked second), the Best Demo Award at ICME 2025, and the Best Paper Award at IEEE BMSB 2025. He has been consecutively selected for Stanford University's list of the world's top 2% scientists from 2022 to present and was selected as a reserve candidate for the 15th batch of Sichuan Provincial Academic and Technical Leaders in 2024. He has led/participated in 1 ERC Advanced Grant, 1 FWO project, 5 NSFC projects, 1 national foreign expert project (Category S), 1 Sichuan Haiju Plan project, 1 Sichuan international/regional cooperation project, and 2 Sichuan science and technology plan projects.
-
-He is a Senior Member of IEEE, China Institute of Electronics, and China Society of Image and Graphics. He serves as a member of the IEEE Signal Processing Society Computational Imaging (SPS CI) Technical Committee and the IEEE Circuits and Systems Society Multimedia Systems and Applications (CASS MSA) Technical Committee, as well as a member of the Youth Working Committee of China Society of Image and Graphics and the Multimedia Technology Committee of China Computer Federation. He serves as an Associate Editor of IEEE Transactions on Image Processing, a Senior Area Editor of IEEE Signal Processing Letters, a Lead Guest Editor of Signal Processing: Image Communication (Elsevier), and a Guest Editor of Journal of Systems Engineering and Electronics (English Edition). He has served multiple times as organizer, editor, and reviewer for authoritative journals and conferences in the field.
-
-He has been invited to give tutorial talks at flagship conferences including IEEE ICME 2025, IEEE ICIP 2024, IEEE ISCAS 2024, and IJCAI 2022. He was an APSIPA Distinguished Lecturer for 2022-2023.
-
-## Research Experience
+# <a id="Experience"></a>Experience
 
 1. 2023 - Present, University of Electronic Science and Technology of China, School of Information and Communication Engineering, Professor
 2. 2014 - 2023, University of Electronic Science and Technology of China, School of Information and Communication Engineering/School of Electronic Engineering, Associate Professor
@@ -32,33 +22,24 @@ He has been invited to give tutorial talks at flagship conferences including IEE
 9. 2002 - 2006, University of Electronic Science and Technology of China, Biomedical Engineering, Undergraduate Student
 
 
-# <a id="Research"></a>Research
-
-## Interests
+# <a id="Interests"></a>Interests
 
 1. Machine Learning: Interpretable deep networks, lightweight neural networks, efficient deep network training, adversarial attacks and defenses
 2. Computational Imaging: Fast imaging, image restoration, image super-resolution, image enhancement, image fusion, image deblurring
 3. Wireless Sensing: Spectrum sensing, beamforming, blind source separation, radio localization
 4. Intelligent Healthcare: Medical image recognition, cognitive disorder screening, movement disorder screening, brain-computer interfaces
 
-## Honors
+# <a id="Teaching"></a>Teaching
 
-1. Best Paper Award, 20th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (IEEE BMSB 2025)
-2. Best Demo Award, 26th IEEE International Conference on Multimedia and Expo (ICME 2025)
-3. Second Prize, Sichuan Provincial Natural Science Award 2023 (ranked second)
-4. 15th Batch Reserve Candidate for Sichuan Provincial Academic and Technical Leaders, 2024
-5. World's Top 2% Scientists (Stanford University), 2022, 2023, 2024
-6. Best Demo Award, 24th IEEE International Workshop on Multimedia Signal Processing (MMSP 2022)
-7. APSIPA Distinguished Lecturer for 2022-2023
-8. First Prize, Outstanding Paper Award, First Sichuan-Chongqing Academic Conference, 2020
-9. Senior Member, Institute of Electrical and Electronics Engineers, 2017
-10. Flemish Government Overseas Conference Support Award, 2012, 2014
+1. Teaching: Lectures on undergraduate course "Signals and Systems", undergraduate practice course "Multimedia Intelligent Human-Computer Interaction", graduate course "Optimization Theory and Applications", doctoral course "Frontiers in Signal and Information Processing"
+2. English online course "Digital Image Processing", XuetangX: https://www.xuetangx.com/course/uestc08071213dipintl/26055209
+3. Won 3 first prizes for graduate teaching achievement awards and 1 first prize for undergraduate teaching achievement award at UESTC
+4. Research supervision: 4 outstanding master's theses; 3 outstanding students of UESTC
+5. Graduate education reform projects: Project 1: Modern Digital Signal Processing Theory and Algorithms; Project 2: Project-based "Intelligent Information" Innovation Capability Enhancement Plan; Project 3: Construction of Signal Processing Core Course Cluster for Common Basic Projects
+6. Outstanding Master's Thesis Supervisor, 2020
+7. Advanced Individual in UESTC International Cooperation and International Education, 2022
 
-## Projects
-
-Principal investigator of NSFC international cooperation project, NSFC general project, NSFC youth project, national foreign expert project (Category S), Sichuan international/regional cooperation project, and Sichuan Haiju Plan project; Co-investigator of ERC Advanced Grant and FWO project.
-
-## Services
+# <a id="Services"></a>Services
 
 1. Associate Editor, IEEE Transactions on Image Processing, 2025 - Present
 2. Senior Area Editor, IEEE Signal Processing Letters, 2024 - Present
@@ -73,28 +54,44 @@ Principal investigator of NSFC international cooperation project, NSFC general p
 11. Member, Multimedia Technology Committee, China Computer Federation
 12. Multiple times as PhD defense committee member at world-renowned universities, including Skoltech (Russia)
 
+# <a id="Honors"></a>Honors
+
+1. Best Paper Award, 20th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (IEEE BMSB 2025)
+2. Best Demo Award, 26th IEEE International Conference on Multimedia and Expo (ICME 2025)
+3. Second Prize, Sichuan Provincial Natural Science Award 2023 (ranked second)
+4. 15th Batch Reserve Candidate for Sichuan Provincial Academic and Technical Leaders, 2024
+5. World's Top 2% Scientists (Stanford University), 2022, 2023, 2024
+6. Best Demo Award, 24th IEEE International Workshop on Multimedia Signal Processing (MMSP 2022)
+7. APSIPA Distinguished Lecturer for 2022-2023
+8. First Prize, Outstanding Paper Award, First Sichuan-Chongqing Academic Conference, 2020
+9. Senior Member, Institute of Electrical and Electronics Engineers, 2017
+10. Flemish Government Overseas Conference Support Award, 2012, 2014
+
+# <a id="Biography"></a>Biography
+
+Yipeng Liu is a full professor with school of information and communication engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2006 and 2011, respectively. He has been studied and worked at UESTC, Huawei Technologies and University of Leuven. 
+
+His research interest is tensor computations for signal processing. He has published over 100 papers, coauthored two books, “Tensor Computation for Data Analysis” by Springer and “Tensor Regression” in Foundations and Trends® in Machine Learning, and edited one book “Tensors for Data Processing” by Elsevier. He has received the IEEE BMSB 2025 Best Paper Award, and IEEE ICME 2025 Best Demo Award. He has been an associate editor for IEEE Transactions on Image Processing, and a senior area editor for IEEE Signal Processing Letters. He has delivered 6 tutorials for IEEE flagship conferences, and he is the APSIPA Distinguished Lecturer 2022-2023.
 
 # <a id="Publications"></a>Publications
 
-## Books
-
-### Authored books
+## Authored books
 
 1. Yipeng Liu, Jiani Liu, Zhen Long, Ce Zhu, Tensor Computation for Data Analysis, New York, USA: Springer, 2022. ebook ISBN: 978-3-030-74386-4, Hardcover ISBN: 978-3-030-74385-7, DOI: 10.1007/978-3-030-74386-4, online available at: https://www.springer.com/us/book/9783030743857
 2. Jiani Liu, Ce Zhu, Zhen Long, Yipeng Liu, Tensor Regression, Hanover, USA: Now Publishers Inc. 2021. online available at: https://www.nowpublishers.com/article/Details/MAL-087
 
-### Edited Books
+## Edited Books
 
 1. Yipeng Liu, Tensors for Data Processing, London, UK:  Academic Press (Elsevier), 2022. ISBN: 9780128244470. online available at: https://www.elsevier.com/books/tensors-for-data-processing/liu/978-0-12-824447-0
 
-### Book chapters
+## Book chapters
 
 1. Yingyue Bi, Yingcong Lu, Zhen Long, Ce Zhu, and Yipeng Liu, "Tensor Decompositions: Computations, Applications, and Challenges," Tensors for Data Processing, Academic Press (Elsevier), 2022. 
 2. Fei Wen, Zhonghao Zhang, and Yipeng Liu, "Generalized Thresholding for Low-rank Tensor Recovery: Approaches based on Model and Learning," Tensors for Data Processing,  Academic Press (Elsevier),  2022.
 
 ## Papers
 
-## 2025
+### 2025
 
 1. Fei He, Yipeng Liu, Ce Zhu, ”Tensor Decomposition for Brain Data Characterization: A Structured Review on Prerequisites, Models, and Constraints,” IEEE Signal Processing Magazine, 2025.
 2. Yang Chen, Ruituo Wu, Junhui Hou, Ce Zhu, Yipeng Liu, "HOPE: Enhanced Position Image Priors via High-Order Implicit Representations," IEEE Transactions on Image Processing, 2025.
@@ -116,7 +113,7 @@ Principal investigator of NSFC international cooperation project, NSFC general p
 18. Qun Wan, Weiyu Liu, Kehao Zhang, Xiangyu Peng, Lin Zou, Yipeng Liu, "Revisiting The Cramer-Rao Lower Bound via Wiener Filtering," The 17th International Conference on Signal Processing Systems (ICSPS), Chengdu, China, October 24-26, 2025.
 19. Kang Tan, Zhijie Sun, Yimao Sun, Ce Zhu, Yipeng Liu, "DATSIL: Domain Adaptation in Tensor Subspace for Wi-Fi-based Indoor Localization," The 17th International Conference on Signal Processing Systems (ICSPS), Chengdu, China, October 24-26, 2025.
 
-## 2024
+### 2024
 
 1. Yipeng Liu, Jie Chen, Yingcong Lu, Weiting Ou, Zhen Long, Ce Zhu, "Adaptively Topological Tensor Network for Multi-view Subspace Clustering," IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 11, pp. 5562 - 5575, 2024.
 2. Yuan Fang, Yipeng Liu, Chong-Yung Chi, Zhen Long, Ce Zhu, "CS2DIPs: Unsupervised HSI Super-Resolution Using Coupled Spatial and Spectral DIPs," IEEE Transactions on Image Processing, vol. 33, pp. 3090 - 3101, 2024.
@@ -139,7 +136,7 @@ Principal investigator of NSFC international cooperation project, NSFC general p
 19. Yang Jiao, Chenchen Wang, Jingyu Zhai, Yipeng Liu, Qun Wan, "Compressed sampling time difference of arrival estimation method based on amplitude and phase clustering," The 16th International Conference on Signal Processing Systems (ICSPS 2024), Kuming, China, Nov. 15 -17, 2024.
 20. Yiting Fan, Yi Liu, Luyao Sun, Yipeng Liu, Qun Wan, "Comparison of CRB on TOA estimation of LOS path between incoherent and coherent processing of two subbands CSI measurements," The 16th International Conference on Signal Processing Systems (ICSPS 2024), Kuming, China, Nov. 15 -17, 2024.
 
-## 2023
+### 2023
 
 1.  Xin Liu, Zhangxin Chen, Ce Zhu, Yipeng Liu, "GAPMSF-Net: Generalized Alternating Projection with Multi-stage Fusion Network for Snapshot Compressive Imaging," IEEE Transactions on Computational Imaging, vol. 9, pp. 760 - 768, 2024.
 2. Lanlan Feng, Ce Zhu, Zhen Long, Jiani Liu, Yipeng Liu, "Multiplex Transformed Tensor Decomposition for Multidimensional Image Recovery," IEEE Transactions on Image Processing, vol. 32, pp. 3397 - 3412, 2023.
@@ -158,7 +155,7 @@ Principal investigator of NSFC international cooperation project, NSFC general p
 20. Jingjing Hou, Hongwei Guo, Yipeng Liu, Lanlan Feng, Xu Yang, Lei Luo, Ce Zhu, "Latitude-Guided Temporally Dependent Rate-Distortion Optimization For Panoramic Video Coding," The 18th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2023),  June 14 -16, 2023, Beijing, China.
 21. Zihan Li, Ce Zhu, Zhen Long, Yipeng Liu, "Optimal Low-Rank Tensor Tree Completion," The 25th IEEE International Workshop on Multimedia Signal Processing, Poitiers, France, September 27–29, 2023.
 
-## 2022
+### 2022
 
 1. Fei He, Xiaoyi Hu, Ce Zhu, Ying Li, Yipeng Liu, "Multi-Scale Spatial and Temporal Speech Associations to Swallowing for Dysphagia Screening," IEEE-ACM Transactions on Audio, Speech and Language Processing, vol. 30, pp. 2888- 2899, 2022.
 2. Zhen Long, Ce Zhu, Jiani Liu, Pierre Comon, Yipeng Liu, "Trainable Subspaces for Low Rank Tensor Completion: Model and Analysis," IEEE Transactions on Signal Processing, vol. 70, no. 5, pp. 2502 - 2517, 2022.
@@ -291,14 +288,3 @@ Principal investigator of NSFC international cooperation project, NSFC general p
 
 1. Yipeng Liu and Qun Wan, "Designing Optimal UWB Pulse Waveform Directly by FIR Filter," The 4th International Conference on Wireless Communications, Networking and Mobile Computing, 2008. (WiCOM '08.), Dalian, China, 12-14 Oct. 2008, pp. 1-4
 2. Yipeng Liu and Qun Wan, "Optimal anti-interference UWB waveform design based on convex optimization," The 10th National Radar Conference of China, 30 Oct. – 2 Nov. 2008, Beijing, China, pp. 481-484.
-
-
-# <a id="Teaching"></a>Teaching
-
-1. Teaching: Lectures on undergraduate course "Signals and Systems", undergraduate practice course "Multimedia Intelligent Human-Computer Interaction", graduate course "Optimization Theory and Applications", doctoral course "Frontiers in Signal and Information Processing"
-2. English online course "Digital Image Processing", XuetangX: https://www.xuetangx.com/course/uestc08071213dipintl/26055209
-3. Won 3 first prizes for graduate teaching achievement awards and 1 first prize for undergraduate teaching achievement award at UESTC
-4. Research supervision: 4 outstanding master's theses; 3 outstanding students of UESTC
-5. Graduate education reform projects: Project 1: Modern Digital Signal Processing Theory and Algorithms; Project 2: Project-based "Intelligent Information" Innovation Capability Enhancement Plan; Project 3: Construction of Signal Processing Core Course Cluster for Common Basic Projects
-6. Outstanding Master's Thesis Supervisor, 2020
-7. Advanced Individual in UESTC International Cooperation and International Education, 2022

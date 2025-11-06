@@ -4,7 +4,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><span class="navicon"></span></button>
+        <button class="hidden"><span class="navicon"></span></button>
         <ul class="visible-links">
           {% if page.url contains '/zh' %}
             <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/zh/">{{ site.data.site_zh.site_zh.title | default: "" }}</a></li>

@@ -9,17 +9,7 @@ redirect_from:
   - /main-zh.html
 ---
 
-# <a id="个人简介"></a>个人简介
-
-刘翼鹏是电子科技大学信息与通信工程学院教授、博士生导师、国家级青年人才。他曾在鲁汶大学（比利时）、清华大学（北京）、清华大学（台湾）、华为技术、西南电子技术研究所访问和工作。他主要从事张量信号处理相关的理论方法和应用工作。以张量计算为基础，重点研究张量分解和低秩优化，有效避免传统信号处理中将高维数组矩阵化带来的数据结构损失，同时还能避免大规模数据处理中的“维数灾难”计算难题。
-
-他发表国际期刊和会议论文100余篇，其中30余篇论文发表在JSTSP、TSP、TIP、TMI、TMM、TPAMI、TKDE、TNNLS等IEEE期刊，ESI 高被引论文5篇。撰写张量信号处理方向的英文专著2本和编著1本。他的论文Tensor Regression发表在影响因子65.3的人工智能顶刊FnT in Machine Learning，是其创刊16年唯一的第一/通讯作者来自中国单位的工作。他分别于2012年和2014年获得比利时弗拉芒政府海外会议支持奖2项，2020年获首届川渝科技学术大会优秀论文一等奖，2022年获得国际多媒体信号处理研讨会（MMSP 2022）最佳演示奖（Best Demo Award），获得2023年年度四川省自然科学奖二等奖（排名第二），2025年获得第26届IEEE多媒体年会（ICME 2025）最佳演示奖，2025年获得第20届IEEE宽带多媒体系统和广播年会（IEEE BMSB 2025）最佳论文奖；2022年至今连续入选斯坦福大学评选的全球前2%顶尖科学家名单，2024年入选第15批四川省学术和技术带头人后备人选。主研/主持欧盟研究理事会高级项目1项、比利时法兰德斯自然科学基金1项、中国国家自然科学基金5项、人社部国家外国专家个人类项目（S类）、四川海聚计划项目1项、四川省国际/地区科研合作项目1项、四川省科技计划项目2项。
-
-他是IEEE高级会员，中国电子学会高级会员，中国图象图形学学会高级会员，IEEE信号处理协会计算成像（SPS CI）技术委员会委员，IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员，中国图象图形学学会青年工作委员会委员，中国计算机学会多媒体技术专委会委员。他担任国际期刊IEEE Transactions on Image Processing的编委，IEEE Signal Processing Letters的资深领域编委，Signal Processing: Image Communication （Elsevier）的首席客座编委，系统工程与电子技术（英文版）客座编委；多次担任行业权威期刊和会议的组织、编辑和审稿工作。
-
-他曾应邀在IEEE多媒体领域旗舰会议ICME 2025、IEEE信号处理学会旗舰会议ICIP 2024、IEEE电路与系统学会旗舰会议ISCAS 2024、国际人工智能协会旗舰会议IJCAI 2022做讲习班报告（tutorial）。他是亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished Lecturer for 2022-2023）。
-
-## 科研经历
+# <a id="科研经历"></a>科研经历
 
 1. 2023年 至今，电子科技大学，信息与通信工程学院，教授
 2.	2014年 - 2023年，电子科技大学，信息与通信工程学院/电子工程学院，副教授
@@ -31,34 +21,24 @@ redirect_from:
 8.	2006年 - 2011年，电子科技大学，信息与通信工程，博士生
 9.	2002年 - 2006年，电子科技大学，生物医学工程，本科生
 
-
-# <a id="学术研究"></a>学术研究
-
-## 研究方向
+# <a id="研究领域"></a>研究领域
 
 1. 机器学习：可解释深度网络、轻量化神经网络、高效深度网络训练、对抗攻击和防御
 2. 计算成像：快速成像、图像复原、图像超分辨、图像增强、图像融合、图像去模糊
 3. 无线感知：频谱感知、波束形成、盲源分离、无线电定位
 4. 智能医疗：影像识别、认知障碍筛查、运动障碍筛查、脑机接口
 
-## 科研荣誉
+# <a id="学生培养"></a>学生培养
 
-1. 第20届IEEE宽带多媒体系统和广播年会（IEEE BMSB 2025）最佳论文奖
-2. 第26届IEEE多媒体年会（ICME 2025）, 最佳演示奖（Best Demo Award）
-3. 2023年度四川省自然科学奖二等奖（排名第二）
-4. 第15批四川省学术和技术带头人后备人选，2024
-5. 2022年、2023年、2024年度全球前2%顶尖科学家（斯坦福大学发布）
-6. 第24届IEEE国际多媒体信号处理研讨会（MMSP 2022）最佳演示奖（Best Demo Award）
-7. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer for 2022-2023）
-8. 首届川渝科技学术大会优秀论文一等奖，2020年
-9. 国际电气电子工程师学会高级会员，2017年
-10. 比利时弗拉芒政府海外会议支持奖，2012年，2014年
+1. 教学工作：主讲本科生基础课《信号与系统》、本科实践课《多媒体智能人机交互》、研究生基础课《最优化理论与应用》、博士生前沿探索课《信号与信息处理前沿》。
+2. 全英文在线课程《Digital Image Processing》，学堂在线：https://www.xuetangx.com/course/uestc08071213dipintl/26055209
+3. 获电子科技大学研究生教学成果奖一等奖3项；本科生教学成果奖一等奖1项目。
+4. 科研指导：优秀硕士学位论文4篇；成电杰出学生3位
+5. 研究生教改项目：项目一：现代数字信号处理理论及算法；项目二：基于项目的“智能信息”创新能力提升计划；项目三：面向共性基础项目的信号处理核心课程群建设
+6. 2020年度优秀硕士学位论文指导教师
+7. 2022年度成电国际合作与国际教育先进个人
 
-## 科研项目
-
-主持中国自然基金国际合作项目、中国自然基金面上项目、中国自然基金青年基金项目、人社部国家外国专家个人类项目、四川省科技厅国际/地区合作项目、四川海聚计划项目；主研欧盟研究理事会高级项目、比利时佛兰德科学基金。
-
-## 学术兼职
+# <a id="学术兼职"></a>学术兼职
 
 1. IEEE Transctions on Image Processing编委，2025 至今
 2. IEEE Signal Processing Letters资深领域编委，2024 至今
@@ -73,7 +53,35 @@ redirect_from:
 11. 中国计算机学会多媒体技术专委会委员
 12. 多次担任世界知名大学博士答辩委员会委员，包括俄罗斯斯科尔科沃科学技术学院（Skoltech）
 
-## 媒体报道
+# <a id="科研项目"></a>科研项目
+
+主持中国自然基金国际合作项目、中国自然基金面上项目、中国自然基金青年基金项目、人社部国家外国专家个人类项目、四川省科技厅国际/地区合作项目、四川海聚计划项目；主研欧盟研究理事会高级项目、比利时佛兰德科学基金。
+
+# <a id="科研荣誉"></a>科研荣誉
+
+1. 第20届IEEE宽带多媒体系统和广播年会（IEEE BMSB 2025）最佳论文奖
+2. 第26届IEEE多媒体年会（ICME 2025）, 最佳演示奖（Best Demo Award）
+3. 2023年度四川省自然科学奖二等奖（排名第二）
+4. 第15批四川省学术和技术带头人后备人选，2024
+5. 2022年、2023年、2024年度全球前2%顶尖科学家（斯坦福大学发布）
+6. 第24届IEEE国际多媒体信号处理研讨会（MMSP 2022）最佳演示奖（Best Demo Award）
+7. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer for 2022-2023）
+8. 首届川渝科技学术大会优秀论文一等奖，2020年
+9. 国际电气电子工程师学会高级会员，2017年
+10. 比利时弗拉芒政府海外会议支持奖，2012年，2014年
+
+
+# <a id="个人简介"></a>个人简介
+
+刘翼鹏是电子科技大学信息与通信工程学院教授、博士生导师、国家级青年人才。他曾在鲁汶大学（比利时）、清华大学（北京）、清华大学（台湾）、华为技术、西南电子技术研究所访问和工作。他主要从事张量信号处理相关的理论方法和应用工作。以张量计算为基础，重点研究张量分解和低秩优化，有效避免传统信号处理中将高维数组矩阵化带来的数据结构损失，同时还能避免大规模数据处理中的“维数灾难”计算难题。
+
+他发表国际期刊和会议论文100余篇，其中30余篇论文发表在JSTSP、TSP、TIP、TMI、TMM、TPAMI、TKDE、TNNLS等IEEE期刊，ESI 高被引论文5篇。撰写张量信号处理方向的英文专著2本和编著1本。他的论文Tensor Regression发表在影响因子65.3的人工智能顶刊FnT in Machine Learning，是其创刊16年唯一的第一/通讯作者来自中国单位的工作。他分别于2012年和2014年获得比利时弗拉芒政府海外会议支持奖2项，2020年获首届川渝科技学术大会优秀论文一等奖，2022年获得国际多媒体信号处理研讨会（MMSP 2022）最佳演示奖（Best Demo Award），获得2023年年度四川省自然科学奖二等奖（排名第二），2025年获得第26届IEEE多媒体年会（ICME 2025）最佳演示奖，2025年获得第20届IEEE宽带多媒体系统和广播年会（IEEE BMSB 2025）最佳论文奖；2022年至今连续入选斯坦福大学评选的全球前2%顶尖科学家名单，2024年入选第15批四川省学术和技术带头人后备人选。主研/主持欧盟研究理事会高级项目1项、比利时法兰德斯自然科学基金1项、中国国家自然科学基金5项、人社部国家外国专家个人类项目（S类）、四川海聚计划项目1项、四川省国际/地区科研合作项目1项、四川省科技计划项目2项。
+
+他是IEEE高级会员，中国电子学会高级会员，中国图象图形学学会高级会员，IEEE信号处理协会计算成像（SPS CI）技术委员会委员，IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员，中国图象图形学学会青年工作委员会委员，中国计算机学会多媒体技术专委会委员。他担任国际期刊IEEE Transactions on Image Processing的编委，IEEE Signal Processing Letters的资深领域编委，Signal Processing: Image Communication （Elsevier）的首席客座编委，系统工程与电子技术（英文版）客座编委；多次担任行业权威期刊和会议的组织、编辑和审稿工作。
+
+他曾应邀在IEEE多媒体领域旗舰会议ICME 2025、IEEE信号处理学会旗舰会议ICIP 2024、IEEE电路与系统学会旗舰会议ISCAS 2024、国际人工智能协会旗舰会议IJCAI 2022做讲习班报告（tutorial）。他是亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished Lecturer for 2022-2023）。
+
+# <a id="媒体报道"></a>媒体报道
 
 1. 信通学院刘翼鹏教授受邀在国际知名学术会议IEEE ISCAS 2024作张量回归讲习报告：https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=92835
 2. 信通学院刘翼鹏等人的英文著作Tensor Computation for Data Analysis由施普林格公司出版：https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81351
@@ -83,25 +91,23 @@ redirect_from:
 
 # <a id="著作论文"></a>著作论文
 
-## 著作
-
-### 著有书籍
+## 著有书籍
 
 1. Yipeng Liu, Jiani Liu, Zhen Long, Ce Zhu, Tensor Computation for Data Analysis, New York, USA: Springer, 2022. ebook ISBN: 978-3-030-74386-4, Hardcover ISBN: 978-3-030-74385-7, DOI: 10.1007/978-3-030-74386-4, online available at: https://www.springer.com/us/book/9783030743857
 2. Jiani Liu, Ce Zhu, Zhen Long, Yipeng Liu, Tensor Regression, Hanover, USA: Now Publishers Inc. 2021. online available at: https://www.nowpublishers.com/article/Details/MAL-087
 
-### 编著图书
+## 编著图书
 
 1. Yipeng Liu, Tensors for Data Processing, London, UK:  Academic Press (Elsevier), 2022. ISBN: 9780128244470. online available at: https://www.elsevier.com/books/tensors-for-data-processing/liu/978-0-12-824447-0
 
-### 图书章节
+## 图书章节
 
 1. Yingyue Bi, Yingcong Lu, Zhen Long, Ce Zhu, and Yipeng Liu, "Tensor Decompositions: Computations, Applications, and Challenges," Tensors for Data Processing, Academic Press (Elsevier), 2022. 
 2. Fei Wen, Zhonghao Zhang, and Yipeng Liu, "Generalized Thresholding for Low-rank Tensor Recovery: Approaches based on Model and Learning," Tensors for Data Processing,  Academic Press (Elsevier),  2022.
 
 ## 论文
 
-## 2025
+### 2025
 
 1. Fei He, Yipeng Liu, Ce Zhu, ”Tensor Decomposition for Brain Data Characterization: A Structured Review on Prerequisites, Models, and Constraints,” IEEE Signal Processing Magazine, 2025.
 2. Yang Chen, Ruituo Wu, Junhui Hou, Ce Zhu, Yipeng Liu, "HOPE: Enhanced Position Image Priors via High-Order Implicit Representations," IEEE Transactions on Image Processing, 2025.
@@ -123,7 +129,7 @@ redirect_from:
 18. Qun Wan, Weiyu Liu, Kehao Zhang, Xiangyu Peng, Lin Zou, Yipeng Liu, "Revisiting The Cramer-Rao Lower Bound via Wiener Filtering," The 17th International Conference on Signal Processing Systems (ICSPS), Chengdu, China, October 24-26, 2025.
 19. Kang Tan, Zhijie Sun, Yimao Sun, Ce Zhu, Yipeng Liu, "DATSIL: Domain Adaptation in Tensor Subspace for Wi-Fi-based Indoor Localization," The 17th International Conference on Signal Processing Systems (ICSPS), Chengdu, China, October 24-26, 2025.
 
-## 2024
+### 2024
 
 1. Yipeng Liu, Jie Chen, Yingcong Lu, Weiting Ou, Zhen Long, Ce Zhu, "Adaptively Topological Tensor Network for Multi-view Subspace Clustering," IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 11, pp. 5562 - 5575, 2024.
 2. Yuan Fang, Yipeng Liu, Chong-Yung Chi, Zhen Long, Ce Zhu, "CS2DIPs: Unsupervised HSI Super-Resolution Using Coupled Spatial and Spectral DIPs," IEEE Transactions on Image Processing, vol. 33, pp. 3090 - 3101, 2024.
@@ -146,7 +152,7 @@ redirect_from:
 19. Yang Jiao, Chenchen Wang, Jingyu Zhai, Yipeng Liu, Qun Wan, "Compressed sampling time difference of arrival estimation method based on amplitude and phase clustering," The 16th International Conference on Signal Processing Systems (ICSPS 2024), Kuming, China, Nov. 15 -17, 2024.
 20. Yiting Fan, Yi Liu, Luyao Sun, Yipeng Liu, Qun Wan, "Comparison of CRB on TOA estimation of LOS path between incoherent and coherent processing of two subbands CSI measurements," The 16th International Conference on Signal Processing Systems (ICSPS 2024), Kuming, China, Nov. 15 -17, 2024.
 
-## 2023
+### 2023
 
 1.  Xin Liu, Zhangxin Chen, Ce Zhu, Yipeng Liu, "GAPMSF-Net: Generalized Alternating Projection with Multi-stage Fusion Network for Snapshot Compressive Imaging," IEEE Transactions on Computational Imaging, vol. 9, pp. 760 - 768, 2024.
 2. Lanlan Feng, Ce Zhu, Zhen Long, Jiani Liu, Yipeng Liu, "Multiplex Transformed Tensor Decomposition for Multidimensional Image Recovery," IEEE Transactions on Image Processing, vol. 32, pp. 3397 - 3412, 2023.
@@ -165,7 +171,7 @@ redirect_from:
 20. Jingjing Hou, Hongwei Guo, Yipeng Liu, Lanlan Feng, Xu Yang, Lei Luo, Ce Zhu, "Latitude-Guided Temporally Dependent Rate-Distortion Optimization For Panoramic Video Coding," The 18th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2023),  June 14 -16, 2023, Beijing, China.
 21. Zihan Li, Ce Zhu, Zhen Long, Yipeng Liu, "Optimal Low-Rank Tensor Tree Completion," The 25th IEEE International Workshop on Multimedia Signal Processing, Poitiers, France, September 27–29, 2023.
 
-## 2022
+### 2022
 
 1. Fei He, Xiaoyi Hu, Ce Zhu, Ying Li, Yipeng Liu, "Multi-Scale Spatial and Temporal Speech Associations to Swallowing for Dysphagia Screening," IEEE-ACM Transactions on Audio, Speech and Language Processing, vol. 30, pp. 2888- 2899, 2022.
 2. Zhen Long, Ce Zhu, Jiani Liu, Pierre Comon, Yipeng Liu, "Trainable Subspaces for Low Rank Tensor Completion: Model and Analysis," IEEE Transactions on Signal Processing, vol. 70, no. 5, pp. 2502 - 2517, 2022.
@@ -298,14 +304,3 @@ redirect_from:
 
 1. Yipeng Liu and Qun Wan, "Designing Optimal UWB Pulse Waveform Directly by FIR Filter," The 4th International Conference on Wireless Communications, Networking and Mobile Computing, 2008. (WiCOM '08.), Dalian, China, 12-14 Oct. 2008, pp. 1-4
 2. Yipeng Liu and Qun Wan, "Optimal anti-interference UWB waveform design based on convex optimization," The 10th National Radar Conference of China, 30 Oct. – 2 Nov. 2008, Beijing, China, pp. 481-484.
-
-
-# <a id="学生培养"></a>学生培养
-
-1. 教学工作：主讲本科生基础课《信号与系统》、本科实践课《多媒体智能人机交互》、研究生基础课《最优化理论与应用》、博士生前沿探索课《信号与信息处理前沿》。
-2. 全英文在线课程《Digital Image Processing》，学堂在线：https://www.xuetangx.com/course/uestc08071213dipintl/26055209
-3. 获电子科技大学研究生教学成果奖一等奖3项；本科生教学成果奖一等奖1项目。
-4. 科研指导：优秀硕士学位论文4篇；成电杰出学生3位
-5. 研究生教改项目：项目一：现代数字信号处理理论及算法；项目二：基于项目的“智能信息”创新能力提升计划；项目三：面向共性基础项目的信号处理核心课程群建设
-6. 2020年度优秀硕士学位论文指导教师
-7. 2022年度成电国际合作与国际教育先进个人

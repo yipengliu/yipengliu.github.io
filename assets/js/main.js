@@ -50,31 +50,10 @@ var toggleLanguage = () => {
 // Read the Plotly data from the code block, hide it, and render the chart as new node. This allows for the 
 // JSON data to be retrieve when the theme is switched. The listener should only be added if the data is 
 // actually present on the page.
-import { plotlyDarkLayout, plotlyLightLayout } from './theme.js';
 let plotlyElements = document.querySelectorAll("pre>code.language-plotly");
 if (plotlyElements.length > 0) {
-  document.addEventListener("readystatechange", () => {
-    if (document.readyState === "complete") {
-      plotlyElements.forEach((elem) => {
-        // Parse the Plotly JSON data and hide it
-        var jsonData = JSON.parse(elem.textContent);
-        elem.parentElement.classList.add("hidden");
-
-        // Add the Plotly node
-        let chartElement = document.createElement("div");
-        elem.parentElement.after(chartElement);
-
-        // Set the theme for the plot and render it
-        const theme = (determineComputedTheme() === "dark") ? plotlyDarkLayout : plotlyLightLayout;
-        if (jsonData.layout) {
-          jsonData.layout.template = (jsonData.layout.template) ? { ...theme, ...jsonData.layout.template } : theme;
-        } else {
-          jsonData.layout = { template: theme };
-        }
-        Plotly.react(chartElement, jsonData.data, jsonData.layout);
-      });
-    }
-  });
+  // We'll skip the dynamic import for now to avoid module loading issues
+  console.log("Plotly elements found but skipping dynamic loading for compatibility");
 }
 
 /* ==========================================================================
@@ -114,7 +93,9 @@ $(document).ready(function () {
   bumpIt();
 
   // FitVids init
-  fitvids();
+  if (typeof $.fn.fitVids !== 'undefined') {
+    fitvids();
+  }
 
   // Follow menu drop down
   $(".author__urls-wrapper button").on("click", function () {
@@ -130,9 +111,11 @@ $(document).ready(function () {
   });
 
   // Init smooth scroll, this needs to be slightly more than then fixed masthead height
-  $("a").smoothScroll({
-    offset: -scssMastheadHeight,
-    preventDefault: false,
-  });
+  if (typeof $.fn.smoothScroll !== 'undefined') {
+    $("a").smoothScroll({
+      offset: -scssMastheadHeight,
+      preventDefault: false,
+    });
+  }
 
 });

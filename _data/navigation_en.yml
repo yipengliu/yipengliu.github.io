@@ -1,14 +1,23 @@
 # English Navigation configuration for Prof. Yipeng Liu's academic homepage
 
 main_en:
-  - title: "Biography"
-    url: /#Biography
+  - title: "Experience"
+    url: /#Experience
 
-  - title: "Research"
-    url: /#Research
-
-  - title: "Publications"
-    url: /#Publications
+  - title: "Interests"
+    url: /#Interests
 
   - title: "Teaching"
     url: /#Teaching
+
+  - title: "Services"
+    url: /#Services
+
+  - title: "Honors"
+    url: /#Honors
+
+  - title: "Biography"
+    url: /#Biography
+
+  - title: "Publications"
+    url: /#Publications
