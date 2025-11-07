@@ -12,13 +12,10 @@ redirect_from:
 # <a id="Experience"></a>Experience
 
 1. 2014 - Present, University of Electronic Science and Technology of China, School of Information and Communication Engineering/School of Electronic Engineering, Full Professor / Associate Professor
-2. 2016 - 2017, National Tsing Hua University, Department of Electrical Engineering, Visiting Scholar
-3. 2011 - 2014, KU Leuven (Belgium), Department of Electrical Engineering, Postdoctoral Researcher
-4. 2011 - 2011, Huawei Technologies, Chengdu Research Institute, Algorithm Engineer
-5. 2010 - 2011, Tsinghua University (Beijing), Department of Electronic Engineering, Visiting Student
-6. 2007 - 2008, Southwest Institute of Electronic Technology, Intern
-7. 2006 - 2011, University of Electronic Science and Technology of China, Information and Communication Engineering, PhD Student
-8. 2002 - 2006, University of Electronic Science and Technology of China, Biomedical Engineering, Undergraduate Student
+2. 2011 - 2014, KU Leuven (Belgium), Department of Electrical Engineering, Postdoctoral Researcher
+3. 2011 - 2011, Huawei Technologies, Chengdu Research Institute, Algorithm Engineer
+4. 2006 - 2011, University of Electronic Science and Technology of China, Information and Communication Engineering, PhD Student
+5. 2002 - 2006, University of Electronic Science and Technology of China, Biomedical Engineering, Undergraduate
 
 
 # <a id="Interests"></a>Interests
