@@ -57,3 +57,59 @@ h1 a[id]:hover {
   color: inherit;
   text-decoration: none;
 }
+
+/* =============================================================
+   GitHub-like reduced typography scale overrides
+   Reference: GitHub README default ~16px base, modest heading sizes
+   We slightly reduce overall scale for denser academic CV presentation.
+   ============================================================= */
+
+/* Base font size: default theme uses 16px; we reduce to 15px for body text */
+body {
+  font-size: 15px; /* slightly smaller, still readable */
+  line-height: 1.6; /* improve readability with smaller font */
+}
+
+/* Headings: approximate GitHub markdown scale but reduced a bit */
+h1 { font-size: 1.9em; }
+h2 { font-size: 1.4em; }
+h3 { font-size: 1.15em; }
+h4 { font-size: 1.0em; }
+h5 { font-size: 0.9em; }
+h6 { font-size: 0.85em; }
+
+/* Adjust heading spacing after size reduction */
+h1, h2, h3, h4, h5, h6 {
+  margin: 1.6em 0 0.6em; /* tighter top margin */
+}
+
+/* Code blocks and inline code scale harmonization */
+code, pre code, a > code, figcaption > code, li > code, p > code, td > code {
+  font-size: 0.85em; /* reduce inline code size slightly */
+}
+
+/* Lists: slightly reduce bottom margin between items */
+ul li, ol li { margin-bottom: 0.4em; }
+
+/* Table font size tighten */
+table { font-size: 0.95em; }
+
+/* Blockquote font size adjust */
+blockquote { font-size: 0.95em; }
+
+/* Figure captions align with smaller body */
+figcaption { font-size: 0.8em; }
+
+/* Sidebar author profile scaling */
+.author__content .author__name { font-size: 1.2em; }
+.author__content .author__bio { font-size: 0.9em; line-height: 1.4; }
+
+/* Navigation bar font tweak for consistency */
+.greedy-nav .visible-links a { font-size: 0.9em; }
+.language-text { font-size: 11px; }
+
+/* Responsive consideration: restore larger size on very wide screens if desired */
+@media (min-width: 1280px) {
+  body { font-size: 15.5px; }
+  h1 { font-size: 2.0em; }
+}
