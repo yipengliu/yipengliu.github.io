@@ -9,7 +9,7 @@ redirect_from:
   - /main-en.html
 ---
 
-# <a id="Experience"></a>Experience
+## <a id="Experience"></a>Experience
 
 1. 2014 - Present, University of Electronic Science and Technology of China, School of Information and Communication Engineering/School of Electronic Engineering, Full Professor / Associate Professor
 2. 2011 - 2014, KU Leuven (Belgium), Department of Electrical Engineering, Postdoctoral Researcher
@@ -18,14 +18,14 @@ redirect_from:
 5. 2002 - 2006, University of Electronic Science and Technology of China, Biomedical Engineering, Undergraduate
 
 
-# <a id="Interests"></a>Interests
+## <a id="Interests"></a>Interests
 
 1. tensor computation: tensor decomposition, tensor neural network, low rank training, learnable tensor optimization   
 2. computational imaging: fast imaging, image recovery, image enhancement, adversarial defenses
 3. wireless sensing: spectrum sensing, beamforming, blind source separation, radio localization
 4. healthcare: medical image recognition, cognitive disorder screening, movement disorder screening, brain-computer interfaces
 
-# <a id="Teaching"></a>Teaching
+## <a id="Teaching"></a>Teaching
 
 1. undergraduate course: Signals and Analysis and Processing, 2024 spring - present
 2. undergraduate course: Signals and Systems, 2016 spring - 2023 spring
@@ -38,7 +38,7 @@ redirect_from:
 9. Outstanding Master's Thesis Supervisor, 2020
 10. UESTC international cooperation and international education award, 2022 and 2025
 
-# <a id="Services"></a>Services
+## <a id="Services"></a>Services
 
 1. Associate Editor, IEEE Transactions on Image Processing, 2025 - Present
 2. Senior Area Editor, IEEE Signal Processing Letters, 2024 - Present
@@ -52,7 +52,7 @@ redirect_from:
 
 
 
-# <a id="Honors"></a>Honors
+## <a id="Honors"></a>Honors
 
 1. Best Paper Award, 20th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (IEEE BMSB 2025)
 2. Best Demo Award, 26th IEEE International Conference on Multimedia and Expo (ICME 2025)
@@ -64,31 +64,31 @@ redirect_from:
 
 
 
-# <a id="Biography"></a>Biography
+## <a id="Biography"></a>Biography
 
 Yipeng Liu is a full professor with school of information and communication engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2006 and 2011, respectively. He has studied and worked at UESTC, Huawei Technologies and University of Leuven. 
 
 His research interest is tensor computations for signal processing. He has published over 100 papers, coauthored two books, “Tensor Computation for Data Analysis” by Springer and “Tensor Regression” in Foundations and Trends® in Machine Learning, and edited one book “Tensors for Data Processing” by Elsevier. He has received the IEEE BMSB 2025 Best Paper Award, and IEEE ICME 2025 Best Demo Award. He has been an associate editor for IEEE Transactions on Image Processing, and a senior area editor for IEEE Signal Processing Letters. He has delivered 6 tutorials for IEEE flagship conferences, and he is the APSIPA Distinguished Lecturer 2022-2023.
 
-# <a id="Publications"></a>Publications
+## <a id="Publications"></a>Publications
 
-## Authored books
+### Authored books
 
 1. Yipeng Liu, Jiani Liu, Zhen Long, Ce Zhu, Tensor Computation for Data Analysis, New York, USA: Springer, 2022. ebook ISBN: 978-3-030-74386-4, Hardcover ISBN: 978-3-030-74385-7, DOI: 10.1007/978-3-030-74386-4, online available at: https://www.springer.com/us/book/9783030743857
 2. Jiani Liu, Ce Zhu, Zhen Long, Yipeng Liu, Tensor Regression, Hanover, USA: Now Publishers Inc. 2021. online available at: https://www.nowpublishers.com/article/Details/MAL-087
 
-## Edited Books
+### Edited Books
 
 1. Yipeng Liu, Tensors for Data Processing, London, UK:  Academic Press (Elsevier), 2022. ISBN: 9780128244470. online available at: https://www.elsevier.com/books/tensors-for-data-processing/liu/978-0-12-824447-0
 
-## Book chapters
+### Book chapters
 
 1. Yingyue Bi, Yingcong Lu, Zhen Long, Ce Zhu, and Yipeng Liu, "Tensor Decompositions: Computations, Applications, and Challenges," Tensors for Data Processing, Academic Press (Elsevier), 2022. 
 2. Fei Wen, Zhonghao Zhang, and Yipeng Liu, "Generalized Thresholding for Low-rank Tensor Recovery: Approaches based on Model and Learning," Tensors for Data Processing,  Academic Press (Elsevier),  2022.
 
-## Papers
+### Papers
 
-### 2025
+#### 2025
 
 1. Fei He, Yipeng Liu, Ce Zhu, ”Tensor Decomposition for Brain Data Characterization: A Structured Review on Prerequisites, Models, and Constraints,” IEEE Signal Processing Magazine, 2025.
 2. Fei He, Yangyang Jiang, Da Shen, Ce Zhu, Ying Li, Yipeng Liu, "Interaction-guided Speech Tensor Representation for Dysphagia Screening," Biomedical Signal Processing and Control, 2025.
@@ -111,7 +111,7 @@ His research interest is tensor computations for signal processing. He has publi
 19. Qun Wan, Weiyu Liu, Kehao Zhang, Xiangyu Peng, Lin Zou, Yipeng Liu, "Revisiting The Cramer-Rao Lower Bound via Wiener Filtering," The 17th International Conference on Signal Processing Systems (ICSPS), Chengdu, China, October 24-26, 2025.
 20. Kang Tan, Zhijie Sun, Yimao Sun, Ce Zhu, Yipeng Liu, "DATSIL: Domain Adaptation in Tensor Subspace for Wi-Fi-based Indoor Localization," The 17th International Conference on Signal Processing Systems (ICSPS), Chengdu, China, October 24-26, 2025.
 
-### 2024
+#### 2024
 
 1. Yipeng Liu, Jie Chen, Yingcong Lu, Weiting Ou, Zhen Long, Ce Zhu, "Adaptively Topological Tensor Network for Multi-view Subspace Clustering," IEEE Transactions on Knowledge and Data Engineering, vol. 36, no. 11, pp. 5562 - 5575, 2024.
 2. Yuan Fang, Yipeng Liu, Chong-Yung Chi, Zhen Long, Ce Zhu, "CS2DIPs: Unsupervised HSI Super-Resolution Using Coupled Spatial and Spectral DIPs," IEEE Transactions on Image Processing, vol. 33, pp. 3090 - 3101, 2024.
@@ -134,7 +134,7 @@ His research interest is tensor computations for signal processing. He has publi
 19. Yang Jiao, Chenchen Wang, Jingyu Zhai, Yipeng Liu, Qun Wan, "Compressed sampling time difference of arrival estimation method based on amplitude and phase clustering," The 16th International Conference on Signal Processing Systems (ICSPS 2024), Kuming, China, Nov. 15 -17, 2024.
 20. Yiting Fan, Yi Liu, Luyao Sun, Yipeng Liu, Qun Wan, "Comparison of CRB on TOA estimation of LOS path between incoherent and coherent processing of two subbands CSI measurements," The 16th International Conference on Signal Processing Systems (ICSPS 2024), Kuming, China, Nov. 15 -17, 2024.
 
-### 2023
+#### 2023
 
 1.  Xin Liu, Zhangxin Chen, Ce Zhu, Yipeng Liu, "GAPMSF-Net: Generalized Alternating Projection with Multi-stage Fusion Network for Snapshot Compressive Imaging," IEEE Transactions on Computational Imaging, vol. 9, pp. 760 - 768, 2024.
 2. Lanlan Feng, Ce Zhu, Zhen Long, Jiani Liu, Yipeng Liu, "Multiplex Transformed Tensor Decomposition for Multidimensional Image Recovery," IEEE Transactions on Image Processing, vol. 32, pp. 3397 - 3412, 2023.
@@ -153,7 +153,7 @@ His research interest is tensor computations for signal processing. He has publi
 20. Jingjing Hou, Hongwei Guo, Yipeng Liu, Lanlan Feng, Xu Yang, Lei Luo, Ce Zhu, "Latitude-Guided Temporally Dependent Rate-Distortion Optimization For Panoramic Video Coding," The 18th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2023),  June 14 -16, 2023, Beijing, China.
 21. Zihan Li, Ce Zhu, Zhen Long, Yipeng Liu, "Optimal Low-Rank Tensor Tree Completion," The 25th IEEE International Workshop on Multimedia Signal Processing, Poitiers, France, September 27–29, 2023.
 
-### 2022
+#### 2022
 
 1. Fei He, Xiaoyi Hu, Ce Zhu, Ying Li, Yipeng Liu, "Multi-Scale Spatial and Temporal Speech Associations to Swallowing for Dysphagia Screening," IEEE-ACM Transactions on Audio, Speech and Language Processing, vol. 30, pp. 2888- 2899, 2022.
 2. Zhen Long, Ce Zhu, Jiani Liu, Pierre Comon, Yipeng Liu, "Trainable Subspaces for Low Rank Tensor Completion: Model and Analysis," IEEE Transactions on Signal Processing, vol. 70, no. 5, pp. 2502 - 2517, 2022.
@@ -162,7 +162,7 @@ His research interest is tensor computations for signal processing. He has publi
 5. Zhen Long, Yipeng Liu, Yixin Gou, Sixing Zeng, Jiani Liu, Fei Wen, Ce Zhu, "Linear tensor subspace of hyperspectral image with its application to denoising," Journal of Image and Graphics, 2022. (In Chinese).
 6. Jiani Liu, Ce Zhu, Yipeng Liu, "Smooth Compact Tensor Ring Regression," IEEE Transactions on Knowledge and Data Engineering, vol. 34, no. 9, pp. 4439 - 4452, 2022.
 
-### 2021
+#### 2021
 
 1. Jiani Liu, Ce Zhu, Zhen Long and Yipeng Liu, "Tensor Regression", Foundations and Trends® in Machine Learning, vol. 14, no. 4, pp 379-565, 2021. 
 2. Zhen Long, Ce Zhu, Jiani Liu, Yipeng Liu, "Bayesian Low Rank Tensor Ring for Image Recovery,"  IEEE Transactions on Image Processing,  vol. 30, pp. 3568-3580, 2021.
@@ -175,7 +175,7 @@ His research interest is tensor computations for signal processing. He has publi
 9. Lanlan Feng, Ce Zhu, Yipeng Liu, "Multi-mode Tensor Singular Value Decomposition for Low-Rank Image Recovery, "  The 11th International Conference on Image and Graphics (ICIG 2021), Haikou, China, Nov. 26-28 2021.
 10. Hengling Zhao, Chih-Chien Tsai, Ce Zhu, Mingyi Zhou, Jiun-Jie Wang, Yipeng Liu, "Deep Learning-Based Regional Sub-models Integration for Parkinson's Disease Diagnosis using Diffusion Tensor Imaging," The 11th International Conference on Image and Graphics (ICIG 2021), Haikou, China, Nov. 26-28 2021.
 
-### 2020
+#### 2020
 
 1. Huyan Huang, Yipeng Liu, Zhen Long, Ce Zhu, "Robust Low-Rank Tensor Ring Completion," IEEE Transactions on Computational Imaging, vol. 6, pp. 1117-1126, 2020. 
 2. Yipeng Liu, Jiani Liu, Ce Zhu, "Low Rank Tensor Train Coefficient Array Estimation for Tensor-on-Tensor Regression," IEEE Transactions on Neural Networks and Learning Systems,  vol. 31, no. 12, pp. 5402 - 5411. 2020.  DOI: 10.1109/TNNLS.2020.2967022 
@@ -186,7 +186,7 @@ His research interest is tensor computations for signal processing. He has publi
 7. Mingyi Zhou, Jing Wu, Yipeng Liu, Shuaicheng Liu, Ce Zhu, "DaST: Data-free Substitute Training for Adversarial Attacks," IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, USA, June 14 - June 19,  2020. 
 8. Lanlan Feng, Shenghan Wang, Ce Zhu, Yipeng Liu, "Recent Advances on Robust Tensor Principal Component Analysis",  IJCAI-PRICAI 2020 workshop on Tensor Network Representations in Machine Learning, Yokohama, Japan,  January 7 - 15,  2021.
 
-### 2019
+#### 2019
 
 1. Liaqat Ali, Ce Zhu, Zhonghao Zhang, Yipeng Liu, "Automated Detection of Parkinson’s Disease Based on Multiple Types of Sustained Phonations using Linear Discriminant Analysis and Genetically Optimized Neural Network," IEEE Journal of Translational Engineering in Health and Medicine, vol. 7,  2019. (The most cited paper in IEEE Journal of Translational Engineering in Health and Medicine in 2019)
 2. Liaqat Ali, Ce Zhu, Noorbakhsh Amiri Golilarz, Ashir Javeed, Mingyi Zhou, Yipeng Liu, "Reliable Parkinson's Disease Detection by Analyzing Handwritten Drawings: Construction of an Unbiased Cascaded Learning System based on Feature Selection and Adaptive Boosting Model," IEEE Access,  vol. 7, no. 1, pp. 116480 - 116489, 2019. 
@@ -200,7 +200,7 @@ His research interest is tensor computations for signal processing. He has publi
 10. Lingtong Meng, Shuai Li, Jiaqi Feng, Yipeng Liu, Ce Zhu, "Multiple Context Aggregation Network for Saliency Prediction," The 2nd China Symposium on Cognitive Computing and Hybrid Intelligence (CCHI 2019),  Xi'an, China, 21-22 Sept. 2019.
 11. Yuyang Liu, Hongwei Guo, Ce Zhu, Yipeng Liu, “Spherical Position Dependent Rate-Distortion Optimization for 360-Degree Video Coding”, Asia-Pacific Signal and Information Processing Association (APSIPA), Lanzhou, China, November 18-21, 2019.
 
-### 2018
+#### 2018
 
 1. Yipeng Liu, Longxi Chen, Ce Zhu, "Improved Robust Tensor Principal Component Analysis via Low Rank Core Matrix," IEEE Journal of Selected Topics in Signal Processing, vol. 12, no. 6, pp. 1378 - 1389, 2018.  
 2. Fan He, Xiaolin Huang, Yipeng Liu, Ming Yan, "Fast Signal Recovery from Saturated Measurements by Linear Loss and Nonconvex Penalties," IEEE Signal Processing Letters, vol. 25, no. 9. pp. 1374 - 1378, 2018.
@@ -212,7 +212,7 @@ His research interest is tensor computations for signal processing. He has publi
 8. Sung-han Lin, Wen-Chuin Hsu, Chin-Chang Huang, Yi-Chun Chen, Yao-Liang Chen, Jur-Shan Cheng, Chih-Chien Tsai, Yipeng Liu, and Jiun-Jie Wang, "Differential Diagnosis in Alzheimer’s Disease and Mild Cognitive Impairment using Discriminant Function Analysis," ISMRM Workshop on Machine Learning,  Pacific Grove, CA, USA, March 14-17, 2018.
 9. Fan Huang , Sung-han Lin , Chin-Song Lu , Yi-Hsin Weng , Yao-Liang Chen , Shu-Hang Ng , Yi-Ming Wu , Chih-Chien Tsai , Yipeng Liu , and Jiun-Jie Wang, "Differential diagnosis in Parkinsonism using diffusion tensor as measured from multiple cortical regions," Joint Annual Meeting ISMRM-ESMRMB, Paris, France, 16-21 June 2018.
 
-### 2017
+#### 2017
 
 1. Yipeng Liu, Shan Wu, Xiaolin Huang, Bing Chen, Ce Zhu, "Hybrid CS-DMRI: Periodic Time-Variant Subsampling and Omnidirectional Total Variation Based Reconstruction," IEEE Transactions on Medical Imaging, vol. 36, no. 10, pp. 2148 - 2159, 2017.
 2. Sayuan Liang, Tom Dresselaers, Karim Louchami, Ce Zhu, Yipeng Liu, Uwe Himmelreich, "Comparison of different compressed sensing algorithms for low SNR 19F MRI application - imaging of transplanted pancreatic islets and cells labeled with perfluorocarbons," NMR in Biomedicine, vol. 30, no. 11, pp. e3776, 2017. 
@@ -227,7 +227,7 @@ His research interest is tensor computations for signal processing. He has publi
 11. Xinyu Lin, Ce Zhu, Qian Zhang, Mengxue Wang, Yipeng Liu, "Learning Based 3D Keypoint Detection with Local and Global Attributes in Multi-Scale Space",  The 19th International Workshop on Multimedia Signal Processing (MMSP 2017), London, UK, Oct. 16-18, 2017.
 12. Chao Zhang, Ce Zhu, Yipeng Liu, Hongdiao Wen, Zhengtao Wang, "Image ordinal estimation: classification and regression benefit each other," APSIPA ASC 2017, Kuala Lumpur, Malaysia, 12-15 Dec. 2017.
 
-### 2016
+#### 2016
 
 1. Xinyu Lin, Ce Zhu, Qian Zhang, Yipeng Liu, "3D Interest Point Detection Based on Geometric Measures and Sparse Refinement," The 18th International Workshop on Multimedia Signal Processing (MMSP 2016), Montreal, Canada, 21-23 September 2016.
 2. Fei Wen, Peilin Liu, Yipeng Liu, Robert C. Qiu, Wenxian Yu, "Robust sparse recovery for compressive sensing in impulsive noise using Lp-norm model fitting," The 41st IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2016), Shanghai, China, Mar. 20-25, 2016.
@@ -241,21 +241,21 @@ His research interest is tensor computations for signal processing. He has publi
 5. Sayuan Liang, Yipeng Liu, Tom Dresselaers, Karim Louchami, Sabine Van Huffel, and Uwe Himmelreich, “Comparison of different compressed sensing algorithms for low SNR 19F application --- imaging of transplanted pancreatic islets with PFCE labeled,” The 23rd ISMRM Annual Meeting and Exhibition 2015, Toronto, Canada, May 30 – June 5, 2015. (ISMRM MERIT AWARD of Magna cum laude). 
 6. Hui Wang, Xiaolin Huang, Yipeng Liu, Sabine Van Huffel and Qun Wan, “Binary Reweighted l1 -norm Minimization for One-Bit Compressed Sensing,” The 8th International Joint Conference on Biomedical Engineering Systems and Technologies, Portugal, Lisbon, Jan. 12 - 15 2015.
 
-### 2014
+#### 2014
 
 1. Rong Fan, Qun Wan, Fei Wen, Hui Chen and Yipeng Liu, “Iterative projection approach for phase retrieval of semi-sparse wave field,” EURASIP Journal on Advances in Signal Processing, no.24, Feb. 2014.
 2. Yipeng Liu, "Globally Sparse and Locally Dense Signal Recovery for Compressed Sensing," Journal of the Franklin Institute, vol. 351, no. 5, May 2014.
 3. Yipeng Liu, Qun Wan, "Compressive Slow-Varying Wideband Power Spectrum Sensing for Cognitive Radio," Annals of Telecommunications, vol. 69, no. 9- 10, pp. 559-567, Oct. 2014.
 4. Yurrit Avonds, Yipeng Liu, and Sabine Van Huffel. "Simultaneous Greedy Analysis Pursuit for Compressive Sensing of Multi-Channel ECG Signals.", The 36th Annual International Conference of the Engineering in Medicine and Biology Society (IEEE EMBC 2014), Chicago, USA, August 26-30, 2014.
 
-### 2013
+#### 2013
 
 1. Yipeng Liu, Maarten De Vos, Ivan Gligorijevic, Vladimir Matic, Yuqian Li, Sabine Van Huffel, "Multi-Structural Signal Recovery for Biomedical Compressive Sensing,'' IEEE Transactions on Biomedical Engineering, vol. 60, no. 10, pp. 2794 – 2805, Oct. 2013.
 2. Fei Wen, Qun Wan, Guibo He, Peng Zhang, and Yipeng Liu, "Wideband Direction of Arrival Estimation with Linear Array: Analysis and Closed-Form Formulae." Chinese Journal of Electronics, vol. 22, no. 4, Oct. 2013.
 3. Yuqian Li, Diana M. Sima, Sofie Van Cauter, Uwe Himmelreich, Anca R. Croitor Sava, Yiming Pi, Yipeng Liu, and Sabine Van Huffel,  "Unsupervised Nosologic Imaging for Glioma Diagnosis,'' IEEE Transactions on Biomedical Engineering, vol. 60, no. 6, pp. 1760-1763, Jun. 2013.
 4. Qingshan You, Qun Wan, Yipeng Liu, "A short note on Strongly Convex Programming for Exact Matrix Completion and Robust Principal Component Analysis," Inverse Problems and Imaging, vol. 7, no. 1, pp. 305-306, Feb. 2013.
 
-### 2012
+#### 2012
 
 1. Yipeng Liu, Qun Wan, “Sidelobe Suppression for Robust Capon Beamforming with Mainlobe to Sidelobe Power Ratio Maximization,” IEEE Antennas and Wireless Propagation Letters, vol. 11, pp. 1218-1221, Oct. 2012.
 2. Yipeng Liu, Qun Wan, “Enhanced Compressive Wideband Frequency Spectrum Sensing for Dynamic Spectrum Access,” EURASIP Journal on Advances in Signal Processing, vol. 2012, no. 177, Aug. 2012.
@@ -263,7 +263,7 @@ His research interest is tensor computations for signal processing. He has publi
 4. Yipeng Liu, Ivan Gligorijevic, Vladimir Matic, Maarten De Vos, Sabine Van Huffel, “Multi-Sparse Signal Recovery for Compressive Sensing," The 34th Annual International Conference of the Engineering in Medicine and Biology Society (IEEE EMBC 2012), San Diego, USA, Aug. 28th - Sept. 1, 2012.
 5. Fei Wen, Qun Wan, Yipeng Liu, “Passive Time Delay Estimation for Complex Noncircular Signals”, International Symposium on Electronics and Telecommunications, Timisoara, Romania, Nov. 15-16. 2012.
 
-### 2011
+#### 2011
 
 1. Yipeng Liu, Qun Wan and Xiaoli Chu, "Power-Efficient Ultra-wideband waveform design considering radio channel," Radioengineering, vol. 20, no. 1, pp. 179-183, Apr. 2011.
 2. Yipeng Liu, Qun Wan, "Anti-Sampling-Distortion Compressive Wideband Spectrum Sensing for Cognitive Radio," International Journal of Mobile Communications, vol. 9, no. 6, pp. 604-618, 2011.
@@ -271,18 +271,18 @@ His research interest is tensor computations for signal processing. He has publi
 4. Yipeng Liu, Jia Xu, Qun Wan, Yingning Peng, “Minimum variance multi-frequency distortionless restriction for digital wideband beamformer,” The 2011 IEEE CIE International Conference on Radar (Radar), Chengdu, China, 24-27 Oct. 2011, pp: 353-355.
 5. Yanan Zhang, Yipeng Liu, Qun Wan, Fast Compressive Wideband Spectrum Sensing Based on Dictionary Linear Combination, 2011 7th International Conference on Wireless Communications, Networking and Mobile Computing (WiCOM 2011), Wuhan, China, 23-25 Sept. 2011.
 
-### 2010
+#### 2010
 
 1. Yipeng Liu, Qun Wan, “Robust Beamformer Based on Total Variation Minimization and Sparse Constraint,” Electronics Letters, vol. 46, no. 25, pp. 1697- 1699, Dec. 2010.
 2. Ruiming Yang, Qun Wan, Yipeng Liu, Wanlin Yang, "Adaptive Inter-Atom Interference Mitigation Approach to Sparse Multi-Path Channel Estimation," The 71st IEEE  Vehicular Technology Conference (VTC 2010-Spring), 16-19 May 2010, Taipei, pp. 1 – 5
 3. Ruiming, Yang, Yipeng Liu, Qun Wan, Wanlin Yang, "Direction finding via beam scanning and sparse reconstruction," The Second International Conference on Networks Security Wireless Communications and Trusted Computing (NSWCTC 2010), Wuhan, China, 24-25 April 2010, Volume 2, pp. 7 – 9
 
-### 2009
+#### 2009
 
 1. Yipeng Liu and Qun Wan, "Improved anti-NBI UWB waveform design based on spectral factorization," The International Conference on Communications and Mobile Computing 2009 (CMC 2009), Kunming, China, Jan. 2009.
 2. Hui Chen, Qun Wan, Yipeng Liu, Anmin Huang, "A sparse signal reconstruction perspective for direction-of-arrive estimation with a distributed polarization sensitive array,"  International Conference on Wireless Communications & Signal Processing, 2009 (WCSP 2009), Nanjing, China, 13-15 Nov. 2009, pp. 1-5
 
-### 2008
+#### 2008
 
 1. Yipeng Liu and Qun Wan, "Designing Optimal UWB Pulse Waveform Directly by FIR Filter," The 4th International Conference on Wireless Communications, Networking and Mobile Computing, 2008. (WiCOM '08.), Dalian, China, 12-14 Oct. 2008, pp. 1-4
 2. Yipeng Liu and Qun Wan, "Optimal anti-interference UWB waveform design based on convex optimization," The 10th National Radar Conference of China, 30 Oct. – 2 Nov. 2008, Beijing, China, pp. 481-484.
