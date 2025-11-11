@@ -21,7 +21,7 @@ redirect_from:
 ## <a id="Interests"></a>Interests
 
 1. tensor computation: tensor decomposition, tensor neural network, low rank training, learnable tensor optimization   
-2. computational imaging: fast imaging, image recovery, image enhancement, adversarial defenses
+2. computational imaging: fast imaging, image recovery, image enhancement, adversarial defense
 3. wireless sensing: spectrum sensing, beamforming, blind source separation, radio localization
 4. healthcare: medical image recognition, cognitive disorder screening, movement disorder screening, brain-computer interfaces
 
