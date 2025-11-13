@@ -42,16 +42,17 @@ redirect_from:
 
 1. IEEE Transctions on Image Processing编委，2025 至今
 2. IEEE Signal Processing Letters资深领域编委，2024 至今
-3. IEEE信号处理协会计算成像（SPS CI）技术委员会委员，2025 - 2027
-4. IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员, 2024 - 2028
-5. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022 - 2023
-6. Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委，2017- 2019
-7. ICASSP 2025 Satellite Event Suzhou, China, Publicity Chair
-8. ICME 2025 workshop on Big Surveillance Data Analysis and Processing, lead chair
-9. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
-10. 中国图象图形学学会青年工作委员会委员
-11. 中国计算机学会多媒体技术专委会委员
-12. 多次担任世界知名大学博士答辩委员会委员，包括俄罗斯斯科尔科沃科学技术学院（Skoltech）
+3. IEEE信号处理协会多媒体信号处理（SPS MMSP）技术委员会委员，2026 - 2028
+4. IEEE信号处理协会计算成像（SPS CI）技术委员会委员，2025 - 2027
+5. IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员, 2024 - 2028
+6. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022 - 2023
+7. Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委，2017- 2019
+8. ICASSP 2025 Satellite Event Suzhou, China, Publicity Chair
+9. ICME 2025 workshop on Big Surveillance Data Analysis and Processing, lead chair
+10. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
+11. 中国图象图形学学会青年工作委员会委员
+12. 中国计算机学会多媒体技术专委会委员
+13. 多次担任世界知名大学博士答辩委员会委员，包括俄罗斯斯科尔科沃科学技术学院（Skoltech）
 
 ## <a id="科研项目"></a>科研项目
 
@@ -77,7 +78,7 @@ redirect_from:
 
 他发表国际期刊和会议论文100余篇，其中30余篇论文发表在JSTSP、TSP、TIP、TMI、TMM、TPAMI、TKDE、TNNLS等IEEE期刊，ESI 高被引论文5篇。撰写张量信号处理方向的英文专著2本和编著1本。他的论文Tensor Regression发表在影响因子65.3的人工智能顶刊FnT in Machine Learning，是其创刊16年唯一的第一/通讯作者来自中国单位的工作。他分别于2012年和2014年获得比利时弗拉芒政府海外会议支持奖2项，2020年获首届川渝科技学术大会优秀论文一等奖，2022年获得国际多媒体信号处理研讨会（MMSP 2022）最佳演示奖（Best Demo Award），获得2023年年度四川省自然科学奖二等奖（排名第二），2025年获得第26届IEEE多媒体年会（ICME 2025）最佳演示奖，2025年获得第20届IEEE宽带多媒体系统和广播年会（IEEE BMSB 2025）最佳论文奖；2022年至今连续入选斯坦福大学评选的全球前2%顶尖科学家名单，2024年入选第15批四川省学术和技术带头人后备人选。主研/主持欧盟研究理事会高级项目1项、比利时法兰德斯自然科学基金1项、中国国家自然科学基金5项、人社部国家外国专家个人类项目（S类）、四川海聚计划项目1项、四川省国际/地区科研合作项目1项、四川省科技计划项目2项。
 
-他是IEEE高级会员，中国电子学会高级会员，中国图象图形学学会高级会员，IEEE信号处理协会计算成像（SPS CI）技术委员会委员，IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员，中国图象图形学学会青年工作委员会委员，中国计算机学会多媒体技术专委会委员。他担任国际期刊IEEE Transactions on Image Processing的编委，IEEE Signal Processing Letters的资深领域编委，Signal Processing: Image Communication （Elsevier）的首席客座编委，系统工程与电子技术（英文版）客座编委；多次担任行业权威期刊和会议的组织、编辑和审稿工作。
+他是IEEE高级会员，中国电子学会高级会员，中国图象图形学学会高级会员。他担任国际期刊IEEE Transactions on Image Processing的编委，IEEE Signal Processing Letters的资深领域编委，Signal Processing: Image Communication （Elsevier）的首席客座编委，系统工程与电子技术（英文版）客座编委；多次担任行业权威期刊和会议的组织、编辑和审稿工作。
 
 他曾应邀在IEEE多媒体领域旗舰会议ICME 2025、IEEE信号处理学会旗舰会议ICIP 2024、IEEE电路与系统学会旗舰会议ISCAS 2024、国际人工智能协会旗舰会议IJCAI 2022做讲习班报告（tutorial）。他是亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished Lecturer for 2022-2023）。
 
