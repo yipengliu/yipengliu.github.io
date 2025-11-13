@@ -42,13 +42,14 @@ redirect_from:
 
 1. Associate Editor, IEEE Transactions on Image Processing, 2025 - Present
 2. Senior Area Editor, IEEE Signal Processing Letters, 2024 - Present
-3. Member, IEEE Signal Processing Society Computational Imaging (SPS CI) Technical Committee, 2025 - 2027
-4. Member, IEEE Circuits and Systems Society Multimedia Systems and Applications (CASS MSA) Technical Committee, 2024 - 2028
-5. APSIPA Distinguished Lecturer, 2022 - 2023
-6. Lead Guest Editor, Signal Processing: Image Communication, special issue on Tensor Image Processing, 2017 - 2019
-7. Publicity Chair, ICASSP 2025 Satellite Event Suzhou, China, 2025
-8. Lead Chair, ICME 2025 workshop on Big Surveillance Data Analysis and Processing, 2025
-9. Guest Editor, Journal of Systems Engineering and Electronics (English Edition), 2022 - 2024
+3. Member, IEEE Signal Processing Society Multimedia Signal Processing (SPS MMSP) Technical Committee, 2026 - 2028
+4. Member, IEEE Signal Processing Society Computational Imaging (SPS CI) Technical Committee, 2025 - 2027
+5. Member, IEEE Circuits and Systems Society Multimedia Systems and Applications (CASS MSA) Technical Committee, 2024 - 2028
+6. APSIPA Distinguished Lecturer, 2022 - 2023
+7. Lead Guest Editor, Signal Processing: Image Communication, special issue on Tensor Image Processing, 2017 - 2019
+8. Publicity Chair, ICASSP 2025 Satellite Event Suzhou, China, 2025
+9. Lead Chair, ICME 2025 workshop on Big Surveillance Data Analysis and Processing, 2025
+10. Guest Editor, Journal of Systems Engineering and Electronics (English Edition), 2022 - 2024
 
 
 
