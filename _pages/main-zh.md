@@ -116,8 +116,9 @@ redirect_from:
 
 ### 2026
 
-1. Xiangtao Zhang, Eleftherios Kofidis, Ruituo Wu, Ce Zhu, Le Zhang, Yipeng Liu, "Coupled Tensor Train Decomposition in Federated Learning," Pattern Recognition, 2025.
-2. Fei He, Yangyang Jiang, Da Shen, Ce Zhu, Ying Li, Yipeng Liu, "Interaction-guided Speech Tensor Representation for Dysphagia Screening," Biomedical Signal Processing and Control, 2025.
+1. Ruituo Wu, Jiani Liu, Bing Li, Anh-Huy Phan, Ivan V. Oseledets, Ce Zhu, Yipeng Liu, "TERM Model: Tensor Ring Mixture Model for Density Estimation," IEEE Transactions on Big Data, 2026.
+2. Xiangtao Zhang, Eleftherios Kofidis, Ruituo Wu, Ce Zhu, Le Zhang, Yipeng Liu, "Coupled Tensor Train Decomposition in Federated Learning," Pattern Recognition, 2025.
+3. Fei He, Yangyang Jiang, Da Shen, Ce Zhu, Ying Li, Yipeng Liu, "Interaction-guided Speech Tensor Representation for Dysphagia Screening," Biomedical Signal Processing and Control, 2025.
 
 #### 2025
 
