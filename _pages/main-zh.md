@@ -119,6 +119,7 @@ redirect_from:
 1. Ruituo Wu, Jiani Liu, Bing Li, Anh-Huy Phan, Ivan V. Oseledets, Ce Zhu, Yipeng Liu, "TERM Model: Tensor Ring Mixture Model for Density Estimation," IEEE Transactions on Big Data, 2026.
 2. Xiangtao Zhang, Eleftherios Kofidis, Ruituo Wu, Ce Zhu, Le Zhang, Yipeng Liu, "Coupled Tensor Train Decomposition in Federated Learning," Pattern Recognition, 2025.
 3. Fei He, Yangyang Jiang, Da Shen, Ce Zhu, Ying Li, Yipeng Liu, "Interaction-guided Speech Tensor Representation for Dysphagia Screening," Biomedical Signal Processing and Control, 2025.
+4. Yating Zhang, Mengyuan Liao, Zehua Wang, Zhonghan Xu, Bowen Li, Binbin Zhang, Buyi Xu, Rongji Yang, Guoyun Zhou, Chong Wang, Jiujuan Li, Yuanming Chen, Shouxu Wang, Wei He, Yipeng Liu, Yan Hong, "Ultrasound-assisted SERS Imaging for chemical Visualizatioand Matching of Etomidatecontaminated Fingerprint," Analytical Chemistry, 2026.
 
 #### 2025
 
