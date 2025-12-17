@@ -69,7 +69,7 @@ redirect_from:
 
 Yipeng Liu is a full professor with school of information and communication engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2006 and 2011, respectively. He has studied and worked at UESTC, Huawei Technologies and University of Leuven. 
 
-His research interest is tensor computations for signal processing. He has published over 100 papers, coauthored two books, “Tensor Computation for Data Analysis” by Springer and “Tensor Regression” in Foundations and Trends® in Machine Learning, and edited one book “Tensors for Data Processing” by Elsevier. He has received the IEEE BMSB 2025 Best Paper Award, and IEEE ICME 2025 Best Demo Award. He has been an associate editor for IEEE Transactions on Image Processing, and a senior area editor for IEEE Signal Processing Letters. He has delivered 6 tutorials for IEEE flagship conferences, and he is the APSIPA Distinguished Lecturer 2022-2023.
+His research interest is tensor computations for signal processing. He has published over 100 papers, coauthored two books, “Tensor Computation for Data Analysis” by Springer and “Tensor Regression” in Foundations and Trends® in Machine Learning, and edited one book “Tensors for Data Processing” by Elsevier. He has received the IEEE BMSB 2025 Best Paper Award, and IEEE ICME 2025 Best Demo Award. He has been an associate editor for IEEE Transactions on Image Processing and a senior area editor for IEEE Signal Processing Letters. He has delivered 6 tutorials for IEEE flagship conferences, and he is the APSIPA Distinguished Lecturer 2022-2023.
 
 ## <a id="Publications"></a>Publications
 
@@ -100,7 +100,7 @@ His research interest is tensor computations for signal processing. He has publi
 1. Ruituo Wu, Jiani Liu, Bing Li, Anh-Huy Phan, Ivan V. Oseledets, Ce Zhu, Yipeng Liu, "TERM Model: Tensor Ring Mixture Model for Density Estimation," IEEE Transactions on Big Data, 2026.
 2. Xiangtao Zhang, Eleftherios Kofidis, Ruituo Wu, Ce Zhu, Le Zhang, Yipeng Liu, "Coupled Tensor Train Decomposition in Federated Learning," Pattern Recognition, 2025.
 3. Fei He, Yangyang Jiang, Da Shen, Ce Zhu, Ying Li, Yipeng Liu, "Interaction-guided Speech Tensor Representation for Dysphagia Screening," Biomedical Signal Processing and Control, 2026.
-4. Yating Zhang, Mengyuan Liao, Zehua Wang, Zhonghan Xu, Bowen Li, Binbin Zhang, Buyi Xu, Rongji Yang, Guoyun Zhou, Chong Wang, Jiujuan Li, Yuanming Chen, Shouxu Wang, Wei He, Yipeng Liu, Yan Hong, "Ultrasound-assisted SERS Imaging for chemical Visualizatio and Matching of Etomidate contaminated Fingerprint," Analytical Chemistry, 2026.
+4. Yating Zhang, Mengyuan Liao, Zehua Wang, Zhonghan Xu, Bowen Li, Binbin Zhang, Buyi Xu, Rongji Yang, Guoyun Zhou, Chong Wang, Jiujuan Li, Yuanming Chen, Shouxu Wang, Wei He, Yipeng Liu, Yan Hong, "Ultrasound-assisted SERS Imaging for chemical Visualizatio and Matching of Etomidate Contaminated Fingerprint," Analytical Chemistry, 2026.
 
 #### 2025
 
