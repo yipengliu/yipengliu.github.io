@@ -47,9 +47,10 @@ redirect_from:
 5. Member, IEEE Circuits and Systems Society Multimedia Systems and Applications (CASS MSA) Technical Committee, 2024 - 2028
 6. APSIPA Distinguished Lecturer, 2022 - 2023
 7. Lead Guest Editor, Signal Processing: Image Communication, special issue on Tensor Image Processing, 2017 - 2019
-8. Publicity Chair, ICASSP 2025 Satellite Event Suzhou, China, 2025
-9. Lead Chair, ICME 2025 workshop on Big Surveillance Data Analysis and Processing, 2025
-10. Guest Editor, Journal of Systems Engineering and Electronics (English Edition), 2022 - 2024
+8. Lead Chair, ICME 2026 workshop on Surveillance Data Processing, 2026
+9. Publicity Chair, ICASSP 2025 Satellite Event Suzhou, China, 2025
+10. Lead Chair, ICME 2025 workshop on Big Surveillance Data Analysis and Processing, 2025
+11. Guest Editor, Journal of Systems Engineering and Electronics (English Edition), 2022 - 2024
 
 
 
