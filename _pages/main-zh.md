@@ -47,12 +47,13 @@ redirect_from:
 5. IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员, 2024 - 2028
 6. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022 - 2023
 7. Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委，2017- 2019
-8. ICASSP 2025 Satellite Event Suzhou, China, Publicity Chair
-9. ICME 2025 workshop on Big Surveillance Data Analysis and Processing, lead chair
-10. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
-11. 中国图象图形学学会青年工作委员会委员
-12. 中国计算机学会多媒体技术专委会委员
-13. 多次担任世界知名大学博士答辩委员会委员，包括俄罗斯斯科尔科沃科学技术学院（Skoltech）
+8. Lead Chair, ICME 2026 workshop on Surveillance Data Processing, 2026
+9. ICASSP 2025 Satellite Event, Suzhou, China, Publicity Chair
+10. ICME 2025 workshop on Big Surveillance Data Analysis and Processing, lead chair
+11. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
+12. 中国图象图形学学会青年工作委员会委员
+13. 中国计算机学会多媒体技术专委会委员
+14. 多次担任世界知名大学博士答辩委员会委员
 
 ## <a id="科研项目"></a>科研项目
 
