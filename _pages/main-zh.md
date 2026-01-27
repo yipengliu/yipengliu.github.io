@@ -118,7 +118,7 @@ redirect_from:
 ### 2026
 
 1. Ruituo Wu, Jiani Liu, Bing Li, Anh-Huy Phan, Ivan V. Oseledets, Ce Zhu, Yipeng Liu, "TERM Model: Tensor Ring Mixture Model for Density Estimation," IEEE Transactions on Big Data, 2026.
-2. Yating Zhang, Mengyuan Liao, Zehua Wang, Zhonghan Xu, Bowen Li, Binbin Zhang, Buyi Xu, Rongji Yang, Guoyun Zhou, Chong Wang, Jiujuan Li, Yuanming Chen, Shouxu Wang, Wei He, Yipeng Liu, Yan Hong, "Ultrasound-assisted SERS Imaging for chemical Visualizatio and Matching of Etomidate Contaminated Fingerprint," Analytical Chemistry, 2026.
+2. Yating Zhang, Mengyuan Liao, Zehua Wang, Zhonghan Xu, Bowen Li, Binbin Zhang, Buyi Xu, Rongji Yang, Guoyun Zhou, Chong Wang, Jiujuan Li, Yuanming Chen, Shouxu Wang, Wei He, Yipeng Liu, Yan Hong, "Ultrasound-assisted SERS Imaging for chemical Visualization and Matching of Etomidate Contaminated Fingerprint," Analytical Chemistry, 2026.
 3. Nikolay Kalmykov; Razan Dibo; Kaiyu Shen; Xu Zhonghan; Anh Huy Phan; Yipeng Liu; Ivan Oseledets, "T-MLA: A Targeted Multiscale Log--Exponential Attack Framework for Neural Image Compression," Information Sciences, 2026.
 4. Mengyuan Liao, Yuan Fang, Shengxi Li, Xiaolin Huang, Ce Zhu, Yipeng Liu, "QPNET: Quaternion Physics-Driven Neural Network for Underwater Polarized Image Recovery," 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), Barcelona, Spain, 4-8 May 2026.
 5. Zhijie Sun, Kang Tan, Weiting Ou, Chao Zhang, Yimao Sun, Ce Zhu, Yipeng Liu, "Low-Rank Weighted Amplitude and Phase Fusion for CSI-Fingerprint Localization," 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), Barcelona, Spain, 4-8 May 2026.
