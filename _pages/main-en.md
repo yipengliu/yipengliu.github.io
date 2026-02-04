@@ -54,7 +54,7 @@ redirect_from:
 
 
 
-## <a id="Honors"></a>Honors
+## <a id="Awards"></a>Awards
 
 1. Best Paper Award, 20th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (IEEE BMSB 2025)
 2. Best Demo Award, 26th IEEE International Conference on Multimedia and Expo (ICME 2025)
