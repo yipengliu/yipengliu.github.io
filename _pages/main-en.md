@@ -104,6 +104,7 @@ His research interest is tensor computations for signal processing. He has publi
 4. Mengyuan Liao, Yuan Fang, Shengxi Li, Xiaolin Huang, Ce Zhu, Yipeng Liu, "QPNET: Quaternion Physics-Driven Neural Network for Underwater Polarized Image Recovery," 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), Barcelona, Spain, 4-8 May 2026.
 5. Zhijie Sun, Kang Tan, Weiting Ou, Chao Zhang, Yimao Sun, Ce Zhu, Yipeng Liu, "Low-Rank Weighted Amplitude and Phase Fusion for CSI-Fingerprint Localization," 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), Barcelona, Spain, 4-8 May 2026.
 6. Hongwei Guo, Lei Luo, Yipeng Liu, Ce Zhu, "Intelligent Video Coding: Learning-Based Paradigms and Standardization Trends," 2026 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2026), João Pessoa, Brazil, July 8–11, 2026.
+7. Houji Du, Fei He, Bo Liu, Ce Zhu, Yipeng Liu, "Robust Brain Structure Characterization via Tensor Subspace Learning on Minimal Representative Subset," 2026 IEEE International Conference on Multimedia and Expo (ICME 2026), Bangkok, Thailand, July 5 - 9, 2026.
 
 #### 2025
 
