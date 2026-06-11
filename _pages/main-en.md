@@ -98,7 +98,7 @@ His research interest is tensor computations for signal processing. He has publi
 
 ### 2026
 
-1. Lei Chen, Jiani Liu,  Andre L. F. de Almeida，Ce Zhu, Yipeng Liu, "Implicit Neural Functional Tensor Train for Multivariate Function Approximation," Signal Processing, 2026.
+1. Lei Chen, Jiani Liu,  Andre L. F. de Almeida, Ce Zhu, Yipeng Liu, "Implicit Neural Functional Tensor Train for Multivariate Function Approximation," Signal Processing, 2026.
 2. Jiani Liu, Huyan Huang, Ce Zhu, Yipeng Liu, "Coupled Tensor Ring Completion," IEEE Transactions on Big Data, 2026.
 3. Hang Zhang, Ruituo Wu, Chao Zhang, Xinyu Lin, Frederic Dufaux, Ce Zhu, Yipeng Liu, "TGA3D: Texture-Geometry Admixture with Explicit 3D for Single-Image Novel View Synthesis," IEEE Transactions on Multimedia, 2026.
 4. Yuan Fang, Yipeng Liu, Zhen Long, Chong-Yung Chi, Ce Zhu, "Unfolding Degradation-Aware Transformer for Low-Light Hyperspectral Image Super-Resolution," IEEE Transactions on Computational Imaging, 2026.
