@@ -46,13 +46,14 @@ redirect_from:
 6. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022 - 2023
 7. Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委，2017- 2019
 8. The 7th International Forum on Signal Processing (IFSP 2027), Chengdu, China, July 9 - 11, 2027, 程序委员会主席
-9. Lead Chair, ICME 2026 workshop on Surveillance Data Processing, 2026
-10. ICASSP 2025 Satellite Event, Suzhou, China, Publicity Chair
-11. ICME 2025 workshop on Big Surveillance Data Analysis and Processing, lead chair
-12. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
-13. 中国图象图形学学会青年工作委员会委员
-14. 中国计算机学会多媒体技术专委会委员
-15. 多次担任世界知名大学博士答辩委员会委员
+9. The 41st Annual AAAI Conference on Artificial Intelligence, Montréal, Canada, February 16 – 23, 2027 Senior PC member
+10. Lead Chair, ICME 2026 workshop on Surveillance Data Processing, 2026
+11. ICASSP 2025 Satellite Event, Suzhou, China, Publicity Chair
+12. ICME 2025 workshop on Big Surveillance Data Analysis and Processing, lead chair
+13. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
+14. 中国图象图形学学会青年工作委员会委员
+15. 中国计算机学会多媒体技术专委会委员
+16. 多次担任世界知名大学博士答辩委员会委员
 
 ## <a id="科研项目"></a>科研项目
 
