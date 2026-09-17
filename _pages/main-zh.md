@@ -38,22 +38,23 @@ redirect_from:
 
 ## <a id="学术兼职"></a>学术兼职
 
-1. IEEE Transactions on Image Processing编委，2025 至今
-2. IEEE Signal Processing Letters资深领域编委，2024 至今
-3. IEEE信号处理协会多媒体信号处理（SPS MMSP）技术委员会委员，2026 - 2028
-4. IEEE信号处理协会计算成像（SPS CI）技术委员会委员，2025 - 2027
-5. IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员, 2024 - 2028
-6. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022 - 2023
-7. Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委，2017- 2019
-8. The 7th International Forum on Signal Processing (IFSP 2027), Chengdu, China, July 9 - 11, 2027, 程序委员会主席
-9. The 41st Annual AAAI Conference on Artificial Intelligence, Montréal, Canada, February 16 – 23, 2027, Senior PC member
-10. Lead Chair, ICME 2026 workshop on Surveillance Data Processing, 2026
-11. ICASSP 2025 Satellite Event, Suzhou, China, Publicity Chair
-12. ICME 2025 workshop on Big Surveillance Data Analysis and Processing, Lead Chair
-13. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
-14. 中国图象图形学学会青年工作委员会委员
-15. 中国计算机学会多媒体技术专委会委员
-16. 多次担任博士答辩委员会委员，包括电子科技大学、四川大学、XJTU-Liverpool University，Skoltech。
+1. IEEE Transactions on Multimedia编委, 2026 至今
+2. IEEE Transactions on Image Processing编委，2025 至今
+3. IEEE Signal Processing Letters资深领域编委，2024 至今
+4. IEEE信号处理协会多媒体信号处理（SPS MMSP）技术委员会委员，2026 - 2028
+5. IEEE信号处理协会计算成像（SPS CI）技术委员会委员，2025 - 2027
+6. IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员, 2024 - 2028
+7. 亚太信号与信息处理学会杰出讲座人（APSIPA Distinguished  Lecturer）2022 - 2023
+8. Signal Processing: Image Communication special issue on Tensor Image Processing，首席客座编委，2017- 2019
+9. The 7th International Forum on Signal Processing (IFSP 2027), Chengdu, China, July 9 - 11, 2027, 程序委员会主席
+10. The 41st Annual AAAI Conference on Artificial Intelligence, Montréal, Canada, February 16 – 23, 2027, Senior PC member
+11. Lead Chair, ICME 2026 workshop on Surveillance Data Processing, 2026
+12. ICASSP 2025 Satellite Event, Suzhou, China, Publicity Chair
+13. ICME 2025 workshop on Big Surveillance Data Analysis and Processing, Lead Chair
+14. 系统工程与电子技术学报（英文版）客座编委，2022- 2024
+15. 中国图象图形学学会青年工作委员会委员
+16. 中国计算机学会多媒体技术专委会委员
+17. 多次担任博士答辩委员会委员，包括电子科技大学、四川大学、XJTU-Liverpool University，Skoltech。
 
 ## <a id="科研项目"></a>科研项目
 
