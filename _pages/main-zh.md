@@ -116,21 +116,22 @@ redirect_from:
 
 ### 2026
 
-1. Lei Chen, Jiani Liu,  Andre L. F. de Almeida, Ce Zhu, Yipeng Liu, "Implicit Neural Functional Tensor Train for Multivariate Function Approximation," Signal Processing, 2026.
-2. Jiani Liu, Huyan Huang, Ce Zhu, Yipeng Liu, "Coupled Tensor Ring Completion," IEEE Transactions on Big Data, 2026.
-3. Hang Zhang, Ruituo Wu, Chao Zhang, Xinyu Lin, Frederic Dufaux, Ce Zhu, Yipeng Liu, "TGA3D: Texture-Geometry Admixture with Explicit 3D for Single-Image Novel View Synthesis," IEEE Transactions on Multimedia, 2026.
-4. Yuan Fang, Yipeng Liu, Zhen Long, Chong-Yung Chi, Ce Zhu, "Unfolding Degradation-Aware Transformer for Low-Light Hyperspectral Image Super-Resolution," IEEE Transactions on Computational Imaging, 2026.
-5. Ruituo Wu, Jiani Liu, Bing Li, Anh-Huy Phan, Ivan V. Oseledets, Ce Zhu, Yipeng Liu, "TERM Model: Tensor Ring Mixture Model for Density Estimation," IEEE Transactions on Big Data, 2026.
-6. Yating Zhang, Mengyuan Liao, Zehua Wang, Zhonghan Xu, Bowen Li, Binbin Zhang, Buyi Xu, Rongji Yang, Guoyun Zhou, Chong Wang, Jiujuan Li, Yuanming Chen, Shouxu Wang, Wei He, Yipeng Liu, Yan Hong, "Ultrasound-assisted SERS Imaging for chemical Visualization and Matching of Etomidate Contaminated Fingerprint," Analytical Chemistry, 2026.
-7. Nikolay Kalmykov; Razan Dibo; Kaiyu Shen; Xu Zhonghan; Anh Huy Phan; Yipeng Liu; Ivan Oseledets, "T-MLA: A Targeted Multiscale Log--Exponential Attack Framework for Neural Image Compression," Information Sciences, 2026.
-8. Salman Ahmadi-Asl, Naeim Rezaeian, André L.F. de Almeida, Yipeng Liu, "Fast randomized Kronecker tensor decomposition: Algorithms and error analysis," Journal of the Franklin Institute, vol. 363, no. 14, article no. 108924, 2026.
-9. Razan Dibo, Anton Bibin, Ashish Jha, Yujun Du,  Zhonghan Xu, Yipeng Liu, Anhhuy Phan, "Perception-Aware Nonlinear Log-Exp Attack on Neural Image Compression," Neurocomputing, 2026. 
-10. Yixin Gou, Zhen Long, Jianqiang Wang, Yipeng Liu, Xinyu Lin, Junhui Hou, Ce Zhu, ``Appearance-Semantic balanced 3D Feature Gaussian Representation," The 34th ACM International Conference on Multimedia (ACM MM 2027), Rio de Janeiro, Brazil, 10–14 November 2026.
-11. Fei He, Houji Du, Da Shen, Qun Wan, Chao Zhang and Yipeng Liu, "Multi-Class Imagined Speech Decoding by Band-Metric EEG Tensor Decomposition," The 18th International Conference on Signal Processing Systems (ICSPS 2026), Xiamen, China, October 23-26, 2026.
-12. Mengyuan Liao, Yuan Fang, Shengxi Li, Xiaolin Huang, Ce Zhu, Yipeng Liu, "QPNET: Quaternion Physics-Driven Neural Network for Underwater Polarized Image Recovery," 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), Barcelona, Spain, 4-8 May 2026.
-13. Zhijie Sun, Kang Tan, Weiting Ou, Chao Zhang, Yimao Sun, Ce Zhu, Yipeng Liu, "Low-Rank Weighted Amplitude and Phase Fusion for CSI-Fingerprint Localization," 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), Barcelona, Spain, 4-8 May 2026.
-14. Hongwei Guo, Lei Luo, Yipeng Liu, Ce Zhu, "Intelligent Video Coding: Learning-Based Paradigms and Standardization Trends," 2026 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2026), João Pessoa, Brazil, July 8–11, 2026.
-15. Houji Du, Fei He, Bo Liu, Ce Zhu, Yipeng Liu, "Robust Brain Structure Characterization via Tensor Subspace Learning on Minimal Representative Subset," 2026 IEEE International Conference on Multimedia and Expo (ICME 2026), Bangkok, Thailand, July 5 - 9, 2026.
+1. Yuan Fang, Yipeng Liu, Yang Liu, Chong-Yung Chi, Shengxi Li, Ce Zhu, "MULOR-Net: Multi-Branch Low-Rank Network for Spectral Compressive Imaging," IEEE Transactions on Computational Imaging, 2026.
+2. Lei Chen, Jiani Liu,  Andre L. F. de Almeida, Ce Zhu, Yipeng Liu, "Implicit Neural Functional Tensor Train for Multivariate Function Approximation," Signal Processing, 2026.
+3. Jiani Liu, Huyan Huang, Ce Zhu, Yipeng Liu, "Coupled Tensor Ring Completion," IEEE Transactions on Big Data, 2026.
+4. Hang Zhang, Ruituo Wu, Chao Zhang, Xinyu Lin, Frederic Dufaux, Ce Zhu, Yipeng Liu, "TGA3D: Texture-Geometry Admixture with Explicit 3D for Single-Image Novel View Synthesis," IEEE Transactions on Multimedia, 2026.
+5. Yuan Fang, Yipeng Liu, Zhen Long, Chong-Yung Chi, Ce Zhu, "Unfolding Degradation-Aware Transformer for Low-Light Hyperspectral Image Super-Resolution," IEEE Transactions on Computational Imaging, 2026.
+6. Ruituo Wu, Jiani Liu, Bing Li, Anh-Huy Phan, Ivan V. Oseledets, Ce Zhu, Yipeng Liu, "TERM Model: Tensor Ring Mixture Model for Density Estimation," IEEE Transactions on Big Data, 2026.
+7. Yating Zhang, Mengyuan Liao, Zehua Wang, Zhonghan Xu, Bowen Li, Binbin Zhang, Buyi Xu, Rongji Yang, Guoyun Zhou, Chong Wang, Jiujuan Li, Yuanming Chen, Shouxu Wang, Wei He, Yipeng Liu, Yan Hong, "Ultrasound-assisted SERS Imaging for chemical Visualization and Matching of Etomidate Contaminated Fingerprint," Analytical Chemistry, 2026.
+8. Nikolay Kalmykov; Razan Dibo; Kaiyu Shen; Xu Zhonghan; Anh Huy Phan; Yipeng Liu; Ivan Oseledets, "T-MLA: A Targeted Multiscale Log--Exponential Attack Framework for Neural Image Compression," Information Sciences, 2026.
+9. Salman Ahmadi-Asl, Naeim Rezaeian, André L.F. de Almeida, Yipeng Liu, "Fast randomized Kronecker tensor decomposition: Algorithms and error analysis," Journal of the Franklin Institute, vol. 363, no. 14, article no. 108924, 2026.
+10. Razan Dibo, Anton Bibin, Ashish Jha, Yujun Du,  Zhonghan Xu, Yipeng Liu, Anhhuy Phan, "Perception-Aware Nonlinear Log-Exp Attack on Neural Image Compression," Neurocomputing, 2026. 
+11. Yixin Gou, Zhen Long, Jianqiang Wang, Yipeng Liu, Xinyu Lin, Junhui Hou, Ce Zhu, ``Appearance-Semantic balanced 3D Feature Gaussian Representation," The 34th ACM International Conference on Multimedia (ACM MM 2027), Rio de Janeiro, Brazil, 10–14 November 2026.
+12. Fei He, Houji Du, Da Shen, Qun Wan, Chao Zhang and Yipeng Liu, "Multi-Class Imagined Speech Decoding by Band-Metric EEG Tensor Decomposition," The 18th International Conference on Signal Processing Systems (ICSPS 2026), Xiamen, China, October 23-26, 2026.
+13. Mengyuan Liao, Yuan Fang, Shengxi Li, Xiaolin Huang, Ce Zhu, Yipeng Liu, "QPNET: Quaternion Physics-Driven Neural Network for Underwater Polarized Image Recovery," 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), Barcelona, Spain, 4-8 May 2026.
+14. Zhijie Sun, Kang Tan, Weiting Ou, Chao Zhang, Yimao Sun, Ce Zhu, Yipeng Liu, "Low-Rank Weighted Amplitude and Phase Fusion for CSI-Fingerprint Localization," 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), Barcelona, Spain, 4-8 May 2026.
+15. Hongwei Guo, Lei Luo, Yipeng Liu, Ce Zhu, "Intelligent Video Coding: Learning-Based Paradigms and Standardization Trends," 2026 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2026), João Pessoa, Brazil, July 8–11, 2026.
+16. Houji Du, Fei He, Bo Liu, Ce Zhu, Yipeng Liu, "Robust Brain Structure Characterization via Tensor Subspace Learning on Minimal Representative Subset," 2026 IEEE International Conference on Multimedia and Expo (ICME 2026), Bangkok, Thailand, July 5 - 9, 2026.
 
 #### 2025
 
