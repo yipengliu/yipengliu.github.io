@@ -36,7 +36,7 @@ redirect_from:
 7. university graduate teaching achievement awards, 2017, 2025
 8. university undergraduate teaching achievement award, 2025 
 9. Outstanding Master's Thesis Supervisor, 2020
-10. UESTC international cooperation and international education award, 2022 and 2025
+10. UESTC International Cooperation and Education Award, 2022 and 2025
 
 ## <a id="Services"></a>Services
 
