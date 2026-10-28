@@ -40,7 +40,7 @@ redirect_from:
 
 1. IEEE Transactions on Multimedia编委, 2026 至今
 2. IEEE Transactions on Image Processing编委，2025 至今
-3. IEEE Signal Processing Letters资深领域编委，2024 至今
+3. IEEE Signal Processing Letters资深领域编委，2024 - 2026
 4. IEEE信号处理协会多媒体信号处理（SPS MMSP）技术委员会委员，2026 - 2028
 5. IEEE信号处理协会计算成像（SPS CI）技术委员会委员，2025 - 2027
 6. IEEE电路与系统协会多媒体系统与应用(CASS MSA)技术委员会委员, 2024 - 2028
