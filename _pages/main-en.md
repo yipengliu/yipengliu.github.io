@@ -42,7 +42,7 @@ redirect_from:
 
 1. Associate Editor, IEEE Transactions on Multimedia, 2026 - Present
 2. Associate Editor, IEEE Transactions on Image Processing, 2025 - Present
-3. Senior Area Editor, IEEE Signal Processing Letters, 2024 - Present
+3. Senior Area Editor, IEEE Signal Processing Letters, 2024 - 2026
 4. Associate Editor, IEEE Signal Processing Letters, 2019 - 2024
 5. Member, IEEE Signal Processing Society Multimedia Signal Processing (SPS MMSP) Technical Committee, 2026 - 2028
 6. Member, IEEE Signal Processing Society Computational Imaging (SPS CI) Technical Committee, 2025 - 2027
