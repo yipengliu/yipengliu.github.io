@@ -62,8 +62,8 @@ redirect_from:
 
 1. Best Paper Award, 20th IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (IEEE BMSB 2025)
 2. Best Demo Award, 26th IEEE International Conference on Multimedia and Expo (ICME 2025)
-3. Second Prize, Sichuan Provincial Natural Science Award 2023 (ranked second)
-4. World's Top 2% Scientists, Stanford University and Elsevier, 2022, 2023, 2024
+3. Second Prize, Sichuan Provincial Natural Science Award 2023 (rank 2)
+4. World's Top 2% Scientists, Stanford University and Elsevier, 2022 - now
 5. Best Demo Award, 24th IEEE International Workshop on Multimedia Signal Processing (MMSP 2022)
 6. APSIPA Distinguished Lecturer for 2022-2023
 
@@ -74,7 +74,7 @@ redirect_from:
 
 Yipeng Liu is a full professor with school of information and communication engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China. He has studied and worked at UESTC, Huawei Technologies and University of Leuven. 
 
-His research interest is tensor computations for signal processing. He has published over 100 papers, coauthored two books, “Tensor Computation for Data Analysis” by Springer and “Tensor Regression” in Foundations and Trends® in Machine Learning, and edited one book “Tensors for Data Processing” by Elsevier. He has received the IEEE BMSB 2025 Best Paper Award, and IEEE ICME 2025 Best Demo Award. He has been an associate editor for IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, and a senior area editor for IEEE Signal Processing Letters. He has delivered 6 tutorials for IEEE flagship conferences, and he is the APSIPA Distinguished Lecturer 2022-2023.
+His research interest is tensor computations for signal processing. He has published over 100 papers, coauthored two books, “Tensor Computation for Data Analysis” by Springer and “Tensor Regression” in Foundations and Trends® in Machine Learning, and edited one book “Tensors for Data Processing” by Elsevier. He has received the IEEE BMSB 2025 Best Paper Award, and IEEE ICME 2025 Best Demo Award. He has been an associate editor for IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, and a senior area editor for IEEE Signal Processing Letters. He has delivered 7 tutorials for IEEE flagship or top AI conferences, and he is the APSIPA Distinguished Lecturer 2022-2023.
 
 ## <a id="Publications"></a>Publications
 
@@ -246,7 +246,7 @@ His research interest is tensor computations for signal processing. He has publi
 6. Chao Zhang, Ce Zhu, Jimin Xiao, Xun Xu, Yipeng Liu, “Image ordinal classification and understanding: grid dropout with masking label,” The 19th IEEE International Conference on Multimedia and Expo (ICME 2018), San Diego, CA, USA, Jul. 23-27, 2018.
 7. Longxi Chen, Yipeng Liu, Ce Zhu, “Robust tensor principal component analysis in all modes,” The 19th IEEE International Conference on Multimedia and Expo (ICME 2018), San Diego, CA, USA, Jul. 23-27, 2018.
 8. Sung-han Lin, Wen-Chuin Hsu, Chin-Chang Huang, Yi-Chun Chen, Yao-Liang Chen, Jur-Shan Cheng, Chih-Chien Tsai, Yipeng Liu, and Jiun-Jie Wang, "Differential Diagnosis in Alzheimer’s Disease and Mild Cognitive Impairment using Discriminant Function Analysis," ISMRM Workshop on Machine Learning,  Pacific Grove, CA, USA, March 14-17, 2018.
-9. Fan Huang , Sung-han Lin , Chin-Song Lu , Yi-Hsin Weng , Yao-Liang Chen , Shu-Hang Ng , Yi-Ming Wu , Chih-Chien Tsai , Yipeng Liu , and Jiun-Jie Wang, "Differential diagnosis in Parkinsonism using diffusion tensor as measured from multiple cortical regions," Joint Annual Meeting ISMRM-ESMRMB, Paris, France, 16-21 June 2018.
+9. Fan Huang , Sung-han Lin, Chin-Song Lu , Yi-Hsin Weng , Yao-Liang Chen , Shu-Hang Ng , Yi-Ming Wu , Chih-Chien Tsai , Yipeng Liu , and Jiun-Jie Wang, "Differential diagnosis in Parkinsonism using diffusion tensor as measured from multiple cortical regions," Joint Annual Meeting ISMRM-ESMRMB, Paris, France, 16-21 June 2018.
 
 #### 2017
 
