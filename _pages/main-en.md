@@ -51,8 +51,7 @@ redirect_from:
 9. Lead Guest Editor, Signal Processing: Image Communication, special issue on Tensor Image Processing, 2017 - 2019
 10. Guest Editor, Journal of Systems Engineering and Electronics (English Edition), 2022 - 2024
 11. Technical Program Chair, The 7th International Forum on Signal Processing (IFSP 2027), Chengdu, China, July 9 - 11, 2027
-12. Senior PC member, The 41st Annual AAAI Conference on Artificial Intelligence, Montréal, Canada, February 16 – 23, 2027
-13. Lead Chair, ICME 2026 workshop on Surveillance Data Processing, 2026
+12. Lead Chair, ICME 2026 workshop on Surveillance Data Processing, 2026
 14. Publicity Chair, ICASSP 2025 Satellite Event Suzhou, China, 2025
 15. Publicity Chair, The 17th International Conference on Signal Processing Systems (ICSPS 2025), Chengdu, China, October 24 - 26, 2025.
 16. Lead Chair, ICME 2025 workshop on Big Surveillance Data Analysis and Processing, 2025
