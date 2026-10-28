@@ -27,9 +27,9 @@ redirect_from:
 
 ## <a id="Teaching"></a>Teaching
 
-1. undergraduate course: Signals and Analysis and Processing, 2024 spring - present
-2. undergraduate course: Signals and Systems, 2016 spring - 2023 spring
-3. undergraduate course: Multimedia Intelligent Human-Computer Interaction, 2022 spring and autumn - present
+1. undergraduate course: Multimedia Intelligent Human-Computer Interaction, 2022 spring and autumn - present
+2. undergraduate course: Signals and Analysis and Processing, 2024 spring - 2026 spring
+3. undergraduate course: Signals and Systems, 2016 spring - 2023 spring
 4. graduate course: Optimization Theory and Applications, 2015 autumn - 2020 autumn
 5. doctoral course: Frontiers in Signal and Information Processing, 2023 spring - present
 6. online undergraduate course: Digital Image Processing, https://www.xuetangx.com/course/uestc08071213dipintl/26055209, 2025 autumn - present
